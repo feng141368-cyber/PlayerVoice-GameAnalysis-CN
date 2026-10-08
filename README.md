@@ -1,249 +1,175 @@
 # PlayerVoice
 
-**An evidence-backed game research skill for players, creators and analysts.**
+![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+[![Tests](https://github.com/feng141368-cyber/PlayerVoice-GameAnalysis-CN/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/feng141368-cyber/PlayerVoice-GameAnalysis-CN/actions/workflows/tests.yml)
+[![149 tests](https://img.shields.io/badge/tests-149%20passing-brightgreen)](docs/PLAYERVOICE_MODE_LAYER_IMPLEMENTATION_REVIEW.md)
+[![License: MIT](https://img.shields.io/github/license/feng141368-cyber/PlayerVoice-GameAnalysis-CN)](LICENSE)
 
-**Search a game once. Understand how it runs, how it plays, what changed, what players think, and why it matters.**
+**Evidence-backed game research, from a game name to traceable player insight.**
 
-PlayerVoice starts with a game name and builds a traceable research corpus from
-verified game facts and public community discussion. One Intelligence Core
-serves four interfaces: Player, Creator, public-corpus Analyst, and Compare.
-Authorised private data remains a later interface/spec, not a capability claim.
+PlayerVoice resolves multilingual game names, retrieves official facts and public community evidence, then turns relevant evidence into inspectable insights for players, creators, and analysts. 四种使用视角共享同一个 Intelligence Core；结论保留来源、样本范围与不确定性。
 
-This repository contains the working Issues 1–10 Intelligence Core, the Issue
-10.5 quality gate, and the current phase's Issue 11–14 Mode layer:
+## The Problem It Solves
 
-`Game Name → Resolver → Alias Validation → Query Plans → Official Fact Layer`
-
-`Query Plan → Source Adapter → Relevant Corpus → Structured Insight → Original Evidence`
-
-`Shared Intelligence Core → Player / Creator / Analyst / Compare`
-
-Implementation intentionally stops before Issue 15. Patch Intelligence,
-private ingestion, dashboards, API servers, vector databases, and enterprise
-infrastructure are not implemented.
-
-The frozen design and implementation backlog are documented in:
-
-- [`SPECIFICATION.md`](SPECIFICATION.md) — product boundaries and mode contracts;
-- [`ARCHITECTURE.md`](ARCHITECTURE.md) — target system design and repo tree;
-- [`DATA_SCHEMA.md`](DATA_SCHEMA.md) — entity, fact, evidence, insight, patch, and private-data contracts;
-- [`config/taxonomy.yaml`](config/taxonomy.yaml) — cross-game core taxonomy with genre extensions;
-- [`ISSUES.md`](ISSUES.md) — ordered Copilot-ready implementation backlog.
-
-| Capability | Status | Evidence |
-| --- | --- | --- |
-| Resolver, aliases, query plans, Fact Layer | Implemented | 57-test Issue 1–5 baseline and `examples/foundation/` |
-| Source adapters and query provenance | Implemented | Steam/Bilibili live; Reddit OAuth-aware; restricted-source stubs |
-| Relevance, corpus, deduplication | Implemented | SQLite Evidence Store, review queue, retained query links |
-| Taxonomy and UGC annotations | Implemented baseline | Versioned transparent bilingual rules and `annotations.jsonl` |
-| Evidence-linked insights and coverage | Implemented baseline | `examples/e2e/` reports with source traceback |
-| Corpus & Taxonomy quality gate | Implemented | Full 39-item audit; precision-first `other_unclassified` handling |
-| Player / Creator / public Analyst / Compare Modes | Implemented | Shared core, typed outputs, CLI, JSON/Markdown demos |
-| Private data, Patch Intelligence, dashboard/API/vector DB | Not implemented | Explicitly deferred to Issue 15+ |
-
-Run the new foundation slice without collecting UGC:
-
-```bash
-python scripts/gamepulse.py foundation --game "无限暖暖" --locale zh-CN
-python scripts/gamepulse.py plan --game "Counter-Strike 2" --languages zh-CN,en
-```
-
-Three live Issue 1–5 outputs are checked in under [`examples/foundation/`](examples/foundation/). See the [Issue 1–5 Implementation Review](docs/ISSUE_1_5_IMPLEMENTATION_REVIEW.md) for test results, limitations and the real/interface boundary.
-
-Run the complete Issue 1–10 slice:
-
-```bash
-python scripts/gamepulse.py voice-slice \
-  --game "无限暖暖" \
-  --output examples/e2e/infinity-nikki
-```
-
-Live outputs for Infinity Nikki, PUBG: BATTLEGROUNDS, and Counter-Strike 2 are
-checked in under [`examples/e2e/`](examples/e2e/). See the
-[Issue 6–10 Implementation Review](docs/ISSUE_6_10_IMPLEMENTATION_REVIEW.md)
-and [Issue 10 design notes](docs/insights.md).
-
-Render Modes from an existing Intelligence Core result without recollecting or
-reclassifying data:
-
-```bash
-python scripts/gamepulse.py mode \
-  --mode player \
-  --input-dir examples/e2e/infinity-nikki \
-  --preferences "我每天只有一个小时，喜欢剧情和画面，不喜欢重 PvP" \
-  --output examples/modes/player/infinity-nikki
-
-python scripts/gamepulse.py mode \
-  --mode compare \
-  --input-dir examples/e2e/infinity-nikki \
-  --input-dir examples/e2e/pubg-battlegrounds \
-  --input-dir examples/e2e/counter-strike-2 \
-  --output examples/modes/compare/technical-three-games
-```
-
-See the [Mode Layer Implementation Review](docs/PLAYERVOICE_MODE_LAYER_IMPLEMENTATION_REVIEW.md),
-the [taxonomy gap analysis](docs/taxonomy_gap_analysis.md), and the individual
-Issue 11–14 reviews for real outputs and limitations.
-
-```bash
-python scripts/gamepulse.py run --game "Tower of Fantasy"
-python scripts/gamepulse.py run --game "无限暖暖"
-```
-
-The legacy `run` command remains available for compatibility. New Issue 6–10
-validation and evidence-linked output use the `voice-slice` command.
-
-![Real cross-source issue priorities](reports/tower-of-fantasy/issue_priorities.png)
-
-## What is real in this repository?
-
-The committed example report contains **327 real public records** collected for *Tower of Fantasy*:
-
-| Source | Records | Collection route |
-| --- | ---: | --- |
-| Steam | 300 | Store review endpoint, resolved from the game name |
-| Bilibili | 27 | Video search for `幻塔`, followed by public reply collection |
-
-See the [live report](reports/tower-of-fantasy/voice_of_player_report.md), [source manifest](data/raw/latest_manifest.json), and [normalized dataset](data/processed/voice.csv).
-
-Synthetic behavioural telemetry from the first prototype is retained only under [`demo/`](demo/) for offline SQL demonstrations. It is not presented as the core product.
-
-## Platform coverage
-
-| Platform | Game-name discovery | Comment collection | Access model |
-| --- | --- | --- | --- |
-| Steam | Automatic | Automatic | Public endpoint; live-tested |
-| Bilibili | Automatic using Chinese alias | Automatic | Public web endpoints; live-tested and rate-limited |
-| Reddit | Automatic global/subreddit search | Automatic | Official OAuth credentials |
-| YouTube | Automatic video search | Automatic | Official Data API key and quota |
-| Weibo | Search through approved Open/Commercial API | Automatic when approved | API scope/token or authorized export |
-| Xiaohongshu | Licensed provider or authorized session | Provider/session dependent | Authorized export fallback |
-| Douyin | Approved Open/Game Partner API or provider | Scope dependent | Authorized export fallback |
-| Discord | Channel selected by owner/admin | Import messages | Authorized export or bot access |
-
-GamePulse does not bypass login, CAPTCHA, rate limits, or platform access controls. Restricted platforms are shown as `unavailable` until valid access or an authorized export is provided. This is deliberate: a useful monitoring tool must distinguish missing data from negative evidence.
-
-## Intelligence Core
-
-```mermaid
-flowchart TD
-    A["Game name"] --> B["Game identity and aliases"]
-    B --> C["Facts and community retrieval"]
-    C --> D["Relevance and corpus"]
-    D --> E["UGC and evidence intelligence"]
-    E --> F["Player / Creator / Analyst / Compare"]
-```
-
-For example, the discovery layer can resolve an English title to a Chinese platform query (`Tower of Fantasy → 幻塔`) or use an English alias for global search (`无限暖暖 → Infinity Nikki`) when current public metadata supplies it. A fixed YAML config can override incomplete aliases.
-
-Preview discovery without collecting:
-
-```bash
-python scripts/gamepulse.py discover --game "Tower of Fantasy"
-```
-
-## Installation
-
-```bash
-python -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-```
-
-Optional credentials are read from environment variables and are never written to the dataset:
-
-```bash
-export REDDIT_CLIENT_ID="..."
-export REDDIT_CLIENT_SECRET="..."
-export YOUTUBE_API_KEY="..."
-export WEIBO_PROVIDER_ENDPOINT="https://provider.example/weibo/search"
-export WEIBO_ACCESS_TOKEN="..."
-```
-
-Use [`config/example.yml`](config/example.yml) when you need fixed aliases, limits, source selection, or repeatable monitoring:
-
-```bash
-python scripts/gamepulse.py run --config config/example.yml --fresh
-```
-
-## Restricted Chinese platforms and community data
-
-Weibo, Xiaohongshu, and Douyin do not offer the same unrestricted general comment-search route as Steam. GamePulse includes executable adapters for approved platform/provider access, plus a portable authorized-export route. After the relevant endpoint and token are configured once, the normal `run --game` command sends the resolved Chinese game alias as the search query.
-
-The provider endpoint contract is documented in [`docs/provider_contract.md`](docs/provider_contract.md). It is intentionally vendor-neutral, so an approved in-house gateway or licensed data supplier can be connected without changing the analysis pipeline.
-
-```bash
-python scripts/gamepulse.py import \
-  --game "无限暖暖" \
-  --platform xiaohongshu \
-  --file exports/xhs_comments.csv
-
-python scripts/gamepulse.py analyze --game "无限暖暖"
-```
-
-The normalized CSV requires `id`, `timestamp`, and `content`; it can optionally include `channel`, `reactions`, `url`, `reply_to`, and `language`. DiscordChatExporter-style JSON is also supported.
-
-## Current baseline outputs
-
-Every `voice-slice` run creates:
-
-- raw, privacy-minimized JSONL snapshots by source;
-- a SQLite Evidence Store with one evidence item and many retained query links;
-- a collection manifest with collected/partial/unavailable/disabled status;
-- versioned `annotations.jsonl` output;
-- explicit relevance and duplicate counts;
-- a 12-point decision-support priority with component scores;
-- a Markdown report plus a machine-readable result with evidence traceback.
-
-The priority score combines volume, negative proxy, momentum, and cross-source breadth. It is explicitly an investigation queue—not a claim that public discussion represents all players or causes retention/revenue changes.
-
-Every `mode` run then consumes those saved artifacts through
-`load_core_snapshot()` and emits a typed response plus a Markdown report. Modes
-do not own a second retrieval or classification pipeline. Missing evidence is
-rendered as uncertain/insufficient instead of neutral fit or a synthetic score.
-
-## Current repository map
+Game titles and aliases vary by language, while store facts and player opinions come from different sources. PlayerVoice connects those steps without treating missing data as a negative finding or presenting a self-selected public sample as representative.
 
 ```text
-gamepulse/
-├── gamepulse/collectors/             # APIs, public routes, providers, exports
-├── gamepulse/modes/                  # shared-core audience renderers
-├── scripts/gamepulse.py              # name-first CLI
-├── skill/game-voice-intelligence/    # portable Agent Skill
-├── config/                            # reproducible source configuration
-├── data/raw/                          # source snapshots and manifests
-├── data/processed/                    # unified player-voice dataset
-├── reports/                           # evidence-linked reports and charts
-├── tests/                             # normalization and analysis tests
-└── demo/                              # optional synthetic SQL prototype
+Game Name → Resolver → Alias Validation → Query Plan → Real Community Evidence
+→ Relevance Filter → Deduplicated Corpus → Structured Insight → Original Source
 ```
 
-## Validation
+Official facts are retrieved as a separate Fact Layer; they are not mixed with player evidence. The runnable path is:
+
+```mermaid
+flowchart LR
+    A[Game name] --> B[Resolver]
+    B --> C[Alias validation]
+    C --> D[Multilingual query plans]
+    D --> E[Official fact retrieval]
+    D --> F[Community source adapters]
+    E --> G[Fact Layer]
+    F --> H[Normalized evidence]
+    H --> I[Relevance filter]
+    I --> J[Deduplicated corpus]
+    J --> K[Annotations and bounded Insights]
+    G --> L[Saved Intelligence Core]
+    K --> L
+    L --> M[Player]
+    L --> N[Creator]
+    L --> O[Analyst]
+    L --> P[Compare]
+    M -. evidence IDs .-> Q[Evidence Store]
+    N -. evidence IDs .-> Q
+    O -. evidence IDs .-> Q
+    P -. evidence IDs .-> Q
+    Q -. source URL or reference .-> R[Original source]
+```
+
+The diagram describes the current implementation: Modes render a saved core snapshot; they do not launch four independent collection pipelines. See [Architecture](ARCHITECTURE.md), [Data Schema](DATA_SCHEMA.md), [Specification](SPECIFICATION.md), and [Issue backlog](ISSUES.md).
+
+## Two Runnable Slices
+
+| Slice | What it does | Example |
+| --- | --- | --- |
+| Foundation (Issues 1–5) | Resolve identity, validate aliases, build safe multilingual plans, retrieve sourced Steam facts; does not collect UGC. | [`examples/foundation/`](examples/foundation/) |
+| Voice Slice (Issues 1–10) | Collect community evidence, record coverage, filter and deduplicate, annotate, and generate evidence-linked Insights. | [`examples/e2e/`](examples/e2e/) |
+| Mode Layer (Issues 10.5–14) | Render a saved Voice Slice snapshot for one audience or compare multiple games. | [`examples/modes/`](examples/modes/) |
+
+The two end-to-end commands and a no-recollection Mode render are shown in [Quick Start](#quick-start). Voice Slice collection uses live public routes and can be partial because of credentials, rate limits, or source availability.
+
+## Modes
+
+All four Modes load the same Intelligence Core snapshot, including its facts, evidence store, annotations, Insights, and source coverage.
+
+| Mode | Target user | Main output | Evidence handling | Uncertainty handling |
+| --- | --- | --- | --- | --- |
+| **Player** | Players evaluating fit or practical requirements | Fact and player-evidence summary, preference profile, dimension-level fit | Claims link to Fact/Insight IDs and underlying evidence | Unsupported preferences stay uncertain; no universal recommendation score |
+| **Creator** | Game creators and researchers | Praise, complaints, supported controversy, research questions and gaps | Each claim cites evidence; controversy requires distinct evidence for both positions | Weak disagreement is not promoted to controversy; questions are not findings |
+| **Analyst** | Product and research analysts | Evidence-to-interpretation chains, requests, needs, expressed intent, hypotheses | Each stage carries epistemic status and evidence IDs | Public statements are not observed behaviour; business impact remains hypothesis |
+| **Compare** | Players, creators, or analysts comparing games | Aligned Fact and taxonomy dimensions with sample coverage | Cells retain evidence, source/language mix, dates, and confidence | Thin or imbalanced samples are insufficient or caution-labelled; no winner score |
+
+Runnable JSON and Markdown outputs are in [`examples/modes/`](examples/modes/). Individual implementation reviews: [Player](docs/ISSUE_11_IMPLEMENTATION_REVIEW.md), [Creator](docs/ISSUE_12_IMPLEMENTATION_REVIEW.md), [Analyst](docs/ISSUE_13_IMPLEMENTATION_REVIEW.md), and [Compare](docs/ISSUE_14_IMPLEMENTATION_REVIEW.md).
+
+## Real Validation
+
+The checked-in Issue 6–10 runs use retrieved public community records, not synthetic demo data. Counts below describe those particular snapshots, not player populations or current platform-wide totals.
+
+| Game | Raw community items | Unique after deduplication | Relevant corpus | Checked-in report |
+| --- | ---: | ---: | ---: | --- |
+| Infinity Nikki | 52 | 32 | 26 | [`evidence_report.md`](examples/e2e/infinity-nikki/evidence_report.md) |
+| PUBG: BATTLEGROUNDS | 43 | 23 | 20 | [`evidence_report.md`](examples/e2e/pubg-battlegrounds/evidence_report.md) |
+| Counter-Strike 2 | 46 | 16 | 10 | [`evidence_report.md`](examples/e2e/counter-strike-2/evidence_report.md) |
+
+These runs show why the relevance and provenance steps matter: ambiguous aliases are scoped, unrelated search results are excluded, and duplicate returns retain their query links without inflating the corpus. The checked-in three-game comparison marks all community dimensions insufficient where its evidence floor is not met; it does not force a ranking. See the [Issue 1–5 review](docs/ISSUE_1_5_IMPLEMENTATION_REVIEW.md), [Issue 6–10 review](docs/ISSUE_6_10_IMPLEMENTATION_REVIEW.md), and [Mode Layer review](docs/PLAYERVOICE_MODE_LAYER_IMPLEMENTATION_REVIEW.md) for methods and audits.
+
+## Key Capabilities
+
+- Multilingual game resolution and evidence-backed alias discovery with ambiguity-safe search.
+- Multilingual, source-aware query planning and official/store Fact retrieval.
+- Community adapters for Steam and Bilibili; an OAuth-aware Reddit adapter.
+- Relevance filtering, reviewable exclusions, source-ID deduplication, and a normalized corpus with retained query provenance.
+- Versioned taxonomy annotation and evidence-linked, bounded Insights.
+- Player, Creator, public-corpus Analyst, and Compare renderers on the shared Intelligence Core.
+
+## Evidence Traceability
+
+Every rendered conclusion can be followed as:
+
+```text
+Insight → Evidence ID → stored original text and provenance → Original Source URL/reference
+```
+
+The [Evidence Store review](docs/evidence_store.md) describes storage and lookup. The report renderer validates references rather than merely printing evidence-looking IDs.
+
+Keep these layers and labels distinct:
+
+| Label | Meaning |
+| --- | --- |
+| **Fact Layer** | Sourced, verifiable claims such as platform support or system requirements. |
+| **Player Evidence Layer** | Public community records and Insights derived from them; not official facts. |
+| **Observed** | What a source states, including an explicit request or expressed intent. It does not prove the described action occurred. |
+| **Inferred** | A taxonomy label, pain point, need, or opportunity interpreted from evidence. |
+| **Hypothesis** | Possible product or business relevance that requires separate validation. |
+
+Analyst output labels behavioural statements as **expressed intent**, not observed churn. A complaint or association is not evidence of causation.
+
+## Quick Start
+
+Requires Python 3.12 as configured in [CI](.github/workflows/tests.yml). The commands below use the existing `scripts/gamepulse.py` CLI.
+
+### Windows PowerShell
+
+```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
+py -3 -m pip install -r requirements.txt
+py -3 -m unittest discover -s tests -v
+
+# Foundation: identity, aliases, query plans, and facts; no community collection.
+py -3 scripts/gamepulse.py foundation --game "无限暖暖" --locale zh-CN
+
+# Voice Slice: live community collection; source results may be partial.
+py -3 scripts/gamepulse.py voice-slice --game "无限暖暖" --output runs/infinity-nikki
+
+# Render Player Mode from the checked-in snapshot; no recollection.
+py -3 scripts/gamepulse.py mode --mode player --input-dir examples/e2e/infinity-nikki --preferences "我每天只有一个小时，喜欢剧情和画面，不喜欢重 PvP" --output runs/player-infinity-nikki
+```
+
+### Generic Python
 
 ```bash
-python -m unittest discover -s tests -v
-python skill/game-voice-intelligence/scripts/validate_run.py \
-  data/raw/latest_manifest.json \
-  reports/tower-of-fantasy/analysis_summary.json
+python3 -m venv .venv
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+python3 -m unittest discover -s tests -v
+
+python3 scripts/gamepulse.py foundation --game "无限暖暖" --locale zh-CN
+python3 scripts/gamepulse.py voice-slice --game "无限暖暖" --output runs/infinity-nikki
+python3 scripts/gamepulse.py mode --mode player --input-dir examples/e2e/infinity-nikki --preferences "我每天只有一个小时，喜欢剧情和画面，不喜欢重 PvP" --output runs/player-infinity-nikki
 ```
 
-The validator checks that report claims agree with the collection manifest and that unclassified `Other` records are not promoted into product priorities.
+The committed baseline is **149 tests**; the CI workflow runs the same unittest suite. `voice-slice` accesses configured/public source routes. Reddit requires OAuth credentials; Bilibili may return partial or rate-limited results. Failures are recorded as unavailable/partial rather than interpreted as no player feedback. The Mode command reads the existing snapshot and does not need source credentials.
 
-The complete standard-library suite currently passes **149/149** tests,
-including Mode evidence traceback, controversy thresholds, strict behaviour
-language, comparison coverage gates, and the `FPS game` versus frame-rate
-precision regression.
+## Implemented vs Deferred
 
-## Skills demonstrated
+| State | Scope |
+| --- | --- |
+| **Implemented** | Resolver and alias validation; bilingual query planning; Steam Fact retrieval; Steam/Bilibili collection adapters; relevance decisions; SQLite Evidence Store, deduplication, and query links; versioned baseline annotations; evidence-linked Insights and coverage; all four shared-core Modes and CLI outputs. |
+| **Partially implemented** | Transparent taxonomy and bilingual rules have limited long-tail/slang recall; Bilibili availability is variable; Reddit adapter execution needs OAuth and was unavailable in the cited validation. |
+| **Interface/spec only** | Restricted-source connections without approved credentials/provider/export; authorized private-data ingestion and private/public joins. Contracts and unavailable/fallback boundaries do not mean a connected service or enterprise workflow exists. |
+| **Deferred / not implemented** | Dashboard, API server, vector database, private enterprise ingestion, Patch Intelligence or causal patch analysis, and Issue 15+ features. |
 
-`Python` · `API integration` · `OAuth` · `data normalization` · `incremental ETL` · `multilingual text analysis` · `cross-platform research` · `Agent Skills` · `product insight` · `responsible data collection`
+No adapter bypasses login, CAPTCHA, rate limits, or platform access controls. Authorized exports or approved providers are required where a source restricts access; graceful fallback and truthful coverage are intentional behavior. No Issue 15 work is included in this repository state.
 
-## Responsible use
+## Portfolio Highlights
 
-- Collect only public content or data the user is authorized to access.
-- Respect API terms, rate limits, authentication, deletion, and privacy requirements.
-- Do not commit credentials or unnecessary user identifiers.
-- Treat platform search results as biased samples.
-- Human-review evidence before making a product or moderation decision.
+- Modular Python architecture with one shared Intelligence Core.
+- Unified typed domain models and checked-in JSON Schemas.
+- Provenance-first evidence storage and executable Insight traceback.
+- Multilingual resolution, query planning, and baseline annotation.
+- Ambiguity-safe alias validation and deterministic failure states.
+- Deterministic, network-independent tests; **149/149 baseline**.
 
-Code and original documentation are released under the MIT License. Third-party content remains subject to its source platform and author rights.
+Design and implementation references: [Architecture](ARCHITECTURE.md), [Data Schema](DATA_SCHEMA.md), [taxonomy](config/taxonomy.yaml), [source adapter contract](docs/source_adapters.md), [taxonomy gap analysis](docs/taxonomy_gap_analysis.md), and [UGC annotation notes](docs/ugc_annotations.md).
+
+Synthetic behavioural telemetry is retained only under [`demo/`](demo/) for offline SQL demonstrations. Third-party source content remains subject to its platform and author rights. The code and original documentation are licensed under [MIT](LICENSE).
