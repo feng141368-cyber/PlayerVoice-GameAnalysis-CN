@@ -1,0 +1,39 @@
+{
+  "facts": {
+    "current_version": "6.2",
+    "developers": ["Hotta Studio"],
+    "input_support": {
+      "PlayStation 5": {"controller": "DualSense"}
+    },
+    "platforms": ["PlayStation 5"],
+    "publishers": ["Perfect World Games"],
+    "release_dates": {
+      "PlayStation 5": "2023-08-08"
+    },
+    "requirements": {
+      "Windows": {
+        "minimum": "Windows 10; 8 GB RAM; GTX 1060",
+        "recommended": "Windows 10; 16 GB RAM; RTX 2060"
+      }
+    },
+    "storage": {
+      "Windows": {"amount": 40, "tier": "recommended", "unit": "GB"}
+    },
+    "supported_languages": ["en", "zh-CN", "ja"],
+    "titles": {"en": "Tower of Fantasy", "zh-CN": "幻塔"}
+  },
+  "original_text": "Official Tower of Fantasy product and support metadata fixture.",
+  "patch_references": [
+    {
+      "source_content_id": "patch-6.2",
+      "title": "Version 6.2 Update",
+      "url": "https://example.test/official/patch-6-2",
+      "version": "6.2"
+    }
+  ],
+  "retrieved_at": "2026-09-29T00:00:00Z",
+  "source": "tower_of_fantasy_official",
+  "source_content_id": "official-product-page",
+  "source_url": "https://example.test/official/tower-of-fantasy",
+  "territory": "global"
+}

@@ -1,0 +1,3 @@
+id,timestamp,content,channel,reactions,url
+1,2026-09-01T12:00:00Z,The new outfit price is too expensive,general,4,https://example.test/1
+2,2026-09-02T12:00:00Z,更新之后一直闪退和卡顿,general,7,https://example.test/2

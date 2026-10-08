@@ -1,0 +1,690 @@
+{
+  "request_id": "analyst_infinity_nikki_real",
+  "mode": "analyst",
+  "game_ids": [
+    "game_wikidata_q126199544"
+  ],
+  "payload": {
+    "game_id": "game_wikidata_q126199544",
+    "game_title": "无限暖暖",
+    "data_scope": "public_corpus_only",
+    "observed_behaviour_data_available": false,
+    "findings": [
+      {
+        "finding_id": "analyst_e74418fea081827c3397",
+        "evidence": {
+          "status": "observed",
+          "value": "这游戏就是坨大便。玩不明白，而且，剧情太尴尬了。本质处女幻想。",
+          "evidence_ids": [
+            "ev_0f131e4cbbeb7e4e4148"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "story",
+          "evidence_ids": [
+            "ev_0f131e4cbbeb7e4e4148"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible engagement and satisfaction relevance",
+            "evidence_ids": [
+              "ev_0f131e4cbbeb7e4e4148"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 5,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.4,
+              "score_0_to_3": 2
+            },
+            "momentum": {
+              "value": 3.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 9,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        }
+      },
+      {
+        "finding_id": "analyst_28c1210088a86b2bc8ce",
+        "evidence": {
+          "status": "observed",
+          "value": "二游文案有一个算一个都可以枪毙了，什么狗屎谜语人矫揉造作不知所云，我是来换衣服的，不是来看傻逼文案的啊",
+          "evidence_ids": [
+            "ev_b9490334b6abcae1e105"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "story",
+          "evidence_ids": [
+            "ev_b9490334b6abcae1e105"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible engagement and satisfaction relevance",
+            "evidence_ids": [
+              "ev_b9490334b6abcae1e105"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 5,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.4,
+              "score_0_to_3": 2
+            },
+            "momentum": {
+              "value": 3.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 9,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        }
+      },
+      {
+        "finding_id": "analyst_6f1dd6fdf8253e64a054",
+        "evidence": {
+          "status": "observed",
+          "value": "I downloaded this it won't play just freezes can't even get past the download",
+          "evidence_ids": [
+            "ev_b3c11c7fa55e4a4df600"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "bugs_stability",
+          "evidence_ids": [
+            "ev_b3c11c7fa55e4a4df600"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible satisfaction and retention relevance",
+            "evidence_ids": [
+              "ev_b3c11c7fa55e4a4df600"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 4,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.25,
+              "score_0_to_3": 1
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "bilibili",
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 2
+            }
+          },
+          "total_0_to_12": 6,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        }
+      },
+      {
+        "finding_id": "analyst_f709cedc50b13a2b0bff",
+        "evidence": {
+          "status": "observed",
+          "value": "显卡gpu占用率只有10% cpu吃满 直接闪退了 怎么解决啊",
+          "evidence_ids": [
+            "ev_09a089defc36b773b2fc"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "bugs_stability",
+          "evidence_ids": [
+            "ev_09a089defc36b773b2fc"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [
+          {
+            "status": "expressed_intent",
+            "value": "player_stated_bug_report",
+            "evidence_ids": [
+              "ev_09a089defc36b773b2fc"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          }
+        ],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible satisfaction and retention relevance",
+            "evidence_ids": [
+              "ev_09a089defc36b773b2fc"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": null
+      },
+      {
+        "finding_id": "analyst_4ee6fe40a0bd3ba21618",
+        "evidence": {
+          "status": "observed",
+          "value": "不开光追没事，开了光追容易闪退是不是爆显存了[doge]",
+          "evidence_ids": [
+            "ev_2b48b9cc8f39ba407a56"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "bugs_stability",
+          "evidence_ids": [
+            "ev_2b48b9cc8f39ba407a56"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [
+          {
+            "status": "expressed_intent",
+            "value": "player_stated_bug_report",
+            "evidence_ids": [
+              "ev_2b48b9cc8f39ba407a56"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          }
+        ],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible satisfaction and retention relevance",
+            "evidence_ids": [
+              "ev_2b48b9cc8f39ba407a56"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": null
+      },
+      {
+        "finding_id": "analyst_e57022afb4b2260bdf14",
+        "evidence": {
+          "status": "observed",
+          "value": "换地图老是闪退报错[辣眼睛][辣眼睛][辣眼睛]",
+          "evidence_ids": [
+            "ev_49f6b97180e526f32cef"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "bugs_stability",
+          "evidence_ids": [
+            "ev_49f6b97180e526f32cef"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [],
+        "underlying_needs": [],
+        "expressed_behaviour_signals": [
+          {
+            "status": "expressed_intent",
+            "value": "player_stated_bug_report",
+            "evidence_ids": [
+              "ev_49f6b97180e526f32cef"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          }
+        ],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible satisfaction and retention relevance",
+            "evidence_ids": [
+              "ev_49f6b97180e526f32cef"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [],
+        "explicit_feature_requests": [],
+        "priority": null
+      },
+      {
+        "finding_id": "analyst_1e1982ae7c9fc0e593dc",
+        "evidence": {
+          "status": "observed",
+          "value": "It's not bad just stay away from using irl money for the gachas",
+          "evidence_ids": [
+            "ev_0fb6696dee2499b24684"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "gacha",
+          "evidence_ids": [
+            "ev_0fb6696dee2499b24684"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [
+          {
+            "status": "inferred",
+            "value": "it's not bad just stay away from using irl money for the gachas",
+            "evidence_ids": [
+              "ev_0fb6696dee2499b24684"
+            ],
+            "caveat": "Pain point extracted from the player statement; severity/prevalence is not established."
+          }
+        ],
+        "underlying_needs": [
+          {
+            "status": "inferred",
+            "value": "transparent and fair acquisition mechanics",
+            "evidence_ids": [
+              "ev_0fb6696dee2499b24684"
+            ],
+            "caveat": "Underlying need is an interpretation, not a direct player quote."
+          }
+        ],
+        "expressed_behaviour_signals": [],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible monetisation trust and payment relevance",
+            "evidence_ids": [
+              "ev_0fb6696dee2499b24684"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [
+          {
+            "status": "inferred",
+            "value": "Investigate how to meet the underlying need: transparent and fair acquisition mechanics.",
+            "evidence_ids": [
+              "ev_0fb6696dee2499b24684"
+            ],
+            "caveat": "This opportunity is inferred from public player evidence."
+          }
+        ],
+        "explicit_feature_requests": [],
+        "priority": null
+      },
+      {
+        "finding_id": "analyst_8123526b622aed67a90b",
+        "evidence": {
+          "status": "observed",
+          "value": "想玩的可以看看我的测评。 这是我第一次在steam上写测评，因为我电脑玩了500+小时，手机端也是500+，但最近想要卸载电脑端，所以来留下一个测评。我会尽量客观的阐明这个游戏的优缺点。 先说优点吧，毕竟玩了这么久。 第一，无限暖暖的服装确实是比较好看的，而且一直在更新中，衣柜比较大。虽然还有很多功能（类似自由调整）没有搬上来，但我一直是抱有希望的。 第二，拍照系统。喜欢拍照的人应该会很喜欢，比如时停抓拍啦，比如内置打光之类的，这个系统也在一直在更新，我依然抱有希望。 第三，音乐。我真挺喜欢无限暖暖的音乐，每个地图有自己的背景音，每个季节也会出很多新音乐，可以鉴赏。 第四，家园系统中的自定义建造。自由度超高，可以建设出很多好看的建筑，虽然难度较大，但真的很适合给拍照锦上添花。 第五，大世界。每个地区特色分明，虽然一直被诟病世界观不完整，但对于不考究仅欣赏的我来说是够用的。 第六，社区玩家对待暖暖的情绪。这可能是把双刃剑，但在这里讲优点。大家对于暖暖这个IP这个人的情感非常深厚，优秀的同人二创很多，非常好吃呀。正常社区内部的氛围算是和谐（）。 第七，游戏一直在更新中。系统，地图，衣服，妆",
+          "evidence_ids": [
+            "ev_2a50adf719624154de4b"
+          ],
+          "caveat": null
+        },
+        "topic": {
+          "status": "inferred",
+          "value": "story",
+          "evidence_ids": [
+            "ev_2a50adf719624154de4b"
+          ],
+          "caveat": "Transparent taxonomy annotation 1.1.0/transparent-rules-v1.1.1"
+        },
+        "pain_points": [
+          {
+            "status": "inferred",
+            "value": "第二,剧情真的很无聊,虽然近期主线剧情比较优秀,但支线我真觉得无聊。",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "Pain point extracted from the player statement; severity/prevalence is not established."
+          }
+        ],
+        "underlying_needs": [
+          {
+            "status": "inferred",
+            "value": "coherent and engaging narrative delivery",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "Underlying need is an interpretation, not a direct player quote."
+          }
+        ],
+        "expressed_behaviour_signals": [
+          {
+            "status": "expressed_intent",
+            "value": "expressed_churn_intent",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          },
+          {
+            "status": "expressed_intent",
+            "value": "expressed_recommendation_intent",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          },
+          {
+            "status": "expressed_intent",
+            "value": "expressed_feature_request",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "This labels what the player stated; it is not observed behaviour."
+          }
+        ],
+        "possible_business_relevance": [
+          {
+            "status": "hypothesis",
+            "value": "possible engagement and satisfaction relevance",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "Public UGC does not establish behavioural impact or causality; validate with authorised first-party data."
+          }
+        ],
+        "product_opportunities": [
+          {
+            "status": "inferred",
+            "value": "Investigate how to meet the underlying need: coherent and engaging narrative delivery.",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "This opportunity is inferred from public player evidence."
+          },
+          {
+            "status": "observed",
+            "value": "Evaluate the player's explicit request: 能不能一键跳过。",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "Observed as a request only; solution value is not established."
+          }
+        ],
+        "explicit_feature_requests": [
+          {
+            "status": "observed",
+            "value": "能不能一键跳过。",
+            "evidence_ids": [
+              "ev_2a50adf719624154de4b"
+            ],
+            "caveat": "This is a player-stated request, not proof that the requested solution is optimal."
+          }
+        ],
+        "priority": null
+      }
+    ],
+    "priority_disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate.",
+    "research_gaps": [
+      "No authorised observed-behaviour or retention dataset is joined; business relevance remains hypothesis only."
+    ],
+    "limitations": [
+      "Analysis uses the public corpus only.",
+      "Public discussion is self-selected and cannot estimate prevalence or causal business impact.",
+      "Priority is a transparent decision-support signal, not a causal estimate."
+    ]
+  },
+  "source_coverage": {
+    "game_wikidata_q126199544": {
+      "game_id": "game_wikidata_q126199544",
+      "run_id": "run_voice_20261003T034615Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 12,
+          "items_relevant": 6,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2022-10-28T19:38:38Z",
+          "date_end": "2026-09-30T17:13:49Z",
+          "languages": {
+            "zh-CN": 12
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "date_start": "2026-08-27T01:14:59Z",
+          "date_end": "2026-10-02T16:49:41Z",
+          "languages": {
+            "en": 10,
+            "zh-CN": 10
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 33,
+      "relevant_corpus_size": 26,
+      "languages": {
+        "en": 10,
+        "unknown": 1,
+        "zh-CN": 22
+      },
+      "date_start": "2022-10-28T19:38:38Z",
+      "date_end": "2026-10-02T16:49:41Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:46.579593Z"
+    }
+  },
+  "limitations": [
+    "Public community evidence is self-selected and not population-representative.",
+    "Missing evidence is reported as insufficient, never converted into a neutral fit.",
+    "无限暖暖: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)"
+  ],
+  "evidence_references": [
+    {
+      "evidence_id": "ev_09a089defc36b773b2fc",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1kd576fEeH/#reply299717209681",
+      "source_reference": "bilibili:BV1kd576fEeH:reply:299717209681",
+      "excerpt": "显卡gpu占用率只有10% cpu吃满 直接闪退了 怎么解决啊"
+    },
+    {
+      "evidence_id": "ev_0f131e4cbbeb7e4e4148",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234359752",
+      "excerpt": "这游戏就是坨大便。玩不明白，而且，剧情太尴尬了。本质处女幻想。"
+    },
+    {
+      "evidence_id": "ev_0fb6696dee2499b24684",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236532935",
+      "excerpt": "It's not bad just stay away from using irl money for the gachas"
+    },
+    {
+      "evidence_id": "ev_2a50adf719624154de4b",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234744057",
+      "excerpt": "想玩的可以看看我的测评。 这是我第一次在steam上写测评，因为我电脑玩了500+小时，手机端也是500+，但最近想要卸载电脑端，所以来留下一个测评。我会尽量客观的阐明这个游戏的优缺点。 先说优点吧，毕竟玩了这么久。 第一，无限暖暖的服装确实是比较好看的，而且一直在更新中，衣柜比较大。虽然还有很多功能（类似自由调整）没有搬上来，但我一直是抱有希望的。 第二，拍照系统。喜欢拍照的人应该会很喜欢，比如时停抓拍啦，比如内置打光之类的，这个系统也在一直在更新，我依然抱有希望。 第三，音乐。我真挺喜欢无限暖暖的音乐，每个地图有自己的背景音，每个季节也会出很多新音乐"
+    },
+    {
+      "evidence_id": "ev_2b48b9cc8f39ba407a56",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1kd576fEeH/#reply299040192305",
+      "source_reference": "bilibili:BV1kd576fEeH:reply:299040192305",
+      "excerpt": "不开光追没事，开了光追容易闪退是不是爆显存了[doge]"
+    },
+    {
+      "evidence_id": "ev_49f6b97180e526f32cef",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1kd576fEeH/#reply299036024849",
+      "source_reference": "bilibili:BV1kd576fEeH:reply:299036024849",
+      "excerpt": "换地图老是闪退报错[辣眼睛][辣眼睛][辣眼睛]"
+    },
+    {
+      "evidence_id": "ev_b3c11c7fa55e4a4df600",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236597269",
+      "excerpt": "I downloaded this it won't play just freezes can't even get past the download"
+    },
+    {
+      "evidence_id": "ev_b9490334b6abcae1e105",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:233787088",
+      "excerpt": "二游文案有一个算一个都可以枪毙了，什么狗屎谜语人矫揉造作不知所云，我是来换衣服的，不是来看傻逼文案的啊"
+    }
+  ],
+  "generated_at": "2026-10-03T13:58:43.526078Z"
+}

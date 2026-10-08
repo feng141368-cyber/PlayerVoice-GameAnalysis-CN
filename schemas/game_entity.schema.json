@@ -1,0 +1,141 @@
+{
+  "$defs": {
+    "ResolutionStatus": {
+      "enum": [
+        "resolved",
+        "needs_choice",
+        "unresolved"
+      ],
+      "title": "ResolutionStatus",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "canonical_title": {
+      "minLength": 1,
+      "title": "Canonical Title",
+      "type": "string"
+    },
+    "developers": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Developers",
+      "type": "array"
+    },
+    "external_ids": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "External Ids",
+      "type": "object"
+    },
+    "franchise": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Franchise"
+    },
+    "game_id": {
+      "pattern": "^game_.+",
+      "title": "Game Id",
+      "type": "string"
+    },
+    "genres": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Genres",
+      "type": "array"
+    },
+    "localized_titles": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "Localized Titles",
+      "type": "object"
+    },
+    "official_urls": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Official Urls",
+      "type": "array"
+    },
+    "original_title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Original Title"
+    },
+    "platforms": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Platforms",
+      "type": "array"
+    },
+    "publishers": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Publishers",
+      "type": "array"
+    },
+    "release_dates": {
+      "additionalProperties": {
+        "type": "string"
+      },
+      "title": "Release Dates",
+      "type": "object"
+    },
+    "resolution_confidence": {
+      "maximum": 1,
+      "minimum": 0,
+      "title": "Resolution Confidence",
+      "type": "number"
+    },
+    "resolution_evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Resolution Evidence Ids",
+      "type": "array"
+    },
+    "resolution_status": {
+      "$ref": "#/$defs/ResolutionStatus"
+    },
+    "resolved_at": {
+      "format": "date-time",
+      "title": "Resolved At",
+      "type": "string"
+    }
+  },
+  "required": [
+    "game_id",
+    "canonical_title",
+    "original_title",
+    "localized_titles",
+    "external_ids",
+    "developers",
+    "publishers",
+    "resolution_status",
+    "resolution_confidence",
+    "resolution_evidence_ids",
+    "resolved_at"
+  ],
+  "title": "GameEntity",
+  "type": "object"
+}

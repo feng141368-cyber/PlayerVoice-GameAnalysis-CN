@@ -1,0 +1,3508 @@
+{
+  "input_name": "Apex Legends",
+  "run_id": "run_voice_20261003T134554Z",
+  "foundation": {
+    "input_name": "Apex Legends",
+    "run_id": "run_voice_20261003T134554Z",
+    "resolution": {
+      "input_name": "Apex Legends",
+      "locale": "en",
+      "status": "resolved",
+      "game": {
+        "game_id": "game_wikidata_q61478103",
+        "canonical_title": "Apex Legends™",
+        "original_title": "Apex Legends",
+        "localized_titles": {
+          "en": "Apex Legends™",
+          "zh": "Apex英雄",
+          "zh-cn": "Apex英雄",
+          "zh-hant": "Apex英雄",
+          "zh-CN": "Apex Legends™"
+        },
+        "external_ids": {
+          "wikidata_id": "Q61478103",
+          "steam_app_id": "1172470"
+        },
+        "developers": [
+          "Respawn"
+        ],
+        "publishers": [
+          "Electronic Arts"
+        ],
+        "resolution_status": "resolved",
+        "resolution_confidence": 0.76,
+        "resolution_evidence_ids": [
+          "ev_resolver_41728f3f425b1e1745e1",
+          "ev_resolver_07d3623fe925ab7744cd"
+        ],
+        "resolved_at": "2026-10-03T13:45:54.016145Z",
+        "release_dates": {},
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free To Play"
+        ],
+        "franchise": null,
+        "official_urls": [
+          "https://www.ea.com/games/apex-legends"
+        ],
+        "platforms": [
+          "windows"
+        ]
+      },
+      "candidates": [
+        {
+          "entity": {
+            "game_id": "game_wikidata_q61478103",
+            "canonical_title": "Apex Legends™",
+            "original_title": "Apex Legends",
+            "localized_titles": {
+              "en": "Apex Legends™",
+              "zh": "Apex英雄",
+              "zh-cn": "Apex英雄",
+              "zh-hant": "Apex英雄",
+              "zh-CN": "Apex Legends™"
+            },
+            "external_ids": {
+              "wikidata_id": "Q61478103",
+              "steam_app_id": "1172470"
+            },
+            "developers": [
+              "Respawn"
+            ],
+            "publishers": [
+              "Electronic Arts"
+            ],
+            "resolution_status": "resolved",
+            "resolution_confidence": 0.76,
+            "resolution_evidence_ids": [
+              "ev_resolver_41728f3f425b1e1745e1",
+              "ev_resolver_07d3623fe925ab7744cd"
+            ],
+            "resolved_at": "2026-10-03T13:45:54.016145Z",
+            "release_dates": {},
+            "genres": [
+              "Action",
+              "Adventure",
+              "Free To Play"
+            ],
+            "franchise": null,
+            "official_urls": [
+              "https://www.ea.com/games/apex-legends"
+            ],
+            "platforms": [
+              "windows"
+            ]
+          },
+          "score": 0.76,
+          "reasons": [
+            "exact official/localized title match",
+            "localized title available for en",
+            "supported by steam, wikidata",
+            "stable external identifier present",
+            "platform listing present"
+          ],
+          "evidence": [
+            {
+              "evidence_id": "ev_resolver_41728f3f425b1e1745e1",
+              "provider": "wikidata",
+              "source_reference": "Q61478103",
+              "source_url": "https://www.wikidata.org/wiki/Q61478103",
+              "retrieved_at": "2026-10-03T13:37:04.202803Z"
+            },
+            {
+              "evidence_id": "ev_resolver_07d3623fe925ab7744cd",
+              "provider": "steam",
+              "source_reference": "steam_app:1172470",
+              "source_url": "https://store.steampowered.com/app/1172470/",
+              "retrieved_at": "2026-10-03T13:37:09.252849Z"
+            }
+          ],
+          "providers": [
+            "steam",
+            "wikidata"
+          ]
+        },
+        {
+          "entity": {
+            "game_id": "game_wikidata_q112671149",
+            "canonical_title": "Apex Legends Mobile",
+            "original_title": "Apex Legends Mobile",
+            "localized_titles": {
+              "en": "Apex Legends Mobile",
+              "zh": "Apex 英雄M",
+              "zh-hant": "Apex 英雄M"
+            },
+            "external_ids": {
+              "wikidata_id": "Q112671149"
+            },
+            "developers": [],
+            "publishers": [],
+            "resolution_status": "unresolved",
+            "resolution_confidence": 0.3764,
+            "resolution_evidence_ids": [
+              "ev_resolver_0b79f9e66e04b90c1ed4"
+            ],
+            "resolved_at": "2026-10-03T13:45:54.016273Z",
+            "release_dates": {},
+            "genres": [],
+            "franchise": null,
+            "official_urls": [],
+            "platforms": []
+          },
+          "score": 0.3764,
+          "reasons": [
+            "title similarity 0.79",
+            "localized title available for en",
+            "supported by wikidata",
+            "stable external identifier present"
+          ],
+          "evidence": [
+            {
+              "evidence_id": "ev_resolver_0b79f9e66e04b90c1ed4",
+              "provider": "wikidata",
+              "source_reference": "Q112671149",
+              "source_url": "https://www.wikidata.org/wiki/Q112671149",
+              "retrieved_at": "2026-10-03T13:37:04.202803Z"
+            }
+          ],
+          "providers": [
+            "wikidata"
+          ]
+        }
+      ],
+      "reasons": [
+        "one candidate passed the resolution threshold with a safe margin"
+      ],
+      "provider_failures": [],
+      "partial": false
+    },
+    "aliases": {
+      "game_id": "game_wikidata_q61478103",
+      "aliases": [
+        {
+          "alias_id": "alias_a411113846741a7490e5",
+          "game_id": "game_wikidata_q61478103",
+          "text": "Apex Legends",
+          "normalized_text": "apexlegends",
+          "language": null,
+          "alias_type": "official_title",
+          "source_evidence_ids": [
+            "ev_resolver_07d3623fe925ab7744cd",
+            "ev_resolver_41728f3f425b1e1745e1"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        },
+        {
+          "alias_id": "alias_909b1e24d1a01e5f2d0c",
+          "game_id": "game_wikidata_q61478103",
+          "text": "Apex Legends™",
+          "normalized_text": "apexlegendstm",
+          "language": "en",
+          "alias_type": "official_title",
+          "source_evidence_ids": [
+            "ev_resolver_07d3623fe925ab7744cd",
+            "ev_resolver_41728f3f425b1e1745e1"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        },
+        {
+          "alias_id": "alias_fe4e8d9ae3ca563a8f18",
+          "game_id": "game_wikidata_q61478103",
+          "text": "Apex英雄",
+          "normalized_text": "apex英雄",
+          "language": "zh",
+          "alias_type": "localized_title",
+          "source_evidence_ids": [
+            "ev_resolver_07d3623fe925ab7744cd",
+            "ev_resolver_41728f3f425b1e1745e1"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        }
+      ],
+      "review_items": [],
+      "observations": []
+    },
+    "query_plans": [
+      {
+        "query_id": "query_d8be1fd1507c6ff32518",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex Legends\" 官方",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_80bdff281ef9a7e43413",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex Legends™\" 官方",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_62525a76fd895f87ea18",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex英雄\" 官方",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_cd52c42515b4563c2547",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex Legends\" 性能 帧率 卡顿 官方",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_bf8bad31094e459f283d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex Legends™\" 性能 帧率 卡顿 官方",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_6f3c1dc1a3a21681b569",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex英雄\" 性能 帧率 卡顿 官方",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_d8aded4f2db2bd3808df",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex Legends\" 操作 手柄 官方",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_ef504e2a3a49e91cdee7",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex Legends™\" 操作 手柄 官方",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_034cbf6a375ab2dab99e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex英雄\" 操作 手柄 官方",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_18beb926c7b9de477e4d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex Legends\" 补丁 公告 官方",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_a148a0925af1fdfcb21d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex Legends™\" 补丁 公告 官方",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_9aeddd5c062fb5a9e209",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex英雄\" 补丁 公告 官方",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_9b1115b92c5ce8d32bb5",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Apex Legends\" official",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_14edad09eb7f7ca12760",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Apex Legends™\" official",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_4104b8c22410f19f0c5d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Apex Legends\" performance fps stutter official",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_48aaccfc4dc94816cf1e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Apex Legends™\" performance fps stutter official",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_76d8e02b335dcd0fd871",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Apex Legends\" controls controller official",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_b5afaccea224b78b1862",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Apex Legends™\" controls controller official",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_1a327c2c6c361108b014",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Apex Legends\" patch notes official",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_814ccdb4159181bd825c",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "official",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Apex Legends™\" patch notes official",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_0b84b2d6535524ff2145",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "steam_app:1172470 intent:general",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_d528be5e43178430eb01",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "steam_app:1172470 intent:performance",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_4696e76bbc49d14d7199",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "steam_app:1172470 intent:controls",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_2c63cd44ee1f2cc18fe0",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "steam_app:1172470 intent:patch",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_3db41c63c80d31f0a56d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "en",
+        "intent": "general",
+        "query_text": "steam_app:1172470 intent:general",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_65d49a3062089ee4a2bd",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "steam_app:1172470 intent:performance",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_b9a60bb7b6fad2b026af",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "steam_app:1172470 intent:controls",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_bf0b0e665fc6cfd02349",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "steam",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "steam_app:1172470 intent:patch",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_84c2cee5040aea2ef46e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex Legends\"",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_e9cd7a5541957612552e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex Legends™\"",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_03fb784b6d26ab8b9686",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"Apex英雄\"",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_c6084ae033537e3da40e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex Legends\" 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_995a1f8c48c6ac6b8a70",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex Legends™\" 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_5762ec457012cc63e389",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"Apex英雄\" 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_ef417511c0bb7b5d58b9",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex Legends\" 操作 手柄",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_09880210393af7918ce7",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex Legends™\" 操作 手柄",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_beb0e72ceeda275bc876",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"Apex英雄\" 操作 手柄",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_030af106a5f304ba300d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex Legends\" 补丁 公告",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_7ff70267a6a4581d9170",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex Legends™\" 补丁 公告",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_7c7af36e42617080a7f0",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"Apex英雄\" 补丁 公告",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_dfa890fbb89c011937ec",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Apex Legends\"",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_ede63ba91fc32f91f0d7",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Apex Legends™\"",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_86bc4ca253613f005e68",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Apex Legends\" performance fps stutter",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_4ed03129bc7f65fcfe36",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Apex Legends™\" performance fps stutter",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_fbb4cfed7db8a38e062d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Apex Legends\" controls controller",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_9354ca082b10f09bda24",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Apex Legends™\" controls controller",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_ffc4ab240f20cd701067",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Apex Legends\" patch notes",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_0ee1b4fdbc1fb39dd4fb",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "reddit",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Apex Legends™\" patch notes",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_14265858771a0304e551",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "Apex Legends",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_0645587622e2df116325",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "Apex Legends™",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_63a3ce803b5302573cdd",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "Apex英雄",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_82584c480ebfcd29f2f7",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "Apex Legends 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_8cf7deca7a7aad98457e",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "Apex Legends™ 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_fa9bbae5b9fe1da481b9",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "Apex英雄 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_c8532b2614b24c58af34",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "Apex Legends 操作 手柄",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_e811d9baecfcc203eed8",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "Apex Legends™ 操作 手柄",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_3ded0da096a5b5b51ef8",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "Apex英雄 操作 手柄",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_8ff784109f0fc4d8d265",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "Apex Legends 补丁 公告",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_b98ee6537c79a7f7cd2d",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "Apex Legends™ 补丁 公告",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_645f81411bb8422b7d2f",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "Apex英雄 补丁 公告",
+        "alias_ids": [
+          "alias_fe4e8d9ae3ca563a8f18"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_52c0560270e2bc75adf4",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "general",
+        "query_text": "Apex Legends",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_8f0f913da46707d21060",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "general",
+        "query_text": "Apex Legends™",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_c74edd6dffc10bd3885c",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "Apex Legends performance fps stutter",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_64752925a04cd0d0e5f8",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "Apex Legends™ performance fps stutter",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_69f04e2cc90074c07faf",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "Apex Legends controls controller",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_cb897f7aa5490efa740b",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "Apex Legends™ controls controller",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_1f3b32f904417b964b32",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "Apex Legends patch notes",
+        "alias_ids": [
+          "alias_a411113846741a7490e5"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      },
+      {
+        "query_id": "query_f0aeabb49e8c7cb83ea6",
+        "run_id": "run_voice_20261003T134554Z",
+        "game_id": "game_wikidata_q61478103",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "Apex Legends™ patch notes",
+        "alias_ids": [
+          "alias_909b1e24d1a01e5f2d0c"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T13:45:59.619054Z"
+      }
+    ],
+    "fact_bundle": {
+      "game_id": "game_wikidata_q61478103",
+      "facts": [
+        {
+          "fact_id": "fact_9a5a6800085579186d57",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "title",
+          "value": {
+            "language": "en",
+            "title": "Apex Legends™"
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_d9bb34ae5776a83dc2cb",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "developer",
+          "value": "Respawn",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_4bba7a1e1e970c3fb32f",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "publisher",
+          "value": "Electronic Arts",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_b638bd4efeb9ba23b3a8",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "release_date",
+          "value": {
+            "date": "Nov 4, 2020",
+            "coming_soon": false
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_7d819247f9390e0a8700",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "platform_support",
+          "value": true,
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_f09a43a3ef304aa9bb00",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "minimum_requirements",
+          "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\nMemory: 6 GB RAM\nGraphics: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_4c75a902e571d7a08dad",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "minimum",
+            "amount": 75.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_0e2f41d7a1271cbbda8c",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "recommended_requirements",
+          "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Ryzen 5 CPU or Equivalent\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_2c4cb4e0e6ee8198f72e",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "recommended",
+            "amount": 75.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_a2869fcf6c1adcd0618f",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "input_support",
+          "value": {
+            "controller": "full"
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        },
+        {
+          "fact_id": "fact_a6787f7306feb143946f",
+          "game_id": "game_wikidata_q61478103",
+          "fact_type": "supported_languages",
+          "value": [
+            "English",
+            "French",
+            "Italian",
+            "German",
+            "Spanish - Spain",
+            "Japanese",
+            "Korean",
+            "Polish",
+            "Portuguese - Brazil",
+            "Russian",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Spanish - Latin America",
+            "Arabic\nlanguages with full audio support"
+          ],
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_90fb617a265322c60fb5",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z"
+        }
+      ],
+      "evidence": [
+        {
+          "evidence_id": "ev_90fb617a265322c60fb5",
+          "game_id": "game_wikidata_q61478103",
+          "evidence_kind": "fact_source",
+          "access_scope": "public",
+          "dataset_id": null,
+          "source": "steam",
+          "source_content_id": "steam_app:1172470",
+          "parent_evidence_id": null,
+          "source_url": "https://store.steampowered.com/app/1172470/",
+          "source_reference": null,
+          "title": null,
+          "original_text": "{\"about_the_game\": \"Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience — all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.<br><br><strong>KEY FEATURES</strong><br><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/d411a4f81aae75f3d639ca2c241b84b9.avif?t=1790164440\\\" width=610 height=2884 /></span><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br><br>Note that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.<br><br>Apex Packs purchase is not available in Belgium.\", \"achievements\": {\"highlighted\": [{\"archived\": 0, \"hidden\": 0, \"icon\": \"cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg\", \"localized_name\": \"The Player\", \"name\": \"The Player\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/cde23ba5b41f315f5d399064ed0bb9ff51fc1342.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg\", \"localized_name\": \"Decked Out\", \"name\": \"Decked Out\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/dc4f9a6c122b4890a3852818cb14430a7ae692b9.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg\", \"localized_name\": \"Team Player\", \"name\": \"Team Player\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/03754c9a8c98ec9362e245a8bd0e8cdbb2e22aea.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"8a11ed285547d9d5e04d3278c61255058da5cfce.jpg\", \"localized_name\": \"Fully Kitted\", \"name\": \"Fully Kitted\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/8a11ed285547d9d5e04d3278c61255058da5cfce.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg\", \"localized_name\": \"Jumpmaster\", \"name\": \"Jumpmaster\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/2828944fd7bb6f31f3f26c957d2dd2aea1e5d3ab.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg\", \"localized_name\": \"Well-Rounded\", \"name\": \"Well-Rounded\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/6f44b7a073fb4fe324f9f12b527a910046f2809c.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg\", \"localized_name\": \"Kill Leader\", \"name\": \"Kill Leader\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/88c298423ddcf009d522b6833086bb51f9ee4fe6.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg\", \"localized_name\": \"Apex Assault\", \"name\": \"Apex Assault\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/65bc35fdbe07c89fe3e3b06ab3079e6fc143cc38.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg\", \"localized_name\": \"Apex Controller\", \"name\": \"Apex Controller\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/31a63848bdf4ae32577c6d2bd35e4db6875033a0.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg\", \"localized_name\": \"Apex Support\", \"name\": \"Apex Support\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/1172470/527fbb4017b393f13d34bacb1fe58bcc616a1c27.jpg\"}], \"total\": 12}, \"background\": \"https://store.akamai.steamstatic.com/images/storepagebackground/app/1172470?t=1790164440\", \"background_raw\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/bc83ae85fb762b73c7365e7c034c4b4f545e8e17/page_bg_raw.jpg?t=1790164440\", \"capsule_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0132a533f4429b907ba767a30215723170baa7c9/capsule_231x87_alt_assets_5.jpg?t=1790164440\", \"capsule_imagev5\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/0132a533f4429b907ba767a30215723170baa7c9/capsule_184x69_alt_assets_5.jpg?t=1790164440\", \"categories\": [{\"description\": \"Multi-player\", \"id\": 1}, {\"description\": \"PvP\", \"id\": 49}, {\"description\": \"Online PvP\", \"id\": 36}, {\"description\": \"Co-op\", \"id\": 9}, {\"description\": \"Online Co-op\", \"id\": 38}, {\"description\": \"Steam Achievements\", \"id\": 22}, {\"description\": \"Full controller support\", \"id\": 28}, {\"description\": \"Steam Trading Cards\", \"id\": 29}, {\"description\": \"In-App Purchases\", \"id\": 35}, {\"description\": \"Chat Speech-to-text\", \"id\": 72}, {\"description\": \"Playable without Timed Input\", \"id\": 74}, {\"description\": \"DualShock Controller Support\", \"id\": 55}, {\"description\": \"DualSense Controller Support\", \"id\": 57}, {\"description\": \"DualSense Controller Support\", \"id\": 58}], \"content_descriptors\": {\"ids\": [], \"notes\": null}, \"controller_support\": \"full\", \"detailed_description\": \"<h1>Apex Legends: Marked</h1><p><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/c066ed17f39091197af9c35ae3f9c679.avif?t=1790164440\\\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras_big/c066ed17f39091197af9c35ae3f9c679.avif?t=1790164440 width=1560 height=1996 /></span><br></p><br><h1>About the Game</h1>Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tactical squad play, and bold, new innovations that go beyond the Battle Royale experience — all within a rugged world where anything goes. Welcome to the next evolution of Hero Shooter.<br><br><strong>KEY FEATURES</strong><br><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/extras/d411a4f81aae75f3d639ca2c241b84b9.avif?t=1790164440\\\" width=610 height=2884 /></span><br><br>This game includes optional in-game purchases of virtual currency that can be used to acquire virtual in-game items, including a random selection of virtual in-game items.<br><br>Note that any unused Apex Coins will expire 180 days after the first date in which they are acquired or purchased. The oldest Apex Coins that are subject to expiration in your balance will always be used first when using them to make in-game purchases.<br><br>Apex Packs purchase is not available in Belgium.\", \"developers\": [\"Respawn\"], \"ext_user_account_notice\": \"EA Account (Supports Linking to Steam Account)\", \"genres\": [{\"description\": \"Action\", \"id\": \"1\"}, {\"description\": \"Adventure\", \"id\": \"25\"}, {\"description\": \"Free To Play\", \"id\": \"37\"}], \"header_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/60fcaedb88ccf94df30281533d828b86c6ffb9b6/header_alt_assets_5.jpg?t=1790164440\", \"is_free\": true, \"legal_notice\": \"Germany, Austria, and Switzerland only: EA’S PRIVACY & COOKIE POLICY (privacy.ea.com/de) APPLIES. <br />\\r\\nOther EU, United Kingdom, Norway, Iceland, Andorra, Bosnia and Herzegovina, Georgia, Kosovo, Macedonia (FYROM), Moldova, Monaco, Montenegro, San Marino, Serbia, Turkey, Vatican City (Holy See), Liechtenstein only: ACKNOWLEDGEMENT OF EA's PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\\r\\nAll other residents: ACCEPTANCE OF EA PRIVACY & COOKIE POLICY (privacy.ea.com) REQUIRED TO PLAY. <br />\\r\\n<br />\\r\\nINTERNET CONNECTION; EA ACCOUNT; STEAM ACCOUNT; ACCEPTANCE OF EA USER AGREEMENT (terms.ea.com) REQUIRED TO PLAY. YOU MUST LINK YOUR EA AND STEAM ACCOUNTS TO PLAY; EA WILL SHARE YOUR ACCOUNT ID AND INDIVIDUAL GAME AND PLAY RECORDS WITH STEAM TO VALIDATE YOUR PURCHASE AND/OR REFUND REQUEST. ACCESS TO SOFTWARE CONTENT IS LIMITED TO ONE EA & ONE STEAM ACCOUNT & IS NON-TRANSFERABLE AFTER PURCHASE. YOU MAY NEED TO BE 13+ or 16+ TO REGISTER FOR AN EA ACCOUNT (AGE MAY VARY, SEE http://o.ea.com/ea/child-access FOR DETAILS). SOME CONTENT MAY REQUIRE GAMEPLAY TO UNLOCK. CONTENT UPDATES MAY BE DOWNLOADED AUTOMATICALLY, REQUIRE ADDITIONAL STORAGE, AND INCUR BANDWIDTH USAGE FEES. EA MAY PROVIDE CERTAIN FREE INCREMENTAL CONTENT &/OR UPDATES. EA MAY RETIRE ONLINE FEATURES AFTER 30 DAYS NOTICE POSTED ON ea.com/service-updates.<br />\\r\\n<br />\\r\\nEA User Agreement: terms.ea.com/de for German residents and terms.ea.com for all other residents<br />\\r\\nEA Privacy & Cookie Policy: privacy.ea.com/de for German residents and privacy.ea.com for all other residents\", \"linux_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"mac_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"metacritic\": {\"score\": 88, \"url\": \"https://www.metacritic.com/game/pc/apex-legends?ftag=MCD-06-10aaa1f\"}, \"movies\": [{\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/dash_av1.mpd?t=1789582444\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/dash_h264.mpd?t=1789582444\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/343063211/62821b5e8c30fe0232997e3a83b36292aea323af/1789580842/hls_264_master.m3u8?t=1789582444\", \"id\": 257426789, \"name\": \"Apex Legends VS Street Fighter 6 Event WW\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257426789/b98e7f8ca2ed27df3326e4e5823ff5438767adf6/movie_600x337.jpg?t=1789582444\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/dash_av1.mpd?t=1786031865\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/dash_h264.mpd?t=1786031865\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/1172470/1182889611/d98a0365413af7dca2b67039b260d8849a97627d/1785867041/hls_264_master.m3u8?t=1786031865\", \"id\": 257391801, \"name\": \"Apex Legends: Marked Gameplay Trailer EN  \", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257391801/a8d21c02f35b1aea10893708f9f744552f770377/movie_600x337.jpg?t=1786031865\"}], \"name\": \"Apex Legends™\", \"package_groups\": [], \"pc_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent<br></li><li><strong>Memory:</strong> 6 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 GB available space<br></li><li><strong>Additional Notes:</strong> ~3.8GB for 1 localized language</li></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Ryzen 5 CPU or Equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 75 GB available space<br></li><li><strong>Additional Notes:</strong> ~3.8GB for 1 localized language</li></ul>\"}, \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"publishers\": [\"Electronic Arts\"], \"ratings\": {\"bbfc\": {\"rating\": \"PG\"}, \"crl\": {\"descriptors\": \"Contains or justifies violence\", \"rating\": \"18\"}, \"csrr\": {\"descriptors\": \"Violence\", \"rating\": \"C15\"}, \"dejus\": {\"descriptors\": \"Violência (Violence)\", \"rating\": \"18\"}, \"esrb\": {\"descriptors\": \"Blood\\r\\nViolence\", \"interactive_elements\": \"Users Interact\\r\\nIn-Game Purchases (includes Random Items)\", \"rating\": \"t\"}, \"fpb\": {\"descriptors\": \"V CI\", \"rating\": \"16\"}, \"igrs\": {\"banned\": \"0\", \"descriptors\": \"Interaksi Daring\\nKekerasan\\nRokok dan/atau rokok elektronik, minuman beralkohol, narkotika, psikotropika, dan/atau zat adiktif lainnya\", \"rating\": \"18\", \"rating_generated\": \"1\", \"required_age\": \"18\", \"use_age_gate\": \"0\"}, \"kgrb\": {\"descriptors\": \"Violence\", \"rating\": \"18\"}, \"nzoflc\": {\"descriptors\": \"Violence\", \"rating\": \"r13\"}, \"oflc\": {\"descriptors\": \"Strong Violence\\r\\nOnline Interactivity\", \"rating\": \"ma15\"}, \"pegi\": {\"descriptors\": \"Violence\\r\\nIn-Game Purchases\", \"rating\": \"16\"}, \"steam_australia\": {\"banned\": \"0\", \"descriptors\": \"Strong Violence\\nMild Coarse Language\\nMild Drug Themes\", \"rating\": \"MA15\", \"rating_generated\": \"1\", \"required_age\": \"16\", \"use_age_gate\": \"0\"}, \"steam_germany\": {\"banned\": \"0\", \"descriptors\": \"Drastische Gewalt\\nAlkohol / Tabak\\nDerbe Sprache\", \"rating\": \"16\", \"rating_generated\": \"1\", \"required_age\": \"16\", \"use_age_gate\": \"0\"}, \"usk\": {\"rating\": \"16\"}}, \"recommendations\": {\"total\": 1586}, \"release_date\": {\"coming_soon\": false, \"date\": \"Nov 4, 2020\"}, \"required_age\": 0, \"reviews\": \"“The champion of Battle Royales.”<br>9/10 – GameSpot<br><br>“The best Battle Royale game.”<br>5/5 – GamesRadar+<br><br>“Free, friendly, and consistently fun.  It's the best Battle Royale game available today.”<br>93/100 – PC Gamer<br>\", \"screenshots\": [{\"id\": 0, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2/ss_3fc2dfcf0e8d7d7202a3ca32ae26c7afaec723e2.600x338.jpg?t=1790164440\"}, {\"id\": 1, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d64ce54903a3ba6429c6e3189ad746a7db70ee3e/ss_d64ce54903a3ba6429c6e3189ad746a7db70ee3e.600x338.jpg?t=1790164440\"}, {\"id\": 2, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6593905f527d4b1bf01b0bb148b9c9a39616a2e4/ss_6593905f527d4b1bf01b0bb148b9c9a39616a2e4.600x338.jpg?t=1790164440\"}, {\"id\": 3, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6/ss_d8a07de4444fb8f43ad19c7aa9e3fa8e26eb94d6.600x338.jpg?t=1790164440\"}, {\"id\": 4, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/4a30ba1dd184e8ebdbab3814ea3726008647ea17/ss_4a30ba1dd184e8ebdbab3814ea3726008647ea17.600x338.jpg?t=1790164440\"}, {\"id\": 5, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.1920x1080.jpg?t=1790164440\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/f880e64654baad384f3afb9e4b0004e411770241/ss_f880e64654baad384f3afb9e4b0004e411770241.600x338.jpg?t=1790164440\"}], \"short_description\": \"Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.\", \"steam_appid\": 1172470, \"support_info\": {\"email\": \"\", \"url\": \"https://help.ea.com/\"}, \"supported_languages\": \"English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Traditional Chinese, Spanish - Latin America, Arabic<br><strong>*</strong>languages with full audio support\", \"type\": \"game\", \"website\": \"https://www.ea.com/games/apex-legends\"}",
+          "normalized_text": null,
+          "language": null,
+          "published_at": null,
+          "retrieved_at": "2026-10-03T13:46:05.011116Z",
+          "run_id": "run_voice_20261003T134554Z",
+          "query_id": null,
+          "matched_alias_ids": [],
+          "retrieval_method": "api",
+          "relevance_label": "relevant",
+          "relevance_score": 1.0,
+          "relevance_reasons": [
+            "official or platform-store fact source"
+          ],
+          "relevance_method_version": "fact-layer-v1",
+          "recommended": null,
+          "rating": null,
+          "rating_scale": null,
+          "engagement": null,
+          "reply_count": null,
+          "playtime_hours": null,
+          "platform": "steam",
+          "hardware_context": null,
+          "version_context": null,
+          "source_metadata": {},
+          "provenance": {
+            "source_class": "platform_store",
+            "collector_version": "fact-layer-v1",
+            "terms_or_permission_reference": null,
+            "content_checksum": "0e9d3937f5bc213793967ac17c5819e81927f4a0e1ca544987bc8adb5f9a33b6",
+            "raw_snapshot_reference": null,
+            "contains_personal_data": false,
+            "redaction_status": "not_required"
+          }
+        }
+      ],
+      "warnings": []
+    },
+    "stage_warnings": []
+  },
+  "query_plans": [
+    {
+      "query_id": "query_0b84b2d6535524ff2145",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "steam_app:1172470 intent:general",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_d528be5e43178430eb01",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "steam_app:1172470 intent:performance",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_de1b317288f382347fdd",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "steam_app:1172470 intent:bugs",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_f8de89c6f0f544d547ae",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "update",
+      "query_text": "steam_app:1172470 intent:update",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_14265858771a0304e551",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "Apex Legends",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_0645587622e2df116325",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "Apex Legends™",
+      "alias_ids": [
+        "alias_909b1e24d1a01e5f2d0c"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_63a3ce803b5302573cdd",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "Apex英雄",
+      "alias_ids": [
+        "alias_fe4e8d9ae3ca563a8f18"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_82584c480ebfcd29f2f7",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "Apex Legends 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_84c2cee5040aea2ef46e",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"Apex Legends\"",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_e9cd7a5541957612552e",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"Apex Legends™\"",
+      "alias_ids": [
+        "alias_909b1e24d1a01e5f2d0c"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_03fb784b6d26ab8b9686",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"Apex英雄\"",
+      "alias_ids": [
+        "alias_fe4e8d9ae3ca563a8f18"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    },
+    {
+      "query_id": "query_c6084ae033537e3da40e",
+      "run_id": "run_voice_20261003T134554Z",
+      "game_id": "game_wikidata_q61478103",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "\"Apex Legends\" 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_a411113846741a7490e5"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T13:46:05.015187Z"
+    }
+  ],
+  "source_execution": {
+    "bilibili": {
+      "source": "bilibili",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "raw_items": 11,
+      "excluded": {},
+      "statuses": {
+        "collected": 4
+      },
+      "errors": []
+    },
+    "reddit": {
+      "source": "reddit",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 0,
+      "failed_queries": 4,
+      "raw_items": 0,
+      "excluded": {},
+      "statuses": {
+        "unavailable": 4
+      },
+      "errors": [
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+      ]
+    },
+    "steam": {
+      "source": "steam",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "raw_items": 200,
+      "excluded": {},
+      "statuses": {
+        "collected": 4
+      },
+      "errors": []
+    }
+  },
+  "raw_community_items": 211,
+  "relevance_counts": {
+    "irrelevant": 6,
+    "relevant": 205
+  },
+  "corpus": {
+    "run": {
+      "run_id": "run_voice_20261003T134554Z",
+      "request_hash": "0fae08c764418af687525e1d8701a4c5864edaec980abd3491476098f8fc7b07",
+      "game_ids": [
+        "game_wikidata_q61478103"
+      ],
+      "query_plans": [
+        {
+          "query_id": "query_0b84b2d6535524ff2145",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "steam_app:1172470 intent:general",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_d528be5e43178430eb01",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "steam_app:1172470 intent:performance",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_de1b317288f382347fdd",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "steam_app:1172470 intent:bugs",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_f8de89c6f0f544d547ae",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "update",
+          "query_text": "steam_app:1172470 intent:update",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_14265858771a0304e551",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "Apex Legends",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_0645587622e2df116325",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "Apex Legends™",
+          "alias_ids": [
+            "alias_909b1e24d1a01e5f2d0c"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_63a3ce803b5302573cdd",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "Apex英雄",
+          "alias_ids": [
+            "alias_fe4e8d9ae3ca563a8f18"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_82584c480ebfcd29f2f7",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "Apex Legends 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_84c2cee5040aea2ef46e",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "\"Apex Legends\"",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_e9cd7a5541957612552e",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "\"Apex Legends™\"",
+          "alias_ids": [
+            "alias_909b1e24d1a01e5f2d0c"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_03fb784b6d26ab8b9686",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "\"Apex英雄\"",
+          "alias_ids": [
+            "alias_fe4e8d9ae3ca563a8f18"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        },
+        {
+          "query_id": "query_c6084ae033537e3da40e",
+          "run_id": "run_voice_20261003T134554Z",
+          "game_id": "game_wikidata_q61478103",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "\"Apex Legends\" 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_a411113846741a7490e5"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T13:46:05.015187Z"
+        }
+      ],
+      "code_version": "0.4",
+      "config_version": "voice-slice-v1",
+      "taxonomy_version": "1.1.0",
+      "started_at": "2026-10-03T13:47:20.781866Z",
+      "ended_at": "2026-10-03T13:47:20.781870Z",
+      "source_status": {
+        "bilibili": {
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 11,
+          "items_relevant": 5,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "error_code": null,
+          "reason": null
+        },
+        "reddit": {
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        "steam": {
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 200,
+          "items_relevant": 200,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 100,
+          "error_code": null,
+          "reason": null
+        },
+        "official": {
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": null,
+          "reason": null
+        }
+      }
+    },
+    "upsert": {
+      "received": 212,
+      "inserted": 112,
+      "updated": 100,
+      "duplicates": 100,
+      "likely_cross_posts": 26
+    },
+    "snapshot_references": [
+      "public/run_voice_20261003T134554Z/bilibili.jsonl",
+      "public/run_voice_20261003T134554Z/steam.jsonl"
+    ],
+    "relevant_items": 205,
+    "ambiguous_items": 0,
+    "irrelevant_items": 6,
+    "pending_items": 0
+  },
+  "annotation_count": 105,
+  "annotations_path": "examples/e2e/compare-demo/apex-legends/annotations.jsonl",
+  "insights": {
+    "game_id": "game_wikidata_q61478103",
+    "run_id": "run_voice_20261003T134554Z",
+    "layer": "player_evidence",
+    "engine_version": "insight-engine-v1",
+    "player_insights": [
+      {
+        "insight_id": "insight_6fce48c45983027ca83b",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "research_gap",
+        "statement": "81 relevant evidence item(s) remain unclassified and need taxonomy review.",
+        "taxonomy_nodes": [
+          "other_unclassified"
+        ],
+        "confidence": 0.95,
+        "supporting_evidence_ids": [
+          "ev_00dbf4976010e14bc0f3",
+          "ev_08bb4244fc7789de0336",
+          "ev_0b6c72871f21ca60a8e5",
+          "ev_0bee7291578974011900",
+          "ev_10a114bfd65d15f95b6a",
+          "ev_11527ea59f4e028075a2",
+          "ev_12351ee9b95f78d7340c",
+          "ev_16e02111d47cc20adc96",
+          "ev_1ff1ef5a51834c971ca1",
+          "ev_20fc570e4fb06845b059",
+          "ev_23b1471767775e5b0f7e",
+          "ev_29e9ef763fb8d1d36f71",
+          "ev_2ce7025467916434c39e",
+          "ev_2fe8524606fb2a5fdc2e",
+          "ev_3113d86246748056ed39",
+          "ev_38bbbac1028402c9d70a",
+          "ev_38fde579202f2cea5020",
+          "ev_3a7bf6fdf142205853ea",
+          "ev_3bb20ab8e6bf150eec94",
+          "ev_3cf49b462e8a028f56cf",
+          "ev_3e70e8c63426b3920f1f",
+          "ev_4204e5b16e308d697273",
+          "ev_488701d4b0b4640922c8",
+          "ev_492e3dd1ee6c2e07ca52",
+          "ev_49f11885876bfddb668b",
+          "ev_4d1881d964c65c6330ea",
+          "ev_50d4718b77fb0c86b046",
+          "ev_527144ba0d997a580f21",
+          "ev_57666a26180bdae02df0",
+          "ev_5d05a37eff0876389766",
+          "ev_5d3d130a06ab92c6a298",
+          "ev_5db9bb3647a22dba1bef",
+          "ev_5e5113029c4810632a3c",
+          "ev_5ecd522372e6c353f483",
+          "ev_60653d39484efce81e64",
+          "ev_61de2c3ccad3326dbde0",
+          "ev_66459dae47313357cfb0",
+          "ev_6d1dcf95d5ffa3fc71c5",
+          "ev_720f7c7bb997c6d52849",
+          "ev_78b74ee9a21b476041ea",
+          "ev_79b3deda1d82d11195d7",
+          "ev_7a53ac76282770309a2a",
+          "ev_7adaef9d0b60713c55df",
+          "ev_7ca72484cb6117ce8fd9",
+          "ev_8690f5c61ba37e25d69b",
+          "ev_8a24103cec4da679fc87",
+          "ev_95df7826d89e7732af0c",
+          "ev_989d1a1266aa2c5f94a9",
+          "ev_a0241b8764458e1ea4fc",
+          "ev_a26accbde91ae906045d",
+          "ev_a631332ec99084c5c626",
+          "ev_a944f7dac59272266732",
+          "ev_ae6a21a3436ffcc1bb1e",
+          "ev_b261745c8685a494f95d",
+          "ev_b29eb84518e905c8bbcc",
+          "ev_b2d0b0ef1ad3365dd108",
+          "ev_b4058fee76d7a3995e7d",
+          "ev_b95f03c0cf924f0bb3ec",
+          "ev_bb9e6f564ffd164558d3",
+          "ev_bbf44d891f17532d674d",
+          "ev_bc1817704f4ced5122b5",
+          "ev_c105d6e49966885768d6",
+          "ev_c5fdc93b313ad97bb297",
+          "ev_c6a60b30f2cfbc9a48a7",
+          "ev_d07f0da618e7c5745e4a",
+          "ev_d26bbbe407ee6d8e48ee",
+          "ev_d4861532b09853d98cff",
+          "ev_d493e36b2f0dd58af504",
+          "ev_d68990ab5eea3c2ddca1",
+          "ev_d78055ccf23a59078979",
+          "ev_e114775e609c5b9c97c5",
+          "ev_eb13e62e0e148809b310",
+          "ev_ed5ba23a3a3d6a8a21c5",
+          "ev_ee109babfe387608e950",
+          "ev_eef58ef80db0bc4f6b39",
+          "ev_efcb89249856236c188b",
+          "ev_f383c2e497b6a2e938cc",
+          "ev_f4d77431fa6e06f6386b",
+          "ev_f752cff7a7773ed5ba86",
+          "ev_fa9396e1ed724a82dfe2",
+          "ev_fc910da4c361cede671d"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 81,
+          "sources": {
+            "bilibili": 5,
+            "steam": 76
+          },
+          "languages": {
+            "zh-CN": 81
+          },
+          "date_start": "2019-02-15T11:40:36+00:00",
+          "date_end": "2026-10-03T13:17:59+00:00",
+          "sentiment_positions": {
+            "negative": 18,
+            "positive": 59,
+            "unknown": 4
+          },
+          "sentiment_methods": {
+            "inferred_bilingual_lexicon": 5,
+            "source_native_recommendation": 76
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "No reliable topic assignment was available."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_44d85ce99aea57830760",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about fair_play_integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_33011e9ba8603e9002c2",
+          "ev_9f49fbeb6f36380c6bca"
+        ],
+        "challenging_evidence_ids": [
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_8ed7622ba61a7fe524b2",
+          "ev_90f7767166d4cc5138c8",
+          "ev_c950c9ee868f5fb94e86",
+          "ev_dd9c2e914447afd2ae7e",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_e94e78e68e3d9d382a7b",
+          "ev_ef742479a2ec7e0aca70"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 15,
+          "sources": {
+            "steam": 15
+          },
+          "languages": {
+            "zh-CN": 15
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 13,
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 15
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_41301137eb6c18345776",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 13 evidence item(s) report negative experiences related to fair_play_integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_8ed7622ba61a7fe524b2",
+          "ev_90f7767166d4cc5138c8",
+          "ev_c950c9ee868f5fb94e86",
+          "ev_dd9c2e914447afd2ae7e",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_e94e78e68e3d9d382a7b",
+          "ev_ef742479a2ec7e0aca70"
+        ],
+        "challenging_evidence_ids": [
+          "ev_33011e9ba8603e9002c2",
+          "ev_9f49fbeb6f36380c6bca"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 15,
+          "sources": {
+            "steam": 15
+          },
+          "languages": {
+            "zh-CN": 15
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 13,
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 15
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 15,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.8667,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": 31.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 10,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_4fc293d2d6c0fde7c5b3",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "controversy",
+        "statement": "The collected evidence contains distinguishable positive and negative positions on fair_play_integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_33011e9ba8603e9002c2",
+          "ev_9f49fbeb6f36380c6bca"
+        ],
+        "challenging_evidence_ids": [
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_8ed7622ba61a7fe524b2",
+          "ev_90f7767166d4cc5138c8",
+          "ev_c950c9ee868f5fb94e86",
+          "ev_dd9c2e914447afd2ae7e",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_e94e78e68e3d9d382a7b",
+          "ev_ef742479a2ec7e0aca70"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 15,
+          "sources": {
+            "steam": 15
+          },
+          "languages": {
+            "zh-CN": 15
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 13,
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 15
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This indicates disagreement in the sample, not population polarisation."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_66ce6f1eb479072df162",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about patch_reaction.",
+        "taxonomy_nodes": [
+          "patch_reaction"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_33011e9ba8603e9002c2"
+        ],
+        "challenging_evidence_ids": [
+          "ev_3004436fd25feac191d0",
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_d19539c2387fdfaa5588",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_f16b41dd1352edc7d90e",
+          "ev_f1f520e5dcba1b8750a6"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 12,
+          "sources": {
+            "steam": 12
+          },
+          "languages": {
+            "zh-CN": 12
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 11,
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 12
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_a0cc725bfd91ec16dbc4",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 11 evidence item(s) report negative experiences related to patch_reaction.",
+        "taxonomy_nodes": [
+          "patch_reaction"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_3004436fd25feac191d0",
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_d19539c2387fdfaa5588",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_f16b41dd1352edc7d90e",
+          "ev_f1f520e5dcba1b8750a6"
+        ],
+        "challenging_evidence_ids": [
+          "ev_33011e9ba8603e9002c2"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 12,
+          "sources": {
+            "steam": 12
+          },
+          "languages": {
+            "zh-CN": 12
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 11,
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 12
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 12,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.9167,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": 25.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 10,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_58fd4bbff797809a437c",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "controversy",
+        "statement": "The collected evidence contains distinguishable positive and negative positions on patch_reaction.",
+        "taxonomy_nodes": [
+          "patch_reaction"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_33011e9ba8603e9002c2"
+        ],
+        "challenging_evidence_ids": [
+          "ev_3004436fd25feac191d0",
+          "ev_465352b42c15d51fa68d",
+          "ev_68c784b368fa99ce4de2",
+          "ev_6b8758d7827b30c3aba6",
+          "ev_7a3ec750d20328253d1e",
+          "ev_8224dd49c18fa76a2360",
+          "ev_826fef189d63f892e664",
+          "ev_d19539c2387fdfaa5588",
+          "ev_e15ebc3e6a69bde150a9",
+          "ev_f16b41dd1352edc7d90e",
+          "ev_f1f520e5dcba1b8750a6"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 12,
+          "sources": {
+            "steam": 12
+          },
+          "languages": {
+            "zh-CN": 12
+          },
+          "date_start": "2026-09-30T12:44:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 11,
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 12
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This indicates disagreement in the sample, not population polarisation."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_68f9eb97806fd61776f3",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to bugs_stability.",
+        "taxonomy_nodes": [
+          "bugs_stability"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_94d08367d7facad1ea87",
+          "ev_c950c9ee868f5fb94e86"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "zh-CN": 2
+          },
+          "date_start": "2026-09-30T17:53:47+00:00",
+          "date_end": "2026-10-03T11:11:46+00:00",
+          "sentiment_positions": {
+            "negative": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 2,
+              "score_0_to_3": 2
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 6,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_01b227d0b0ef379b9869",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about combat.",
+        "taxonomy_nodes": [
+          "combat"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_41a5db45f0d610b5e763",
+          "ev_eac89a4bf9fbe32d03ec"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "zh-CN": 2
+          },
+          "date_start": "2026-10-03T05:34:51+00:00",
+          "date_end": "2026-10-03T13:20:07+00:00",
+          "sentiment_positions": {
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_c29852681d43110b2216",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about onboarding.",
+        "taxonomy_nodes": [
+          "onboarding"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_9f49fbeb6f36380c6bca",
+          "ev_c10c6c78cbb67c101e1a"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "zh-CN": 2
+          },
+          "date_start": "2026-09-30T14:07:37+00:00",
+          "date_end": "2026-10-03T11:04:30+00:00",
+          "sentiment_positions": {
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_f2c1fabc3902f6542f3c",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to performance.",
+        "taxonomy_nodes": [
+          "performance"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_ef742479a2ec7e0aca70",
+          "ev_f16b41dd1352edc7d90e"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "zh-CN": 2
+          },
+          "date_start": "2026-09-30T13:59:44+00:00",
+          "date_end": "2026-10-03T07:34:37+00:00",
+          "sentiment_positions": {
+            "negative": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 2,
+              "score_0_to_3": 2
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 6,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_9042b530032195260ae9",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to pvp.",
+        "taxonomy_nodes": [
+          "pvp"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_90f7767166d4cc5138c8",
+          "ev_e94e78e68e3d9d382a7b"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "zh-CN": 2
+          },
+          "date_start": "2026-09-30T17:08:44+00:00",
+          "date_end": "2026-10-02T19:36:34+00:00",
+          "sentiment_positions": {
+            "negative": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 2,
+              "score_0_to_3": 2
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 6,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_ce8922ed505cc78e1af5",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about gacha.",
+        "taxonomy_nodes": [
+          "gacha"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_1fe25061c16354dcd836"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-03T11:38:29+00:00",
+          "date_end": "2026-10-03T11:38:29+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_fc0296d8ece5aa281a68",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to progression.",
+        "taxonomy_nodes": [
+          "progression"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_ef742479a2ec7e0aca70"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-30T13:59:44+00:00",
+          "date_end": "2026-09-30T13:59:44+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 5,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_446ace737fdfd27827a2",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: fair and trustworthy match integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.74,
+        "supporting_evidence_ids": [
+          "ev_33011e9ba8603e9002c2",
+          "ev_8ed7622ba61a7fe524b2",
+          "ev_dd9c2e914447afd2ae7e"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 3,
+          "sources": {
+            "steam": 3
+          },
+          "languages": {
+            "zh-CN": 3
+          },
+          "date_start": "2026-09-30T19:15:02+00:00",
+          "date_end": "2026-10-03T12:45:17+00:00",
+          "sentiment_positions": {
+            "negative": 2,
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 3
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 3,
+              "score_0_to_3": 2
+            },
+            "negative_share": {
+              "value": 0.6667,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": 7.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 9,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      },
+      {
+        "insight_id": "insight_5aedaa891ee5cf98137e",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q61478103"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: reliable, interruption-free play.",
+        "taxonomy_nodes": [
+          "bugs_stability"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_c950c9ee868f5fb94e86"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-03T11:11:46+00:00",
+          "date_end": "2026-10-03T11:11:46+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 5,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:47.344209Z"
+      }
+    ],
+    "facts": [
+      {
+        "fact_id": "fact_9a5a6800085579186d57",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "title",
+        "value": {
+          "language": "en",
+          "title": "Apex Legends™"
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_d9bb34ae5776a83dc2cb",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "developer",
+        "value": "Respawn",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_4bba7a1e1e970c3fb32f",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "publisher",
+        "value": "Electronic Arts",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_b638bd4efeb9ba23b3a8",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "release_date",
+        "value": {
+          "date": "Nov 4, 2020",
+          "coming_soon": false
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_7d819247f9390e0a8700",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "platform_support",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_f09a43a3ef304aa9bb00",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "minimum_requirements",
+        "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\nMemory: 6 GB RAM\nGraphics: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_4c75a902e571d7a08dad",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "minimum",
+          "amount": 75.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_0e2f41d7a1271cbbda8c",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "recommended_requirements",
+        "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Ryzen 5 CPU or Equivalent\nMemory: 8 GB RAM\nGraphics: AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_2c4cb4e0e6ee8198f72e",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "recommended",
+          "amount": 75.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_a2869fcf6c1adcd0618f",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "input_support",
+        "value": {
+          "controller": "full"
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      },
+      {
+        "fact_id": "fact_a6787f7306feb143946f",
+        "game_id": "game_wikidata_q61478103",
+        "fact_type": "supported_languages",
+        "value": [
+          "English",
+          "French",
+          "Italian",
+          "German",
+          "Spanish - Spain",
+          "Japanese",
+          "Korean",
+          "Polish",
+          "Portuguese - Brazil",
+          "Russian",
+          "Simplified Chinese",
+          "Traditional Chinese",
+          "Spanish - Latin America",
+          "Arabic\nlanguages with full audio support"
+        ],
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_90fb617a265322c60fb5",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T13:46:05.011116Z"
+      }
+    ],
+    "coverage": {
+      "game_id": "game_wikidata_q61478103",
+      "run_id": "run_voice_20261003T134554Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 11,
+          "items_relevant": 5,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2019-02-15T11:40:36Z",
+          "date_end": "2026-10-02T14:21:28Z",
+          "languages": {
+            "zh-CN": 11
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 200,
+          "items_relevant": 200,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 100,
+          "date_start": "2026-09-30T12:32:22Z",
+          "date_end": "2026-10-03T13:20:07Z",
+          "languages": {
+            "zh-CN": 100
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 112,
+      "relevant_corpus_size": 105,
+      "languages": {
+        "unknown": 1,
+        "zh-CN": 111
+      },
+      "date_start": "2019-02-15T11:40:36Z",
+      "date_end": "2026-10-03T13:20:07Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:47.344209Z"
+    },
+    "annotation_count": 105,
+    "generated_at": "2026-10-03T13:53:47.344209Z"
+  },
+  "evidence_store_path": "examples/e2e/compare-demo/apex-legends/evidence.sqlite3",
+  "report_path": "examples/e2e/compare-demo/apex-legends/evidence_report.md",
+  "warnings": []
+}

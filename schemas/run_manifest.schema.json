@@ -1,0 +1,287 @@
+{
+  "$defs": {
+    "ExpectedEvidenceKind": {
+      "enum": [
+        "fact",
+        "patch_note",
+        "review",
+        "post",
+        "comment",
+        "video"
+      ],
+      "title": "ExpectedEvidenceKind",
+      "type": "string"
+    },
+    "QueryIntent": {
+      "enum": [
+        "general",
+        "review",
+        "performance",
+        "optimisation",
+        "graphics",
+        "audio",
+        "controls",
+        "bugs",
+        "story",
+        "characters",
+        "combat",
+        "exploration",
+        "progression",
+        "grind",
+        "daily",
+        "monetisation",
+        "gacha",
+        "pvp",
+        "endgame",
+        "churn",
+        "uninstall",
+        "feature_request",
+        "update",
+        "patch",
+        "controversy"
+      ],
+      "title": "QueryIntent",
+      "type": "string"
+    },
+    "QueryPlan": {
+      "additionalProperties": false,
+      "properties": {
+        "alias_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Alias Ids",
+          "type": "array"
+        },
+        "disambiguators": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Disambiguators",
+          "type": "array"
+        },
+        "expected_evidence_kind": {
+          "$ref": "#/$defs/ExpectedEvidenceKind"
+        },
+        "game_id": {
+          "pattern": "^game_.+",
+          "title": "Game Id",
+          "type": "string"
+        },
+        "generated_at": {
+          "format": "date-time",
+          "title": "Generated At",
+          "type": "string"
+        },
+        "intent": {
+          "$ref": "#/$defs/QueryIntent"
+        },
+        "language": {
+          "minLength": 1,
+          "title": "Language",
+          "type": "string"
+        },
+        "query_id": {
+          "pattern": "^query_.+",
+          "title": "Query Id",
+          "type": "string"
+        },
+        "query_text": {
+          "minLength": 1,
+          "title": "Query Text",
+          "type": "string"
+        },
+        "run_id": {
+          "pattern": "^run_.+",
+          "title": "Run Id",
+          "type": "string"
+        },
+        "source": {
+          "minLength": 1,
+          "title": "Source",
+          "type": "string"
+        }
+      },
+      "required": [
+        "query_id",
+        "run_id",
+        "game_id",
+        "source",
+        "language",
+        "intent",
+        "query_text",
+        "alias_ids",
+        "disambiguators",
+        "expected_evidence_kind",
+        "generated_at"
+      ],
+      "title": "QueryPlan",
+      "type": "object"
+    },
+    "SourceRunState": {
+      "enum": [
+        "collected",
+        "partial",
+        "unavailable",
+        "disabled",
+        "failed"
+      ],
+      "title": "SourceRunState",
+      "type": "string"
+    },
+    "SourceRunStatus": {
+      "additionalProperties": false,
+      "properties": {
+        "duplicates": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Duplicates",
+          "type": "integer"
+        },
+        "error_code": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Error Code"
+        },
+        "items_ambiguous": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Items Ambiguous",
+          "type": "integer"
+        },
+        "items_irrelevant": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Items Irrelevant",
+          "type": "integer"
+        },
+        "items_relevant": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Items Relevant",
+          "type": "integer"
+        },
+        "items_retrieved": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Items Retrieved",
+          "type": "integer"
+        },
+        "queries_attempted": {
+          "default": 0,
+          "minimum": 0,
+          "title": "Queries Attempted",
+          "type": "integer"
+        },
+        "reason": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Reason"
+        },
+        "status": {
+          "$ref": "#/$defs/SourceRunState"
+        }
+      },
+      "required": [
+        "status"
+      ],
+      "title": "SourceRunStatus",
+      "type": "object"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "code_version": {
+      "minLength": 1,
+      "title": "Code Version",
+      "type": "string"
+    },
+    "config_version": {
+      "minLength": 1,
+      "title": "Config Version",
+      "type": "string"
+    },
+    "ended_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Ended At"
+    },
+    "game_ids": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Game Ids",
+      "type": "array"
+    },
+    "query_plans": {
+      "items": {
+        "$ref": "#/$defs/QueryPlan"
+      },
+      "title": "Query Plans",
+      "type": "array"
+    },
+    "request_hash": {
+      "minLength": 1,
+      "title": "Request Hash",
+      "type": "string"
+    },
+    "run_id": {
+      "pattern": "^run_.+",
+      "title": "Run Id",
+      "type": "string"
+    },
+    "source_status": {
+      "additionalProperties": {
+        "$ref": "#/$defs/SourceRunStatus"
+      },
+      "title": "Source Status",
+      "type": "object"
+    },
+    "started_at": {
+      "format": "date-time",
+      "title": "Started At",
+      "type": "string"
+    },
+    "taxonomy_version": {
+      "minLength": 1,
+      "title": "Taxonomy Version",
+      "type": "string"
+    }
+  },
+  "required": [
+    "run_id",
+    "request_hash",
+    "game_ids",
+    "query_plans",
+    "code_version",
+    "config_version",
+    "taxonomy_version",
+    "started_at",
+    "source_status"
+  ],
+  "title": "CollectionRun",
+  "type": "object"
+}

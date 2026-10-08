@@ -1,0 +1,162 @@
+{
+  "$defs": {
+    "SourceAuthority": {
+      "enum": [
+        "official",
+        "platform_store",
+        "reputable_third_party"
+      ],
+      "title": "SourceAuthority",
+      "type": "string"
+    },
+    "VerificationStatus": {
+      "enum": [
+        "verified",
+        "conflicting",
+        "unverified"
+      ],
+      "title": "VerificationStatus",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "confidence": {
+      "maximum": 1,
+      "minimum": 0,
+      "title": "Confidence",
+      "type": "number"
+    },
+    "fact_id": {
+      "pattern": "^fact_.+",
+      "title": "Fact Id",
+      "type": "string"
+    },
+    "fact_type": {
+      "minLength": 1,
+      "title": "Fact Type",
+      "type": "string"
+    },
+    "game_id": {
+      "pattern": "^game_.+",
+      "title": "Game Id",
+      "type": "string"
+    },
+    "platform": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Platform"
+    },
+    "retrieved_at": {
+      "format": "date-time",
+      "title": "Retrieved At",
+      "type": "string"
+    },
+    "source_authority": {
+      "$ref": "#/$defs/SourceAuthority"
+    },
+    "source_evidence_id": {
+      "minLength": 1,
+      "title": "Source Evidence Id",
+      "type": "string"
+    },
+    "territory": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Territory"
+    },
+    "unit": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Unit"
+    },
+    "valid_from": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Valid From"
+    },
+    "valid_to": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Valid To"
+    },
+    "value": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "integer"
+        },
+        {
+          "type": "number"
+        },
+        {
+          "type": "boolean"
+        },
+        {
+          "items": {},
+          "type": "array"
+        },
+        {
+          "additionalProperties": true,
+          "type": "object"
+        }
+      ],
+      "title": "Value"
+    },
+    "verification_status": {
+      "$ref": "#/$defs/VerificationStatus"
+    }
+  },
+  "required": [
+    "fact_id",
+    "game_id",
+    "fact_type",
+    "value",
+    "source_evidence_id",
+    "source_authority",
+    "verification_status",
+    "confidence",
+    "retrieved_at"
+  ],
+  "title": "FactRecord",
+  "type": "object"
+}

@@ -1,0 +1,1359 @@
+{
+  "input_name": "Counter-Strike 2",
+  "run_id": "run_foundation_20260928T185014Z",
+  "resolution": {
+    "input_name": "Counter-Strike 2",
+    "locale": "en",
+    "status": "resolved",
+    "game": {
+      "game_id": "game_steam_730",
+      "canonical_title": "Counter-Strike 2",
+      "original_title": "Counter-Strike 2",
+      "localized_titles": {
+        "en": "Counter-Strike 2",
+        "zh-CN": "Counter-Strike 2"
+      },
+      "external_ids": {
+        "steam_app_id": "730"
+      },
+      "developers": [
+        "Valve"
+      ],
+      "publishers": [
+        "Valve"
+      ],
+      "resolution_status": "resolved",
+      "resolution_confidence": 0.7,
+      "resolution_evidence_ids": [
+        "ev_resolver_1612182aff5fabbb0ba0"
+      ],
+      "resolved_at": "2026-09-28T18:50:14.844445Z",
+      "release_dates": {},
+      "genres": [
+        "Action",
+        "Free To Play"
+      ],
+      "franchise": null,
+      "official_urls": [
+        "http://counter-strike.net/"
+      ],
+      "platforms": [
+        "linux",
+        "windows"
+      ]
+    },
+    "candidates": [
+      {
+        "entity": {
+          "game_id": "game_steam_730",
+          "canonical_title": "Counter-Strike 2",
+          "original_title": "Counter-Strike 2",
+          "localized_titles": {
+            "en": "Counter-Strike 2",
+            "zh-CN": "Counter-Strike 2"
+          },
+          "external_ids": {
+            "steam_app_id": "730"
+          },
+          "developers": [
+            "Valve"
+          ],
+          "publishers": [
+            "Valve"
+          ],
+          "resolution_status": "resolved",
+          "resolution_confidence": 0.7,
+          "resolution_evidence_ids": [
+            "ev_resolver_1612182aff5fabbb0ba0"
+          ],
+          "resolved_at": "2026-09-28T18:50:14.844445Z",
+          "release_dates": {},
+          "genres": [
+            "Action",
+            "Free To Play"
+          ],
+          "franchise": null,
+          "official_urls": [
+            "http://counter-strike.net/"
+          ],
+          "platforms": [
+            "linux",
+            "windows"
+          ]
+        },
+        "score": 0.7,
+        "reasons": [
+          "exact official/localized title match",
+          "localized title available for en",
+          "supported by steam",
+          "stable external identifier present",
+          "platform listing present"
+        ],
+        "evidence": [
+          {
+            "evidence_id": "ev_resolver_1612182aff5fabbb0ba0",
+            "provider": "steam",
+            "source_reference": "steam_app:730",
+            "source_url": "https://store.steampowered.com/app/730/",
+            "retrieved_at": "2026-09-28T18:46:11.226183Z"
+          }
+        ],
+        "providers": [
+          "steam"
+        ]
+      },
+      {
+        "entity": {
+          "game_id": "game_steam_2678630",
+          "canonical_title": "Counter-Strike 2 Soundtrack",
+          "original_title": "Counter-Strike 2 Soundtrack",
+          "localized_titles": {
+            "en": "Counter-Strike 2 Soundtrack"
+          },
+          "external_ids": {
+            "steam_app_id": "2678630"
+          },
+          "developers": [],
+          "publishers": [],
+          "resolution_status": "unresolved",
+          "resolution_confidence": 0.3642,
+          "resolution_evidence_ids": [
+            "ev_resolver_e264a5ebddac1a4641e8"
+          ],
+          "resolved_at": "2026-09-28T18:50:14.844557Z",
+          "release_dates": {},
+          "genres": [],
+          "franchise": null,
+          "official_urls": [],
+          "platforms": []
+        },
+        "score": 0.3642,
+        "reasons": [
+          "title similarity 0.74",
+          "localized title available for en",
+          "supported by steam",
+          "stable external identifier present"
+        ],
+        "evidence": [
+          {
+            "evidence_id": "ev_resolver_e264a5ebddac1a4641e8",
+            "provider": "steam",
+            "source_reference": "steam_app:2678630",
+            "source_url": "https://store.steampowered.com/app/2678630/",
+            "retrieved_at": "2026-09-28T18:46:11.226183Z"
+          }
+        ],
+        "providers": [
+          "steam"
+        ]
+      },
+      {
+        "entity": {
+          "game_id": "game_wikidata_q78783623",
+          "canonical_title": "Counter-Strike 2 Prime Status Upgrade",
+          "original_title": "Counter-Strike 2 Prime Status Upgrade",
+          "localized_titles": {
+            "en": "Counter-Strike 2 Prime Status Upgrade"
+          },
+          "external_ids": {
+            "wikidata_id": "Q78783623"
+          },
+          "developers": [],
+          "publishers": [],
+          "resolution_status": "unresolved",
+          "resolution_confidence": 0.3322,
+          "resolution_evidence_ids": [
+            "ev_resolver_b002940730800462e481"
+          ],
+          "resolved_at": "2026-09-28T18:50:14.843483Z",
+          "release_dates": {},
+          "genres": [],
+          "franchise": null,
+          "official_urls": [],
+          "platforms": []
+        },
+        "score": 0.3322,
+        "reasons": [
+          "title similarity 0.61",
+          "localized title available for en",
+          "supported by wikidata",
+          "stable external identifier present"
+        ],
+        "evidence": [
+          {
+            "evidence_id": "ev_resolver_b002940730800462e481",
+            "provider": "wikidata",
+            "source_reference": "Q78783623",
+            "source_url": "https://www.wikidata.org/wiki/Q78783623",
+            "retrieved_at": "2026-09-28T18:46:05.555080Z"
+          }
+        ],
+        "providers": [
+          "wikidata"
+        ]
+      },
+      {
+        "entity": {
+          "game_id": "game_wikidata_q1090793",
+          "canonical_title": "CS2D",
+          "original_title": "CS2D",
+          "localized_titles": {
+            "en": "CS2D",
+            "zh": "反恐精英2D",
+            "zh-hans": "反恐精英2D",
+            "zh-hant": "反恐精英2D"
+          },
+          "external_ids": {
+            "wikidata_id": "Q1090793",
+            "steam_app_id": "666220"
+          },
+          "developers": [],
+          "publishers": [],
+          "resolution_status": "unresolved",
+          "resolution_confidence": 0.3233,
+          "resolution_evidence_ids": [
+            "ev_resolver_b24d56eb1c35f9867e04",
+            "ev_resolver_b47fe76e69b4b8b3b4f0"
+          ],
+          "resolved_at": "2026-09-28T18:50:14.844313Z",
+          "release_dates": {},
+          "genres": [],
+          "franchise": null,
+          "official_urls": [],
+          "platforms": []
+        },
+        "score": 0.3233,
+        "reasons": [
+          "title similarity 0.33",
+          "localized title available for en",
+          "supported by steam, wikidata",
+          "stable external identifier present"
+        ],
+        "evidence": [
+          {
+            "evidence_id": "ev_resolver_b24d56eb1c35f9867e04",
+            "provider": "wikidata",
+            "source_reference": "Q1090793",
+            "source_url": "https://www.wikidata.org/wiki/Q1090793",
+            "retrieved_at": "2026-09-28T18:46:05.555080Z"
+          },
+          {
+            "evidence_id": "ev_resolver_b47fe76e69b4b8b3b4f0",
+            "provider": "steam",
+            "source_reference": "steam_app:666220",
+            "source_url": "https://store.steampowered.com/app/666220/",
+            "retrieved_at": "2026-09-28T18:46:11.226183Z"
+          }
+        ],
+        "providers": [
+          "steam",
+          "wikidata"
+        ]
+      },
+      {
+        "entity": {
+          "game_id": "game_wikidata_q111165107",
+          "canonical_title": "反恐精英2",
+          "original_title": "反恐精英2",
+          "localized_titles": {
+            "zh": "反恐精英2",
+            "zh-cn": "反恐精英2"
+          },
+          "external_ids": {
+            "wikidata_id": "Q111165107"
+          },
+          "developers": [],
+          "publishers": [],
+          "resolution_status": "unresolved",
+          "resolution_confidence": 0.1463,
+          "resolution_evidence_ids": [
+            "ev_resolver_f0d77137fbe2a39b8634"
+          ],
+          "resolved_at": "2026-09-28T18:50:14.844081Z",
+          "release_dates": {},
+          "genres": [],
+          "franchise": null,
+          "official_urls": [],
+          "platforms": []
+        },
+        "score": 0.1463,
+        "reasons": [
+          "title similarity 0.11",
+          "supported by wikidata",
+          "stable external identifier present"
+        ],
+        "evidence": [
+          {
+            "evidence_id": "ev_resolver_f0d77137fbe2a39b8634",
+            "provider": "wikidata",
+            "source_reference": "Q111165107",
+            "source_url": "https://www.wikidata.org/wiki/Q111165107",
+            "retrieved_at": "2026-09-28T18:46:05.555080Z"
+          }
+        ],
+        "providers": [
+          "wikidata"
+        ]
+      }
+    ],
+    "reasons": [
+      "one candidate passed the resolution threshold with a safe margin"
+    ],
+    "provider_failures": [],
+    "partial": false
+  },
+  "aliases": {
+    "game_id": "game_steam_730",
+    "aliases": [
+      {
+        "alias_id": "alias_9bc588a666e99589385b",
+        "game_id": "game_steam_730",
+        "text": "Counter-Strike 2",
+        "normalized_text": "counterstrike2",
+        "language": "en",
+        "alias_type": "official_title",
+        "source_evidence_ids": [
+          "ev_resolver_1612182aff5fabbb0ba0"
+        ],
+        "source_platforms": [
+          "all"
+        ],
+        "confidence": 1.0,
+        "ambiguity": "none",
+        "ambiguity_notes": null,
+        "validation_status": "validated",
+        "search_enabled": true,
+        "standalone_search_safe": true
+      },
+      {
+        "alias_id": "alias_ace2cdebdfd9cfec53a1",
+        "game_id": "game_steam_730",
+        "text": "CS2",
+        "normalized_text": "cs2",
+        "language": "en",
+        "alias_type": "abbreviation",
+        "source_evidence_ids": [
+          "ev_alias_f1ad10de64bb4a99a4a6"
+        ],
+        "source_platforms": [
+          "steam"
+        ],
+        "confidence": 0.95,
+        "ambiguity": "high",
+        "ambiguity_notes": "Steam search returned 1 competing top-five result(s)",
+        "validation_status": "scoped_only",
+        "search_enabled": true,
+        "standalone_search_safe": false
+      }
+    ],
+    "review_items": [
+      {
+        "alias_id": "alias_ace2cdebdfd9cfec53a1",
+        "text": "CS2",
+        "normalized_text": "cs2",
+        "validation_status": "scoped_only",
+        "reasons": [
+          "high-ambiguity alias requires a platform or canonical-title disambiguator"
+        ],
+        "source_evidence_ids": [
+          "ev_alias_f1ad10de64bb4a99a4a6"
+        ],
+        "source_references": [
+          "https://store.steampowered.com/search/?term=CS2"
+        ],
+        "source_excerpts": [
+          "[{\"id\": 730, \"metascore\": \"\", \"name\": \"Counter-Strike 2\", \"platforms\": {\"linux\": true, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg?t=1789251637\", \"type\": \"app\"}, {\"id\": 666220, \"metascore\": \"\", \"name\": \"CS2D\", \"platforms\": {\"linux\": true, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666220/capsule_231x87.jpg?t=1787393976\", \"type\": \"app\"}]"
+        ]
+      }
+    ],
+    "observations": [
+      {
+        "text": "CS2",
+        "language": "en",
+        "proposed_type": "abbreviation",
+        "source_evidence_ids": [
+          "ev_alias_f1ad10de64bb4a99a4a6"
+        ],
+        "source_platforms": [
+          "steam"
+        ],
+        "evidence_basis": "platform_search_match",
+        "confidence": 0.95,
+        "ambiguity": "high",
+        "ambiguity_notes": "Steam search returned 1 competing top-five result(s)",
+        "platform_scope_required": true,
+        "source_references": [
+          "https://store.steampowered.com/search/?term=CS2"
+        ],
+        "source_excerpts": [
+          "[{\"id\": 730, \"metascore\": \"\", \"name\": \"Counter-Strike 2\", \"platforms\": {\"linux\": true, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg?t=1789251637\", \"type\": \"app\"}, {\"id\": 666220, \"metascore\": \"\", \"name\": \"CS2D\", \"platforms\": {\"linux\": true, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666220/capsule_231x87.jpg?t=1787393976\", \"type\": \"app\"}]"
+        ]
+      }
+    ]
+  },
+  "query_plans": [
+    {
+      "query_id": "query_529bdffd45331a61eeb5",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"Counter-Strike 2\" 官方",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_74ed8d335165b822c409",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "\"Counter-Strike 2\" 性能 帧率 卡顿 官方",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_12bd28b65295fe4cdbb7",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "zh-CN",
+      "intent": "controls",
+      "query_text": "\"Counter-Strike 2\" 操作 手柄 官方",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_4b8bfafb36e9358bbba8",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "zh-CN",
+      "intent": "patch",
+      "query_text": "\"Counter-Strike 2\" 补丁 公告 官方",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "patch_note",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_6c4f1c536b55c518a250",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "general",
+      "query_text": "\"Counter-Strike 2\" official",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_9c325028a2276690b246",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "general",
+      "query_text": "\"CS2\" official Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_8f6dc0645688d2ad0cb5",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "\"Counter-Strike 2\" performance fps stutter official",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_9f1acf0d1a3920d5c3ab",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "\"CS2\" performance fps stutter official Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_e11e331cbf2163a14a8d",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "\"Counter-Strike 2\" controls controller official",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_2fcfe88b99c477ee79e8",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "\"CS2\" controls controller official Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "fact",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_611e762c38650d2f7e4e",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "\"Counter-Strike 2\" patch notes official",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "patch_note",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_3b6baea8dd91192d402d",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "official",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "\"CS2\" patch notes official Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "patch_note",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_4394954eb36243cd2ee1",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "steam_app:730 intent:general",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_e52fe97d87ebffa06c56",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "steam_app:730 intent:performance",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_5fc0a725c3f2cb8d7690",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "controls",
+      "query_text": "steam_app:730 intent:controls",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_692e8bf34a3cd4cd124e",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "patch",
+      "query_text": "steam_app:730 intent:patch",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_b76fbf5ad813b7759090",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "en",
+      "intent": "general",
+      "query_text": "steam_app:730 intent:general",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_59c98d037a27957f7837",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "steam_app:730 intent:performance",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_167918cdeff21f534063",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "steam_app:730 intent:controls",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_9ab8c3ab130dd7ec446a",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "steam",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "steam_app:730 intent:patch",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_177fb9e641c2eb351518",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"Counter-Strike 2\"",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_9a1318b22ae8a6708fdc",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "\"Counter-Strike 2\" 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_fcb25c7c6bc5b43a7be4",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "controls",
+      "query_text": "\"Counter-Strike 2\" 操作 手柄",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_047da5e26625c5cc7c57",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "patch",
+      "query_text": "\"Counter-Strike 2\" 补丁 公告",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_944f73969724fa3b6737",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "general",
+      "query_text": "\"Counter-Strike 2\"",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_8bf16241da5c2234170d",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "general",
+      "query_text": "\"CS2\" Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_7052d14bd8a684bc88b8",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "\"Counter-Strike 2\" performance fps stutter",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_e0a7ff9ebb6cc4101659",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "\"CS2\" performance fps stutter Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_2304c093649297e1503b",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "\"Counter-Strike 2\" controls controller",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_3de8c8a2f2848128150c",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "\"CS2\" controls controller Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_d65e2ade0a2b11f34821",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "\"Counter-Strike 2\" patch notes",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_5f05a2b8f5e380a3b2d1",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "reddit",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "\"CS2\" patch notes Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_65ac364d2c979b0c927a",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "Counter-Strike 2",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_9b4917b310740e235c59",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "Counter-Strike 2 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_76c24993008e18910b01",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "controls",
+      "query_text": "Counter-Strike 2 操作 手柄",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_f4555f6c87269b3dc2f0",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "patch",
+      "query_text": "Counter-Strike 2 补丁 公告",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_5971653925336480b347",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "general",
+      "query_text": "Counter-Strike 2",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_5cbe7fb559bc683c703e",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "general",
+      "query_text": "CS2 Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_cf111474bee125aef07d",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "Counter-Strike 2 performance fps stutter",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_ceef7fde9fdc09f64cff",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "performance",
+      "query_text": "CS2 performance fps stutter Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_6683b83d58e4365b0dbc",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "Counter-Strike 2 controls controller",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_be7f611bb85997cd7232",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "controls",
+      "query_text": "CS2 controls controller Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_a03e2dc19debc0e53522",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "Counter-Strike 2 patch notes",
+      "alias_ids": [
+        "alias_9bc588a666e99589385b"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    },
+    {
+      "query_id": "query_98da9946ec651799e561",
+      "run_id": "run_foundation_20260928T185014Z",
+      "game_id": "game_steam_730",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "patch",
+      "query_text": "CS2 patch notes Counter-Strike 2 Valve linux",
+      "alias_ids": [
+        "alias_ace2cdebdfd9cfec53a1"
+      ],
+      "disambiguators": [
+        "Counter-Strike 2",
+        "Valve",
+        "linux"
+      ],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-09-28T18:50:22.540349Z"
+    }
+  ],
+  "fact_bundle": {
+    "game_id": "game_steam_730",
+    "facts": [
+      {
+        "fact_id": "fact_1ee5e76b03edf67c298d",
+        "game_id": "game_steam_730",
+        "fact_type": "title",
+        "value": {
+          "language": "en",
+          "title": "Counter-Strike 2"
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_86f65fb7b15dcf0600df",
+        "game_id": "game_steam_730",
+        "fact_type": "developer",
+        "value": "Valve",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_4b2bea04a0c3ed53b425",
+        "game_id": "game_steam_730",
+        "fact_type": "publisher",
+        "value": "Valve",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_db49e32ffe505b2711da",
+        "game_id": "game_steam_730",
+        "fact_type": "release_date",
+        "value": {
+          "date": "Aug 21, 2012",
+          "coming_soon": false
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_1a8853015d23fc500e48",
+        "game_id": "game_steam_730",
+        "fact_type": "platform_support",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_1c4deefcbdb45c923a97",
+        "game_id": "game_steam_730",
+        "fact_type": "platform_support",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Linux",
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_b01682b45b849605d8c9",
+        "game_id": "game_steam_730",
+        "fact_type": "minimum_requirements",
+        "value": "Minimum:\nOS: Windows® 10\nProcessor: 4 hardware CPU threads - Intel® Core™ i5 750 or higher\nMemory: 8 GB RAM\nGraphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0\nDirectX: Version 11\nStorage: 85 GB available space",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_a1d34addd0b9d4b4bf62",
+        "game_id": "game_steam_730",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "minimum",
+          "amount": 85.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_b094cb494523bc51b246",
+        "game_id": "game_steam_730",
+        "fact_type": "supported_languages",
+        "value": [
+          "Czech",
+          "Danish",
+          "Dutch",
+          "English",
+          "Finnish",
+          "French",
+          "German",
+          "Hungarian",
+          "Italian",
+          "Japanese",
+          "Korean",
+          "Norwegian",
+          "Polish",
+          "Portuguese - Portugal",
+          "Portuguese - Brazil",
+          "Romanian",
+          "Russian",
+          "Simplified Chinese",
+          "Spanish - Spain",
+          "Swedish",
+          "Thai",
+          "Traditional Chinese",
+          "Turkish",
+          "Bulgarian",
+          "Ukrainian",
+          "Greek",
+          "Spanish - Latin America",
+          "Vietnamese",
+          "Indonesian\nlanguages with full audio support"
+        ],
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      },
+      {
+        "fact_id": "fact_ffa4ff69396acb17f666",
+        "game_id": "game_steam_730",
+        "fact_type": "cross_play",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z"
+      }
+    ],
+    "evidence": [
+      {
+        "evidence_id": "ev_5c32f9d680b8bcb69acf",
+        "game_id": "game_steam_730",
+        "evidence_kind": "fact_source",
+        "access_scope": "public",
+        "dataset_id": null,
+        "source": "steam",
+        "source_content_id": "steam_app:730",
+        "parent_evidence_id": null,
+        "source_url": "https://store.steampowered.com/app/730/",
+        "source_reference": null,
+        "title": null,
+        "original_text": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/extras/87184cdf8045cdc8b7a83be42802e634.avif?t=1789251637\\\" width=1194 height=78 /></span></p><p class=\\\"bb_paragraph\\\" >  </p><p class=\\\"bb_paragraph\\\" >For over two decades, Counter Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter Strike 2.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >A free upgrade to CS:GO, Counter Strike 2 marks the largest technical leap in Counter Strike’s history. Built on the Source 2 engine, Counter Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >In addition to the classic objective-focused gameplay that Counter Strike pioneered in 1999, Counter Strike 2 features: </p><p class=\\\"bb_paragraph\\\" ></p><ul class=\\\"bb_ul\\\"><li><p class=\\\"bb_paragraph\\\" >All-new CS Ratings with the updated Premier mode</p></li><li><p class=\\\"bb_paragraph\\\" >Global and Regional leaderboards</p></li><li><p class=\\\"bb_paragraph\\\" >Upgraded and overhauled maps</p></li><li><p class=\\\"bb_paragraph\\\" >Game-changing dynamic smoke grenades</p></li><li><p class=\\\"bb_paragraph\\\" >Tick-rate-independent gameplay</p></li><li><p class=\\\"bb_paragraph\\\" >Redesigned visual effects and audio</p></li><li><p class=\\\"bb_paragraph\\\" >All items from CS:GO moving forward to CS2</p></li></ul>\", \"achievements\": {\"highlighted\": [{\"archived\": 0, \"hidden\": 1, \"icon\": \"f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg\", \"localized_name\": \"A New Beginning\", \"name\": \"A New Beginning\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/730/f75dd04fa12445a8ec43be65fa16ff1b8d2bf82e.jpg\"}], \"total\": 1}, \"background\": \"https://store.akamai.steamstatic.com/images/storepagebackground/app/730?t=1789251637\", \"background_raw\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/page_bg_raw.jpg?t=1789251637\", \"capsule_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_231x87.jpg?t=1789251637\", \"capsule_imagev5\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/942c04efaa5bc87afb6f2a97dbf17ac614c8a84d/capsule_184x69.jpg?t=1789251637\", \"categories\": [{\"description\": \"Multi-player\", \"id\": 1}, {\"description\": \"Cross-Platform Multiplayer\", \"id\": 27}, {\"description\": \"Steam Trading Cards\", \"id\": 29}, {\"description\": \"Steam Workshop\", \"id\": 51}, {\"description\": \"Steam Workshop\", \"id\": 30}, {\"description\": \"In-App Purchases\", \"id\": 35}, {\"description\": \"Adjustable Text Size\", \"id\": 64}, {\"description\": \"Camera Comfort\", \"id\": 67}, {\"description\": \"Color Alternatives\", \"id\": 66}, {\"description\": \"Custom Volume Controls\", \"id\": 68}, {\"description\": \"Playable without Timed Input\", \"id\": 74}, {\"description\": \"Stereo Sound\", \"id\": 69}, {\"description\": \"Surround Sound\", \"id\": 70}, {\"description\": \"Valve Anti-Cheat enabled\", \"id\": 8}, {\"description\": \"Stats\", \"id\": 15}, {\"description\": \"Remote Play on Phone\", \"id\": 41}, {\"description\": \"Remote Play on Tablet\", \"id\": 42}, {\"description\": \"Remote Play on TV\", \"id\": 43}, {\"description\": \"Steam Timeline\", \"id\": 63}], \"content_descriptors\": {\"ids\": [2, 5], \"notes\": \"Includes intense violence and blood.\"}, \"detailed_description\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/extras/87184cdf8045cdc8b7a83be42802e634.avif?t=1789251637\\\" width=1194 height=78 /></span></p><p class=\\\"bb_paragraph\\\" >  </p><p class=\\\"bb_paragraph\\\" >For over two decades, Counter Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter Strike 2.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >A free upgrade to CS:GO, Counter Strike 2 marks the largest technical leap in Counter Strike’s history. Built on the Source 2 engine, Counter Strike 2 is modernized with realistic physically-based rendering, state of the art networking, and upgraded Community Workshop tools.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >In addition to the classic objective-focused gameplay that Counter Strike pioneered in 1999, Counter Strike 2 features: </p><p class=\\\"bb_paragraph\\\" ></p><ul class=\\\"bb_ul\\\"><li><p class=\\\"bb_paragraph\\\" >All-new CS Ratings with the updated Premier mode</p></li><li><p class=\\\"bb_paragraph\\\" >Global and Regional leaderboards</p></li><li><p class=\\\"bb_paragraph\\\" >Upgraded and overhauled maps</p></li><li><p class=\\\"bb_paragraph\\\" >Game-changing dynamic smoke grenades</p></li><li><p class=\\\"bb_paragraph\\\" >Tick-rate-independent gameplay</p></li><li><p class=\\\"bb_paragraph\\\" >Redesigned visual effects and audio</p></li><li><p class=\\\"bb_paragraph\\\" >All items from CS:GO moving forward to CS2</p></li></ul>\", \"developers\": [\"Valve\"], \"dlc\": [2678630], \"genres\": [{\"description\": \"Action\", \"id\": \"1\"}, {\"description\": \"Free To Play\", \"id\": \"37\"}], \"header_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1789251637\", \"is_free\": true, \"linux_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li><strong>OS:</strong> Ubuntu 20.04<br></li><li><strong>Processor:</strong> 4 hardware CPU threads - Intel® Core™ i5 750 or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD GCN+ or NVIDIA Kepler+ with up-to-date Vulkan drivers.  Support for VK_EXT_graphics_pipeline_library highly recommended.<br></li><li><strong>Storage:</strong> 85 GB available space<br></li><li><strong>Sound Card:</strong> Highly recommended</li></ul>\"}, \"mac_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li><strong>OS:</strong> MacOS X 10.11 (El Capitan) or later<br></li><li><strong>Processor:</strong> Intel Core Duo Processor (2GHz or better)<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> ATI Radeon HD 2400 or better / NVIDIA 8600M or better<br></li><li><strong>Storage:</strong> 15 GB available space</li></ul>\"}, \"movies\": [{\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/dash_av1.mpd?t=1696005467\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/dash_h264.mpd?t=1696005467\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/612468/aa5a28c78f12232e6b6839034550c28b162fad3e/1748810724/hls_264_master.m3u8?t=1696005467\", \"id\": 256972298, \"name\": \"Launch Trailer\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256972298/movie.293x165.jpg?t=1696005467\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/dash_av1.mpd?t=1696005475\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/dash_h264.mpd?t=1696005475\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/608984/a3ae9d5b8de21282056059ca5e851a063a253a55/1748810722/hls_264_master.m3u8?t=1696005475\", \"id\": 256970298, \"name\": \"Moving Beyond Tick Rate\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256970298/movie.293x165.jpg?t=1696005475\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/dash_av1.mpd?t=1696005483\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/dash_h264.mpd?t=1696005483\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/607867/ed6e0afecb45c615095cf8d84cec9d31659a3cc7/1748810722/hls_264_master.m3u8?t=1696005483\", \"id\": 256969703, \"name\": \"Leveling Up\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969703/movie.293x165.jpg?t=1696005483\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/dash_av1.mpd?t=1696005491\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/dash_h264.mpd?t=1696005491\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/730/607847/d73c6346bc3bf5dbc6d66a8f721bab640fa3d37c/1748810721/hls_264_master.m3u8?t=1696005491\", \"id\": 256969690, \"name\": \"Responsive Smokes\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256969690/movie.293x165.jpg?t=1696005491\"}], \"name\": \"Counter-Strike 2\", \"package_groups\": [{\"description\": \"\", \"display_type\": 0, \"is_recurring_subscription\": \"false\", \"name\": \"default\", \"save_text\": \"\", \"selection_text\": \"Select a purchase option\", \"subs\": [{\"can_get_free_license\": \"0\", \"is_free_license\": true, \"option_description\": \"\", \"option_text\": \"Counter-Strike 2 - Free\", \"packageid\": 298963, \"percent_savings\": 0, \"percent_savings_text\": \" \", \"price_in_cents_with_discount\": 0}, {\"can_get_free_license\": \"0\", \"is_free_license\": false, \"option_description\": \"\", \"option_text\": \"Prime Status Upgrade - $14.99\", \"packageid\": 54029, \"percent_savings\": 0, \"percent_savings_text\": \" \", \"price_in_cents_with_discount\": 1499}], \"title\": \"Buy Counter-Strike 2\"}], \"packages\": [298963, 329385, 54029], \"pc_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li><strong>OS:</strong> Windows® 10<br></li><li><strong>Processor:</strong> 4 hardware CPU threads - Intel® Core™ i5 750 or higher<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 85 GB available space</li></ul>\"}, \"platforms\": {\"linux\": true, \"mac\": false, \"windows\": true}, \"publishers\": [\"Valve\"], \"ratings\": {\"agcom\": {\"descriptors\": \"Violenza\", \"rating\": \"16\"}, \"cadpa\": {\"rating\": \"12\"}, \"dejus\": {\"descriptors\": \"Violência\", \"rating\": \"16\"}, \"igrs\": {\"banned\": \"0\", \"descriptors\": \"Interaksi Daring\\nKekerasan\", \"rating\": \"18\", \"rating_generated\": \"1\", \"required_age\": \"18\", \"use_age_gate\": \"0\"}, \"steam_australia\": {\"banned\": \"0\", \"descriptors\": \"Strong Violence\\nMild themes\", \"rating\": \"MA15\", \"rating_generated\": \"1\", \"required_age\": \"16\", \"use_age_gate\": \"0\"}, \"steam_germany\": {\"banned\": \"0\", \"descriptors\": \"Drastische Gewalt\", \"rating\": \"16\", \"rating_generated\": \"1\", \"required_age\": \"16\", \"use_age_gate\": \"0\"}, \"usk\": {\"descriptors\": \"Gewalt; In-Game Käufe (+zufällige Objekte); Chats\", \"rating\": \"16\"}}, \"recommendations\": {\"total\": 5289163}, \"release_date\": {\"coming_soon\": false, \"date\": \"Aug 21, 2012\"}, \"required_age\": 0, \"screenshots\": [{\"id\": 0, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0/ss_9c8b8fd6ebb2c84a1c38541369e6c05db7f1fbe0.600x338.jpg?t=1789251637\"}, {\"id\": 1, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/4ef95eed5fcd98c576bf13e024bc6c845b622132/ss_4ef95eed5fcd98c576bf13e024bc6c845b622132.600x338.jpg?t=1789251637\"}, {\"id\": 2, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_13bb35638c0267759276f511ee97064773b37a51.600x338.jpg?t=1789251637\"}, {\"id\": 3, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0f8cf82d019c614760fd20801f2bb4001da7ea77.600x338.jpg?t=1789251637\"}, {\"id\": 4, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef82850f036dac5772cb07dbc2d1116ea13eb163.600x338.jpg?t=1789251637\"}, {\"id\": 5, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_76f6730dbb911650ba1f41c8e5b4bac638b5beea.600x338.jpg?t=1789251637\"}, {\"id\": 6, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_808cdd373d78c3cf3a78e7026ebb1a15895e0670.600x338.jpg?t=1789251637\"}, {\"id\": 7, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_ef98db5d5a4d877531a5567df082b0fb62d75c80.600x338.jpg?t=1789251637\"}, {\"id\": 8, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2254a50f27951fb9028bc00b93a7f2ed7aac1e13.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2254a50f27951fb9028bc00b93a7f2ed7aac1e13.600x338.jpg?t=1789251637\"}, {\"id\": 9, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_54b9c26b028c84d5f8a5316f31ae6203953ed84d.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_54b9c26b028c84d5f8a5316f31ae6203953ed84d.600x338.jpg?t=1789251637\"}, {\"id\": 10, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_1b3b5fd437939a7ed00a2155269e78994cb998d3.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_1b3b5fd437939a7ed00a2155269e78994cb998d3.600x338.jpg?t=1789251637\"}, {\"id\": 11, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_352666c1949ce3966bd966d6ea5a1afd532257bc.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_352666c1949ce3966bd966d6ea5a1afd532257bc.600x338.jpg?t=1789251637\"}, {\"id\": 12, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_63d2733b9b4ace01a41d5ba8afd653245d05d54a.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_63d2733b9b4ace01a41d5ba8afd653245d05d54a.600x338.jpg?t=1789251637\"}, {\"id\": 13, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fe70d46859593aef623a0614f4686e2814405035.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fe70d46859593aef623a0614f4686e2814405035.600x338.jpg?t=1789251637\"}, {\"id\": 14, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_bb2af3e83ac0385ff2055f2ab9697cdd83e351b7.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_bb2af3e83ac0385ff2055f2ab9697cdd83e351b7.600x338.jpg?t=1789251637\"}, {\"id\": 15, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fb8e5e2ae29ce64e2898315c66b5db08989e8f91.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_fb8e5e2ae29ce64e2898315c66b5db08989e8f91.600x338.jpg?t=1789251637\"}, {\"id\": 16, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0db84c628a798e38ca57d69abda119bee1358008.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_0db84c628a798e38ca57d69abda119bee1358008.600x338.jpg?t=1789251637\"}, {\"id\": 17, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_18e9ea2715f0407ee05e206073927a648db60d73.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_18e9ea2715f0407ee05e206073927a648db60d73.600x338.jpg?t=1789251637\"}, {\"id\": 18, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2514675f364079b754b820cbc8b2e7c331d56a26.1920x1080.jpg?t=1789251637\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/ss_2514675f364079b754b820cbc8b2e7c331d56a26.600x338.jpg?t=1789251637\"}], \"short_description\": \"For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.\", \"steam_appid\": 730, \"support_info\": {\"email\": \"\", \"url\": \"\"}, \"supported_languages\": \"Czech, Danish, Dutch, English<strong>*</strong>, Finnish, French, German, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese - Portugal, Portuguese - Brazil, Romanian, Russian, Simplified Chinese, Spanish - Spain, Swedish, Thai, Traditional Chinese, Turkish, Bulgarian, Ukrainian, Greek, Spanish - Latin America, Vietnamese, Indonesian<br><strong>*</strong>languages with full audio support\", \"type\": \"game\", \"website\": \"http://counter-strike.net/\"}",
+        "normalized_text": null,
+        "language": null,
+        "published_at": null,
+        "retrieved_at": "2026-09-28T18:50:31.232955Z",
+        "run_id": "run_foundation_20260928T185014Z",
+        "query_id": null,
+        "matched_alias_ids": [],
+        "retrieval_method": "api",
+        "relevance_label": "relevant",
+        "relevance_score": 1.0,
+        "relevance_reasons": [
+          "official or platform-store fact source"
+        ],
+        "relevance_method_version": "fact-layer-v1",
+        "recommended": null,
+        "rating": null,
+        "rating_scale": null,
+        "engagement": null,
+        "reply_count": null,
+        "playtime_hours": null,
+        "platform": "steam",
+        "hardware_context": null,
+        "version_context": null,
+        "source_metadata": {},
+        "provenance": {
+          "source_class": "platform_store",
+          "collector_version": "fact-layer-v1",
+          "terms_or_permission_reference": null,
+          "content_checksum": "3ce12ab83d73742f62eb41b28db8161f5e452122b10b4779b310399dee455e0e",
+          "raw_snapshot_reference": null,
+          "contains_personal_data": false,
+          "redaction_status": "not_required"
+        }
+      }
+    ],
+    "warnings": []
+  },
+  "stage_warnings": []
+}

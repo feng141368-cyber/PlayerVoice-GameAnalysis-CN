@@ -1,0 +1,45 @@
+{
+  "game": "Tower of Fantasy",
+  "run_id": "20260920T174620Z",
+  "sources": {
+    "steam": {
+      "status": "collected",
+      "records": 300,
+      "snapshot": "data/raw/steam/20260920T174620Z.jsonl"
+    },
+    "bilibili": {
+      "status": "collected",
+      "records": 27,
+      "snapshot": "data/raw/bilibili/20260920T174620Z.jsonl"
+    },
+    "reddit": {
+      "status": "unavailable",
+      "records": 0,
+      "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+    },
+    "youtube": {
+      "status": "unavailable",
+      "records": 0,
+      "reason": "YouTube credential missing: set YOUTUBE_API_KEY"
+    },
+    "weibo": {
+      "status": "unavailable",
+      "records": 0,
+      "reason": "weibo provider endpoint is not configured"
+    },
+    "xiaohongshu": {
+      "status": "unavailable",
+      "records": 0,
+      "reason": "xiaohongshu provider endpoint is not configured"
+    },
+    "douyin": {
+      "status": "unavailable",
+      "records": 0,
+      "reason": "douyin provider endpoint is not configured"
+    }
+  },
+  "total_records": 327,
+  "duplicates_replaced": 0,
+  "replace_game": true,
+  "dataset": "data/processed/voice.csv"
+}

@@ -1,0 +1,38 @@
+# Compare Mode — PUBG: BATTLEGROUNDS vs Counter-Strike 2 vs Apex Legends™
+
+Shared taxonomy: `1.1.0`
+
+## Evidence coverage
+
+| Game | Relevant corpus | Sources | Languages | Date coverage |
+| --- | ---: | --- | --- | --- |
+| PUBG: BATTLEGROUNDS | 99 | {"steam": 99} | {"zh-CN": 99} | 2026-09-30 → 2026-10-03 |
+| Counter-Strike 2 | 154 | {"bilibili": 1, "steam": 153} | {"zh-CN": 154} | 2026-08-19 → 2026-10-03 |
+| Apex Legends™ | 105 | {"bilibili": 5, "steam": 100} | {"zh-CN": 105} | 2019-02-15 → 2026-10-03 |
+
+## Dimension comparison
+
+| Dimension | Status | PUBG: BATTLEGROUNDS | Counter-Strike 2 | Apex Legends™ |
+| --- | --- | --- | --- | --- |
+| performance | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=3; share=3.0%; confidence=medium; sources={"steam": 3}; sentiment={"negative": 3} | n=1; share=0.6%; confidence=low; sources={"steam": 1}; sentiment={"negative": 1} | n=2; share=1.9%; confidence=low; sources={"steam": 2}; sentiment={"negative": 2} |
+| exploration | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| story | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| combat | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=2; share=1.9%; confidence=low; sources={"steam": 2}; sentiment={"positive": 2} |
+| daily_commitment | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| monetisation | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=1; share=1.0%; confidence=low; sources={"steam": 1}; sentiment={"negative": 1} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| graphics | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| audio | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=1; share=0.6%; confidence=low; sources={"steam": 1}; sentiment={"negative": 1} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| controls | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} |
+| fair_play_integrity | comparable_with_caution: sample sizes differ by more than 4×. Raw counts and coverage must accompany any interpretation. | n=5; share=5.1%; confidence=medium; sources={"steam": 5}; sentiment={"negative": 2, "positive": 3} | n=3; share=1.9%; confidence=medium; sources={"steam": 3}; sentiment={"negative": 1, "positive": 2} | n=15; share=14.3%; confidence=medium; sources={"steam": 15}; sentiment={"negative": 13, "positive": 2} |
+| bugs_stability | insufficient_evidence: At least one game has fewer than three relevant items; no reliable cross-game difference is asserted. | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=0; share=0.0%; confidence=insufficient; sources={}; sentiment={} | n=2; share=1.9%; confidence=low; sources={"steam": 2}; sentiment={"negative": 2} |
+
+## Verified Fact Layer comparison
+
+| Fact | Status | PUBG: BATTLEGROUNDS | Counter-Strike 2 | Apex Legends™ |
+| --- | --- | --- | --- | --- |
+| platform_support | comparable: A verified Fact Layer value is available for every game. | [true] | [true, true] | [true] |
+| minimum_requirements | comparable: A verified Fact Layer value is available for every game. | ["Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-4430 / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space"] | ["Minimum:\nOS: Windows® 10\nProcessor: 4 hardware CPU threads - Intel® Core™ i5 750 or higher\nMemory: 8 GB RAM\nGraphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0\nDirectX: Version 11\nStorage: 85 GB available space"] | ["Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\nMemory: 6 GB RAM\nGraphics: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language"] |
+| storage_requirement | comparable: A verified Fact Layer value is available for every game. | [{"amount": 40.0, "tier": "minimum"}, {"amount": 50.0, "tier": "recommended"}] | [{"amount": 85.0, "tier": "minimum"}] | [{"amount": 75.0, "tier": "minimum"}, {"amount": 75.0, "tier": "recommended"}] |
+| supported_languages | comparable: A verified Fact Layer value is available for every game. | [["English", "Korean", "Simplified Chinese", "French", "German", "Spanish - Spain", "Arabic", "Japanese", "Polish", "Portuguese - Portugal", "Russian", "Turkish", "Thai", "Italian", "Portuguese - Brazil", "Traditional Chinese", "Ukrainian"]] | [["Czech", "Danish", "Dutch", "English", "Finnish", "French", "German", "Hungarian", "Italian", "Japanese", "Korean", "Norwegian", "Polish", "Portuguese - Portugal", "Portuguese - Brazil", "Romanian", "Russian", "Simplified Chinese", "Spanish - Spain", "Swedish", "Thai", "Traditional Chinese", "Turkish", "Bulgarian", "Ukrainian", "Greek", "Spanish - Latin America", "Vietnamese", "Indonesian\nlanguages with full audio support"]] | [["English", "French", "Italian", "German", "Spanish - Spain", "Japanese", "Korean", "Polish", "Portuguese - Brazil", "Russian", "Simplified Chinese", "Traditional Chinese", "Spanish - Latin America", "Arabic\nlanguages with full audio support"]] |
+| cross_play | partial: At least one game lacks this Fact Layer value; only available facts are shown. | Insufficient verified fact evidence | [true] | Insufficient verified fact evidence |
+> No winner score is computed. Insufficient or materially different evidence coverage blocks a reliable comparison claim.

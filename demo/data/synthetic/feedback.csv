@@ -1,0 +1,697 @@
+feedback_id,player_id,feedback_date,rating,feedback_text,patch_version,topic,keyword_hits
+F000001,P00004,2026-03-06,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000002,P00007,2026-03-05,5,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000003,P00014,2026-04-04,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000004,P00015,2026-03-25,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000005,P00017,2026-03-09,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000006,P00018,2026-01-17,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000007,P00020,2026-03-07,3,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000008,P00022,2026-03-18,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000009,P00024,2026-04-18,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000010,P00025,2026-04-24,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000011,P00026,2026-04-18,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000012,P00027,2026-03-06,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000013,P00032,2026-02-22,5,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000014,P00035,2026-05-16,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000015,P00039,2026-03-22,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000016,P00040,2026-04-08,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000017,P00042,2026-04-03,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000018,P00043,2026-03-27,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000019,P00050,2026-04-30,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000020,P00051,2026-04-03,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000021,P00052,2026-02-03,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000022,P00053,2026-03-21,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000023,P00065,2026-03-04,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000024,P00066,2026-02-18,3,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000025,P00067,2026-05-19,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000026,P00068,2026-02-20,3,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000027,P00075,2026-03-20,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000028,P00079,2026-03-12,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000029,P00083,2026-02-16,4,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000030,P00087,2026-02-08,5,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000031,P00091,2026-03-11,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000032,P00092,2026-04-06,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000033,P00096,2026-02-04,4,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000034,P00098,2026-03-31,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000035,P00099,2026-03-25,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000036,P00101,2026-04-06,3,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000037,P00102,2026-01-30,3,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000038,P00106,2026-04-16,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000039,P00108,2026-03-29,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000040,P00113,2026-04-20,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000041,P00116,2026-03-09,3,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000042,P00122,2026-04-16,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000043,P00125,2026-05-09,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000044,P00132,2026-03-07,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000045,P00135,2026-04-30,2,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000046,P00136,2026-03-18,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000047,P00137,2026-04-02,5,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000048,P00138,2026-03-02,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000049,P00146,2026-04-16,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000050,P00148,2026-02-02,4,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000051,P00152,2026-02-25,5,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000052,P00153,2026-04-17,2,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000053,P00164,2026-02-19,3,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000054,P00169,2026-02-18,3,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000055,P00170,2026-01-09,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000056,P00176,2026-03-22,5,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000057,P00179,2026-05-16,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000058,P00184,2026-04-06,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000059,P00185,2026-03-10,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000060,P00186,2026-04-04,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000061,P00188,2026-02-17,5,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000062,P00191,2026-03-24,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000063,P00192,2026-03-14,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000064,P00193,2026-03-11,4,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000065,P00195,2026-04-24,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000066,P00197,2026-02-25,5,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000067,P00198,2026-02-16,3,The wardrobe is gorgeous but sleeves clip during combat.,1.2,Fashion,1
+F000068,P00200,2026-04-25,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000069,P00203,2026-03-14,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000070,P00208,2026-05-10,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000071,P00210,2026-05-09,4,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000072,P00217,2026-01-20,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000073,P00218,2026-02-18,1,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000074,P00241,2026-02-06,2,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000075,P00242,2026-03-30,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000076,P00251,2026-01-22,2,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000077,P00256,2026-01-24,3,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000078,P00262,2026-02-28,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000079,P00263,2026-03-18,3,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000080,P00266,2026-03-26,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000081,P00270,2026-03-22,3,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000082,P00274,2026-04-29,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000083,P00277,2026-04-01,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000084,P00279,2026-02-12,5,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000085,P00283,2026-04-07,5,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000086,P00285,2026-02-26,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000087,P00286,2026-05-19,4,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000088,P00291,2026-05-17,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000089,P00293,2026-04-27,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000090,P00295,2026-03-13,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000091,P00298,2026-03-11,1,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000092,P00301,2026-02-27,5,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000093,P00302,2026-05-28,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000094,P00314,2026-03-21,5,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000095,P00318,2026-04-20,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000096,P00323,2026-04-11,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000097,P00324,2026-04-21,3,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000098,P00328,2026-03-02,4,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000099,P00330,2026-03-18,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000100,P00332,2026-02-13,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000101,P00333,2026-04-02,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000102,P00338,2026-03-10,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000103,P00341,2026-03-17,3,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000104,P00344,2026-03-22,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000105,P00347,2026-05-01,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000106,P00348,2026-04-18,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000107,P00350,2026-02-26,1,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000108,P00351,2026-04-26,1,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000109,P00352,2026-02-26,2,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000110,P00359,2026-01-28,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000111,P00360,2026-04-06,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000112,P00366,2026-03-15,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000113,P00373,2026-03-09,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000114,P00375,2026-04-14,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000115,P00382,2026-04-27,3,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000116,P00387,2026-01-12,3,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000117,P00388,2026-04-25,5,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000118,P00389,2026-04-15,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000119,P00390,2026-02-19,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000120,P00391,2026-05-22,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000121,P00392,2026-02-09,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000122,P00394,2026-03-22,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000123,P00395,2026-04-10,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000124,P00396,2026-05-07,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000125,P00397,2026-01-09,1,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000126,P00400,2026-02-27,4,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000127,P00402,2026-04-03,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000128,P00404,2026-04-26,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000129,P00405,2026-03-29,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000130,P00409,2026-05-05,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000131,P00413,2026-02-21,3,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000132,P00421,2026-04-26,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000133,P00423,2026-04-04,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000134,P00425,2026-02-27,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000135,P00428,2026-04-05,2,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000136,P00433,2026-05-03,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000137,P00435,2026-03-31,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000138,P00436,2026-01-28,4,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000139,P00439,2026-01-14,4,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000140,P00443,2026-02-22,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000141,P00447,2026-02-16,2,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000142,P00451,2026-04-21,3,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000143,P00452,2026-04-23,5,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000144,P00454,2026-02-26,5,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000145,P00459,2026-04-30,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000146,P00461,2026-04-19,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000147,P00462,2026-01-17,4,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000148,P00467,2026-02-15,3,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000149,P00475,2026-04-06,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000150,P00484,2026-04-02,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000151,P00487,2026-03-12,3,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000152,P00491,2026-05-15,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000153,P00494,2026-03-14,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000154,P00496,2026-02-22,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000155,P00497,2026-01-14,2,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000156,P00498,2026-03-04,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000157,P00502,2026-03-18,3,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000158,P00503,2026-05-09,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000159,P00504,2026-04-11,5,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000160,P00511,2026-05-08,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000161,P00514,2026-04-28,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000162,P00519,2026-03-06,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000163,P00524,2026-05-25,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000164,P00529,2026-04-26,2,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000165,P00536,2026-02-07,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000166,P00539,2026-04-19,3,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000167,P00540,2026-01-04,2,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000168,P00548,2026-03-23,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000169,P00550,2026-03-23,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000170,P00554,2026-02-12,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000171,P00556,2026-03-18,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000172,P00561,2026-03-09,2,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000173,P00563,2026-04-18,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000174,P00564,2026-02-07,3,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000175,P00566,2026-02-12,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000176,P00569,2026-04-01,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000177,P00571,2026-04-27,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000178,P00574,2026-01-28,4,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000179,P00586,2026-04-30,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000180,P00593,2026-02-07,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000181,P00595,2026-03-06,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000182,P00596,2026-04-12,4,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000183,P00597,2026-04-15,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000184,P00598,2026-04-09,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000185,P00601,2026-04-26,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000186,P00607,2026-02-14,1,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000187,P00609,2026-05-12,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000188,P00610,2026-04-15,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000189,P00611,2026-04-24,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000190,P00615,2026-05-13,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000191,P00619,2026-02-05,2,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000192,P00631,2026-04-19,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000193,P00636,2026-03-23,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000194,P00639,2026-05-22,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000195,P00640,2026-04-28,3,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000196,P00643,2026-04-10,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000197,P00648,2026-03-30,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000198,P00652,2026-03-23,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000199,P00657,2026-04-02,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000200,P00662,2026-04-13,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000201,P00663,2026-01-13,2,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000202,P00666,2026-04-16,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000203,P00668,2026-04-20,1,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000204,P00669,2026-05-19,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000205,P00671,2026-04-21,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000206,P00673,2026-03-16,3,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000207,P00681,2026-04-18,3,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000208,P00684,2026-04-24,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000209,P00689,2026-03-12,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000210,P00690,2026-04-16,5,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000211,P00694,2026-04-27,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000212,P00698,2026-03-09,2,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000213,P00701,2026-03-04,3,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000214,P00708,2026-03-19,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000215,P00710,2026-03-21,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000216,P00713,2026-03-30,4,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000217,P00718,2026-03-19,5,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000218,P00725,2026-04-01,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000219,P00732,2026-03-16,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000220,P00734,2026-04-13,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000221,P00735,2026-01-25,1,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000222,P00740,2026-04-30,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000223,P00750,2026-01-27,5,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000224,P00751,2026-04-21,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000225,P00757,2026-03-29,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000226,P00758,2026-02-22,4,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000227,P00759,2026-02-12,5,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000228,P00760,2026-04-02,3,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000229,P00761,2026-01-24,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000230,P00762,2026-03-11,5,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000231,P00764,2026-04-18,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000232,P00765,2026-04-03,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000233,P00778,2026-02-08,4,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000234,P00786,2026-03-25,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000235,P00795,2026-04-07,3,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000236,P00799,2026-03-28,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000237,P00800,2026-03-22,5,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000238,P00801,2026-01-21,5,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000239,P00807,2026-03-15,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000240,P00827,2026-05-14,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000241,P00829,2026-04-12,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000242,P00837,2026-04-04,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000243,P00839,2026-01-30,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000244,P00842,2026-03-23,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000245,P00854,2026-02-10,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000246,P00856,2026-05-01,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000247,P00859,2026-03-18,3,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000248,P00861,2026-04-28,5,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000249,P00868,2026-04-14,4,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000250,P00869,2026-03-08,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000251,P00873,2026-01-18,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000252,P00875,2026-04-03,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000253,P00878,2026-04-28,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000254,P00881,2026-02-08,4,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000255,P00884,2026-03-19,4,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000256,P00890,2026-02-24,3,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000257,P00891,2026-01-30,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000258,P00892,2026-03-31,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000259,P00893,2026-04-11,3,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000260,P00895,2026-04-04,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000261,P00897,2026-03-09,2,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000262,P00901,2026-02-09,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000263,P00906,2026-03-28,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000264,P00911,2026-05-25,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000265,P00913,2026-02-18,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000266,P00914,2026-05-22,5,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000267,P00917,2026-03-14,3,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000268,P00922,2026-04-18,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000269,P00923,2026-04-01,5,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000270,P00925,2026-03-06,5,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000271,P00931,2026-03-15,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000272,P00936,2026-04-26,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000273,P00941,2026-04-13,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000274,P00945,2026-01-23,5,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000275,P00955,2026-04-08,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000276,P00956,2026-03-15,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000277,P00957,2026-03-31,2,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000278,P00958,2026-03-30,3,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000279,P00959,2026-04-22,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000280,P00966,2026-04-28,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000281,P00970,2026-01-07,2,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000282,P00976,2026-02-22,3,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000283,P00978,2026-03-11,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000284,P00984,2026-03-23,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000285,P00989,2026-02-16,4,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000286,P00996,2026-04-19,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000287,P00997,2026-03-18,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000288,P00999,2026-04-27,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000289,P01004,2026-04-29,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000290,P01010,2026-03-09,1,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000291,P01022,2026-01-14,4,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000292,P01027,2026-01-27,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000293,P01030,2026-03-08,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000294,P01035,2026-01-22,4,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000295,P01040,2026-04-08,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000296,P01042,2026-05-05,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000297,P01044,2026-02-28,3,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000298,P01049,2026-04-10,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000299,P01053,2026-03-07,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000300,P01056,2026-05-06,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000301,P01058,2026-04-17,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000302,P01064,2026-04-16,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000303,P01065,2026-04-23,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000304,P01069,2026-02-09,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000305,P01071,2026-05-02,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000306,P01073,2026-04-18,5,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000307,P01081,2026-05-02,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000308,P01082,2026-04-30,5,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000309,P01083,2026-04-21,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000310,P01085,2026-03-09,4,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000311,P01087,2026-05-31,4,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000312,P01090,2026-01-21,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000313,P01091,2026-03-03,5,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000314,P01096,2026-02-15,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000315,P01105,2026-02-05,5,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000316,P01106,2026-01-21,3,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000317,P01110,2026-03-29,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000318,P01113,2026-03-08,3,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000319,P01114,2026-03-23,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000320,P01125,2026-04-29,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000321,P01126,2026-04-08,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000322,P01128,2026-03-24,2,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000323,P01129,2026-03-08,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000324,P01140,2026-03-14,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000325,P01142,2026-02-15,3,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000326,P01146,2026-04-13,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000327,P01147,2026-04-04,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000328,P01153,2026-03-23,5,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000329,P01154,2026-04-20,2,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000330,P01156,2026-03-26,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000331,P01160,2026-02-20,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000332,P01163,2026-04-20,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000333,P01166,2026-02-28,1,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000334,P01168,2026-03-21,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000335,P01171,2026-03-25,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000336,P01172,2026-03-23,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000337,P01174,2026-02-11,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000338,P01175,2026-01-18,3,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000339,P01177,2026-03-06,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000340,P01178,2026-01-28,5,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000341,P01181,2026-05-05,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000342,P01188,2026-03-23,3,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000343,P01192,2026-03-01,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000344,P01202,2026-03-04,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000345,P01203,2026-05-14,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000346,P01204,2026-04-19,4,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000347,P01217,2026-02-28,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000348,P01218,2026-05-08,2,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000349,P01221,2026-03-18,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000350,P01223,2026-05-01,3,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000351,P01224,2026-03-27,5,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000352,P01225,2026-03-30,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000353,P01230,2026-02-22,2,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000354,P01234,2026-05-05,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000355,P01243,2026-05-05,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000356,P01245,2026-04-14,1,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000357,P01248,2026-03-03,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000358,P01251,2026-02-15,2,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000359,P01259,2026-03-07,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000360,P01260,2026-04-21,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000361,P01266,2026-02-26,3,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000362,P01267,2026-02-15,5,The wardrobe is gorgeous but sleeves clip during combat.,1.2,Fashion,1
+F000363,P01280,2026-04-10,2,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000364,P01281,2026-04-26,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000365,P01283,2026-02-27,1,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000366,P01284,2026-04-17,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000367,P01287,2026-04-19,5,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000368,P01292,2026-04-18,3,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000369,P01297,2026-03-28,5,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000370,P01298,2026-04-07,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000371,P01300,2026-01-29,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000372,P01305,2026-05-11,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000373,P01307,2026-02-26,2,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000374,P01308,2026-01-28,3,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000375,P01312,2026-02-12,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000376,P01316,2026-03-21,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000377,P01318,2026-03-13,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000378,P01319,2026-02-26,2,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000379,P01320,2026-02-19,4,The wardrobe is gorgeous but sleeves clip during combat.,1.2,Fashion,1
+F000380,P01325,2026-05-10,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000381,P01330,2026-02-22,3,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000382,P01332,2026-05-06,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000383,P01336,2026-04-25,2,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000384,P01340,2026-02-21,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000385,P01356,2026-03-01,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000386,P01360,2026-02-17,2,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000387,P01366,2026-02-10,5,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000388,P01367,2026-02-22,5,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000389,P01368,2026-02-26,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000390,P01370,2026-04-06,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000391,P01372,2026-02-18,3,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000392,P01376,2026-04-25,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000393,P01377,2026-04-30,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000394,P01391,2026-03-26,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000395,P01392,2026-03-08,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000396,P01393,2026-05-28,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000397,P01395,2026-02-18,4,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000398,P01399,2026-02-26,2,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000399,P01402,2026-02-12,2,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000400,P01405,2026-04-03,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000401,P01406,2026-01-27,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000402,P01407,2026-03-17,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000403,P01412,2026-04-23,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000404,P01413,2026-03-05,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000405,P01414,2026-04-05,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000406,P01418,2026-03-07,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000407,P01425,2026-01-30,4,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000408,P01432,2026-02-02,2,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000409,P01436,2026-01-31,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000410,P01437,2026-03-15,2,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000411,P01438,2026-03-22,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000412,P01451,2026-02-18,1,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000413,P01453,2026-01-23,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000414,P01455,2026-03-27,5,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000415,P01461,2026-04-08,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000416,P01465,2026-05-31,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000417,P01468,2026-03-01,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000418,P01472,2026-04-04,4,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000419,P01478,2026-02-19,1,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000420,P01479,2026-03-18,5,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000421,P01481,2026-01-22,2,The limited outfit is beautiful but the price is too expensive.,1.2,Monetization,2
+F000422,P01482,2026-01-20,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000423,P01483,2026-02-05,3,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000424,P01491,2026-02-17,3,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000425,P01494,2026-02-12,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000426,P01495,2026-03-01,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000427,P01496,2026-03-09,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000428,P01499,2026-03-01,5,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000429,P01504,2026-02-15,2,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000430,P01506,2026-03-19,5,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000431,P01507,2026-04-20,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000432,P01509,2026-04-11,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000433,P01511,2026-04-03,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000434,P01520,2026-02-22,3,The wardrobe is gorgeous but sleeves clip during combat.,1.2,Fashion,1
+F000435,P01521,2026-04-18,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000436,P01522,2026-05-05,1,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000437,P01524,2026-01-21,5,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000438,P01525,2026-03-24,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000439,P01526,2026-01-21,5,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000440,P01527,2026-03-19,2,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000441,P01529,2026-01-20,1,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000442,P01534,2026-01-25,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000443,P01545,2026-02-03,4,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000444,P01556,2026-03-11,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000445,P01557,2026-05-04,4,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000446,P01564,2026-04-25,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000447,P01577,2026-04-14,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000448,P01581,2026-04-01,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000449,P01591,2026-04-16,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000450,P01594,2026-01-08,4,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000451,P01595,2026-05-03,3,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000452,P01599,2026-05-26,2,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000453,P01600,2026-04-03,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000454,P01602,2026-04-01,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000455,P01603,2026-05-29,3,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000456,P01604,2026-03-31,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000457,P01606,2026-04-14,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000458,P01614,2026-03-21,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000459,P01624,2026-01-23,2,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000460,P01628,2026-03-09,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000461,P01638,2026-03-14,1,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000462,P01642,2026-02-09,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000463,P01650,2026-04-12,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000464,P01651,2026-01-23,2,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000465,P01652,2026-01-17,5,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000466,P01655,2026-02-19,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000467,P01662,2026-03-25,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000468,P01663,2026-02-27,3,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000469,P01667,2026-03-28,3,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000470,P01670,2026-04-05,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000471,P01673,2026-03-22,5,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000472,P01677,2026-01-30,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000473,P01678,2026-04-17,2,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000474,P01686,2026-03-22,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000475,P01691,2026-04-30,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000476,P01699,2026-03-03,4,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000477,P01701,2026-03-07,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000478,P01704,2026-01-24,2,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000479,P01706,2026-04-14,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000480,P01709,2026-03-07,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000481,P01716,2026-04-14,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000482,P01721,2026-02-23,2,The new map is beautiful but side quests become repetitive.,1.2,Content,3
+F000483,P01723,2026-04-15,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000484,P01724,2026-04-23,3,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000485,P01727,2026-05-24,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000486,P01731,2026-04-05,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000487,P01734,2026-05-11,5,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000488,P01735,2026-05-21,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000489,P01737,2026-04-26,5,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000490,P01740,2026-02-22,3,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000491,P01741,2026-04-02,3,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000492,P01743,2026-03-25,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000493,P01750,2026-03-27,5,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000494,P01753,2026-04-04,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000495,P01754,2026-02-18,5,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000496,P01758,2026-03-29,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000497,P01760,2026-04-01,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000498,P01761,2026-03-21,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000499,P01764,2026-03-27,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000500,P01765,2026-03-09,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000501,P01769,2026-02-10,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000502,P01771,2026-03-16,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000503,P01772,2026-02-25,1,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000504,P01776,2026-02-14,2,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000505,P01777,2026-02-20,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000506,P01778,2026-01-20,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000507,P01779,2026-02-19,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000508,P01784,2026-04-24,2,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000509,P01788,2026-01-26,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000510,P01793,2026-02-09,2,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000511,P01796,2026-02-20,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000512,P01797,2026-05-23,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000513,P01805,2026-01-18,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000514,P01814,2026-02-28,2,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000515,P01823,2026-02-16,3,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000516,P01825,2026-04-21,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000517,P01826,2026-05-28,1,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000518,P01831,2026-04-08,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000519,P01840,2026-03-19,5,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000520,P01850,2026-02-28,3,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000521,P01858,2026-04-27,4,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000522,P01859,2026-03-02,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000523,P01860,2026-04-09,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000524,P01862,2026-02-12,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000525,P01863,2026-05-03,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000526,P01867,2026-02-14,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000527,P01873,2026-03-15,2,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000528,P01874,2026-04-20,2,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000529,P01876,2026-01-14,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000530,P01881,2026-03-07,2,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000531,P01886,2026-02-18,3,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000532,P01889,2026-02-02,3,The wardrobe is gorgeous but sleeves clip during combat.,1.2,Fashion,1
+F000533,P01892,2026-02-07,1,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000534,P01899,2026-05-24,5,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000535,P01900,2026-02-10,2,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000536,P01905,2026-02-25,3,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000537,P01910,2026-04-22,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000538,P01911,2026-03-03,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000539,P01912,2026-04-27,1,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000540,P01918,2026-02-26,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000541,P01920,2026-03-19,1,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000542,P01922,2026-04-16,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000543,P01926,2026-01-21,4,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000544,P01927,2026-02-16,3,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000545,P01929,2026-03-06,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000546,P01933,2026-05-24,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000547,P01935,2026-01-21,4,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000548,P01950,2026-04-07,5,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000549,P01956,2026-02-23,4,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000550,P01958,2026-04-22,4,I enjoyed the story event and exploration rewards.,1.3,Content,3
+F000551,P01961,2026-05-14,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000552,P01964,2026-04-16,2,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000553,P01968,2026-03-08,2,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000554,P01974,2026-02-09,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000555,P01981,2026-03-29,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000556,P01982,2026-03-13,4,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000557,P01983,2026-01-12,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000558,P01986,2026-04-18,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000559,P01992,2026-04-21,2,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000560,P01995,2026-04-05,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000561,P01996,2026-01-12,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000562,P01998,2026-05-11,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000563,P02000,2026-03-01,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000564,P02002,2026-02-22,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000565,P02005,2026-04-13,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000566,P02007,2026-02-26,3,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000567,P02011,2026-03-04,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000568,P02013,2026-01-22,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000569,P02014,2026-05-01,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000570,P02017,2026-02-27,1,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000571,P02021,2026-04-05,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000572,P02024,2026-03-15,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000573,P02025,2026-02-04,1,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.2,Fashion,1
+F000574,P02030,2026-02-16,2,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000575,P02032,2026-02-04,3,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000576,P02040,2026-03-04,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000577,P02041,2026-02-11,2,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000578,P02046,2026-05-07,3,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000579,P02047,2026-02-23,3,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000580,P02050,2026-05-03,3,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000581,P02054,2026-05-01,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000582,P02057,2026-04-17,2,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000583,P02058,2026-04-03,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000584,P02065,2026-03-09,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000585,P02069,2026-02-15,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000586,P02070,2026-02-21,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000587,P02072,2026-03-16,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000588,P02075,2026-04-13,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000589,P02076,2026-02-18,3,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000590,P02082,2026-02-05,4,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000591,P02084,2026-05-01,1,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000592,P02096,2026-04-04,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000593,P02098,2026-04-14,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000594,P02100,2026-02-12,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000595,P02104,2026-02-20,2,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000596,P02107,2026-05-04,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000597,P02120,2026-04-02,3,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000598,P02121,2026-05-22,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000599,P02124,2026-03-28,3,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000600,P02128,2026-03-22,3,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000601,P02140,2026-03-03,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000602,P02141,2026-04-01,2,I joined the styling event but the premium dress feels paywalled.,1.3,Fashion,2
+F000603,P02150,2026-04-29,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000604,P02151,2026-02-24,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000605,P02152,2026-02-10,5,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000606,P02157,2026-03-17,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000607,P02160,2026-02-12,2,My phone overheats and the game lags while exploring the new map.,1.2,Performance,2
+F000608,P02170,2026-05-02,2,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000609,P02172,2026-05-14,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000610,P02175,2026-01-31,4,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000611,P02176,2026-05-13,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000612,P02180,2026-03-13,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000613,P02193,2026-02-09,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000614,P02196,2026-04-04,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000615,P02215,2026-01-18,2,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000616,P02219,2026-03-10,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000617,P02221,2026-04-20,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000618,P02222,2026-02-09,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000619,P02227,2026-05-04,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000620,P02233,2026-05-23,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000621,P02234,2026-01-23,3,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000622,P02235,2026-04-12,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000623,P02238,2026-02-01,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000624,P02239,2026-04-22,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000625,P02243,2026-02-27,4,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000626,P02252,2026-03-30,5,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000627,P02253,2026-02-01,1,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000628,P02259,2026-01-08,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000629,P02268,2026-03-25,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000630,P02269,2026-01-22,4,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000631,P02274,2026-02-26,3,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000632,P02275,2026-02-01,2,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000633,P02276,2026-03-19,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000634,P02277,2026-01-31,3,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000635,P02279,2026-02-27,5,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000636,P02283,2026-03-18,3,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000637,P02291,2026-03-14,3,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000638,P02295,2026-04-01,4,There is not enough endgame content after finishing the main quest.,1.3,Content,3
+F000639,P02296,2026-05-30,3,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000640,P02299,2026-01-30,4,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000641,P02301,2026-03-07,4,The wardrobe is gorgeous but sleeves clip during combat.,1.3,Fashion,1
+F000642,P02303,2026-03-08,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000643,P02305,2026-05-10,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000644,P02306,2026-03-04,5,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000645,P02307,2026-02-19,4,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000646,P02308,2026-01-25,5,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000647,P02309,2026-03-07,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000648,P02313,2026-04-05,5,Combat difficulty spikes too sharply in the new region.,1.3,Combat,2
+F000649,P02316,2026-01-05,5,I love the bond scenes and want more companion interactions.,1.2,Companion,2
+F000650,P02317,2026-01-27,3,Companion dialogue repeats too often after raising affinity.,1.2,Companion,3
+F000651,P02324,2026-04-15,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000652,P02326,2026-04-05,2,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000653,P02328,2026-01-30,4,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000654,P02331,2026-01-16,3,The gacha pity feels unclear and pulls cost too much currency.,1.2,Monetization,4
+F000655,P02337,2026-03-07,2,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000656,P02338,2026-05-31,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000657,P02339,2026-01-10,2,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000658,P02340,2026-03-20,5,Styling is my favourite feature and the new set looks amazing.,1.3,Fashion,1
+F000659,P02348,2026-05-04,4,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000660,P02350,2026-04-05,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000661,P02354,2026-02-26,1,The open world keeps crashing after the update on my phone.,1.2,Performance,1
+F000662,P02359,2026-03-28,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000663,P02363,2026-05-20,3,The limited outfit is beautiful but the price is too expensive.,1.3,Monetization,2
+F000664,P02369,2026-03-03,2,I love the bond scenes and want more companion interactions.,1.3,Companion,2
+F000665,P02370,2026-01-30,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000666,P02378,2026-01-17,5,There is not enough endgame content after finishing the main quest.,1.2,Content,3
+F000667,P02380,2026-03-18,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000668,P02383,2026-05-08,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000669,P02388,2026-05-01,2,"Monthly pass value is fine, but direct outfit pricing is hard to justify.",1.3,Fashion,1
+F000670,P02393,2026-03-19,1,I get disconnected whenever a world boss starts.,1.3,Performance,1
+F000671,P02398,2026-03-31,2,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000672,P02402,2026-03-07,3,The new map is beautiful but side quests become repetitive.,1.3,Content,3
+F000673,P02404,2026-03-11,1,The open world keeps crashing after the update on my phone.,1.3,Performance,1
+F000674,P02407,2026-02-26,2,Please add more dye slots and better outfit filtering.,1.2,Fashion,2
+F000675,P02408,2026-04-06,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000676,P02415,2026-02-24,2,I joined the styling event but the premium dress feels paywalled.,1.2,Fashion,2
+F000677,P02418,2026-02-07,2,Styling is my favourite feature and the new set looks amazing.,1.2,Fashion,1
+F000678,P02425,2026-03-12,3,Companion dialogue repeats too often after raising affinity.,1.3,Companion,3
+F000679,P02427,2026-02-21,3,Affinity progression is comforting but the daily cap feels restrictive.,1.2,Companion,1
+F000680,P02432,2026-03-15,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000681,P02434,2026-02-20,1,Frame rate drops badly during city combat and loading takes forever.,1.2,Performance,2
+F000682,P02439,2026-04-10,5,Affinity progression is comforting but the daily cap feels restrictive.,1.3,Companion,1
+F000683,P02447,2026-04-29,3,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4
+F000684,P02449,2026-04-16,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000685,P02450,2026-02-24,4,I enjoyed the story event and exploration rewards.,1.2,Content,3
+F000686,P02452,2026-05-13,5,Targeting switches enemies during boss combat and dodging feels delayed.,1.3,Combat,3
+F000687,P02471,2026-04-13,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000688,P02478,2026-02-20,4,Targeting switches enemies during boss combat and dodging feels delayed.,1.2,Combat,3
+F000689,P02479,2026-02-15,4,The new boss is challenging but the weapon mechanics are satisfying.,1.2,Combat,2
+F000690,P02480,2026-03-03,1,My phone overheats and the game lags while exploring the new map.,1.3,Performance,2
+F000691,P02481,2026-03-30,2,The new boss is challenging but the weapon mechanics are satisfying.,1.3,Combat,2
+F000692,P02483,2026-01-21,5,Combat difficulty spikes too sharply in the new region.,1.2,Combat,2
+F000693,P02490,2026-03-11,1,Frame rate drops badly during city combat and loading takes forever.,1.3,Performance,2
+F000694,P02493,2026-05-11,4,Please add more dye slots and better outfit filtering.,1.3,Fashion,2
+F000695,P02495,2026-02-22,2,I get disconnected whenever a world boss starts.,1.2,Performance,1
+F000696,P02498,2026-04-25,3,The gacha pity feels unclear and pulls cost too much currency.,1.3,Monetization,4

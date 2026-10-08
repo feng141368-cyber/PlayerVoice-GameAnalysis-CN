@@ -1,0 +1,124 @@
+{
+  "queries": {
+    "en|infinitynikki": [
+      {
+        "canonical_title": "Infinity Nikki",
+        "evidence": {
+          "evidence_id": "ev_resolver_infinity_nikki",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "Q110763941",
+          "source_url": "https://www.wikidata.org/wiki/Q110763941"
+        },
+        "external_ids": {"wikidata_id": "Q110763941"},
+        "localized_titles": {"en": "Infinity Nikki", "zh-CN": "无限暖暖"},
+        "original_title": "无限暖暖",
+        "platforms": ["Windows", "PlayStation 5", "iOS", "Android"],
+        "provider": "fixture",
+        "provider_id": "Q110763941",
+        "provider_match_score": 1.0,
+        "publishers": ["Infold Games"]
+      }
+    ],
+    "zh-cn|无限暖暖": [
+      {
+        "canonical_title": "无限暖暖",
+        "evidence": {
+          "evidence_id": "ev_resolver_infinity_nikki",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "Q110763941",
+          "source_url": "https://www.wikidata.org/wiki/Q110763941"
+        },
+        "external_ids": {"wikidata_id": "Q110763941"},
+        "localized_titles": {"en": "Infinity Nikki", "zh-CN": "无限暖暖"},
+        "original_title": "无限暖暖",
+        "platforms": ["Windows", "PlayStation 5", "iOS", "Android"],
+        "provider": "fixture",
+        "provider_id": "Q110763941",
+        "provider_match_score": 1.0,
+        "publishers": ["Infold Games"]
+      }
+    ],
+    "en|toweroffantasy": [
+      {
+        "canonical_title": "Tower of Fantasy",
+        "developers": ["Hotta Studio"],
+        "evidence": {
+          "evidence_id": "ev_resolver_tower_of_fantasy",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "Q105735622",
+          "source_url": "https://www.wikidata.org/wiki/Q105735622"
+        },
+        "external_ids": {"steam_app_id": "2064650", "wikidata_id": "Q105735622"},
+        "localized_titles": {"en": "Tower of Fantasy", "zh-CN": "幻塔"},
+        "original_title": "幻塔",
+        "platforms": ["Windows", "PlayStation 5", "iOS", "Android"],
+        "provider": "fixture",
+        "provider_id": "Q105735622",
+        "provider_match_score": 1.0,
+        "publishers": ["Perfect World"]
+      }
+    ],
+    "zh-cn|幻塔": [
+      {
+        "canonical_title": "幻塔",
+        "developers": ["Hotta Studio"],
+        "evidence": {
+          "evidence_id": "ev_resolver_tower_of_fantasy",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "Q105735622",
+          "source_url": "https://www.wikidata.org/wiki/Q105735622"
+        },
+        "external_ids": {"steam_app_id": "2064650", "wikidata_id": "Q105735622"},
+        "localized_titles": {"en": "Tower of Fantasy", "zh-CN": "幻塔"},
+        "original_title": "幻塔",
+        "platforms": ["Windows", "PlayStation 5", "iOS", "Android"],
+        "provider": "fixture",
+        "provider_id": "Q105735622",
+        "provider_match_score": 1.0,
+        "publishers": ["Perfect World"]
+      }
+    ],
+    "en|prey": [
+      {
+        "canonical_title": "Prey",
+        "developers": ["Human Head Studios"],
+        "evidence": {
+          "evidence_id": "ev_resolver_prey_2006",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "prey-2006",
+          "source_url": "https://example.test/prey-2006"
+        },
+        "external_ids": {"wikidata_id": "Q929240"},
+        "localized_titles": {"en": "Prey"},
+        "original_title": "Prey",
+        "platforms": ["Windows", "Xbox 360"],
+        "provider": "fixture",
+        "provider_id": "prey-2006",
+        "provider_match_score": 1.0
+      },
+      {
+        "canonical_title": "Prey",
+        "developers": ["Arkane Austin"],
+        "evidence": {
+          "evidence_id": "ev_resolver_prey_2017",
+          "provider": "fixture",
+          "retrieved_at": "2026-09-29T00:00:00Z",
+          "source_reference": "prey-2017",
+          "source_url": "https://example.test/prey-2017"
+        },
+        "external_ids": {"wikidata_id": "Q21401322"},
+        "localized_titles": {"en": "Prey"},
+        "original_title": "Prey",
+        "platforms": ["Windows", "PlayStation 4", "Xbox One"],
+        "provider": "fixture",
+        "provider_id": "prey-2017",
+        "provider_match_score": 1.0
+      }
+    ]
+  }
+}

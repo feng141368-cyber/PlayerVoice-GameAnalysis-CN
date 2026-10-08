@@ -1,0 +1,484 @@
+{
+  "$defs": {
+    "AccessScope": {
+      "enum": [
+        "public",
+        "private"
+      ],
+      "title": "AccessScope",
+      "type": "string"
+    },
+    "EvidenceKind": {
+      "enum": [
+        "official",
+        "fact_source",
+        "patch_note",
+        "review",
+        "post",
+        "comment",
+        "video",
+        "survey_response",
+        "support_record"
+      ],
+      "title": "EvidenceKind",
+      "type": "string"
+    },
+    "Provenance": {
+      "additionalProperties": false,
+      "properties": {
+        "collector_version": {
+          "minLength": 1,
+          "title": "Collector Version",
+          "type": "string"
+        },
+        "contains_personal_data": {
+          "default": false,
+          "title": "Contains Personal Data",
+          "type": "boolean"
+        },
+        "content_checksum": {
+          "minLength": 1,
+          "title": "Content Checksum",
+          "type": "string"
+        },
+        "raw_snapshot_reference": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Raw Snapshot Reference"
+        },
+        "redaction_status": {
+          "$ref": "#/$defs/RedactionStatus",
+          "default": "not_required"
+        },
+        "source_class": {
+          "$ref": "#/$defs/SourceClass"
+        },
+        "terms_or_permission_reference": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Terms Or Permission Reference"
+        }
+      },
+      "required": [
+        "source_class",
+        "collector_version",
+        "content_checksum"
+      ],
+      "title": "Provenance",
+      "type": "object"
+    },
+    "RedactionStatus": {
+      "enum": [
+        "not_required",
+        "redacted",
+        "pending"
+      ],
+      "title": "RedactionStatus",
+      "type": "string"
+    },
+    "RelevanceLabel": {
+      "enum": [
+        "relevant",
+        "ambiguous",
+        "irrelevant",
+        "pending"
+      ],
+      "title": "RelevanceLabel",
+      "type": "string"
+    },
+    "RetrievalMethod": {
+      "enum": [
+        "api",
+        "public_endpoint",
+        "official_feed",
+        "licensed_provider",
+        "authorised_export",
+        "user_upload"
+      ],
+      "title": "RetrievalMethod",
+      "type": "string"
+    },
+    "SourceClass": {
+      "enum": [
+        "official",
+        "platform_store",
+        "public_community",
+        "licensed_provider",
+        "user_provided",
+        "internal"
+      ],
+      "title": "SourceClass",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "access_scope": {
+      "$ref": "#/$defs/AccessScope"
+    },
+    "dataset_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Dataset Id"
+    },
+    "engagement": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "additionalProperties": {
+            "anyOf": [
+              {
+                "type": "integer"
+              },
+              {
+                "type": "number"
+              }
+            ]
+          },
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Engagement"
+    },
+    "evidence_id": {
+      "pattern": "^ev_.+",
+      "title": "Evidence Id",
+      "type": "string"
+    },
+    "evidence_kind": {
+      "$ref": "#/$defs/EvidenceKind"
+    },
+    "game_id": {
+      "pattern": "^game_.+",
+      "title": "Game Id",
+      "type": "string"
+    },
+    "hardware_context": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Hardware Context"
+    },
+    "language": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Language"
+    },
+    "matched_alias_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Matched Alias Ids",
+      "type": "array"
+    },
+    "normalized_text": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Normalized Text"
+    },
+    "original_text": {
+      "minLength": 1,
+      "title": "Original Text",
+      "type": "string"
+    },
+    "parent_evidence_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Parent Evidence Id"
+    },
+    "platform": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Platform"
+    },
+    "playtime_hours": {
+      "anyOf": [
+        {
+          "minimum": 0,
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Playtime Hours"
+    },
+    "provenance": {
+      "$ref": "#/$defs/Provenance"
+    },
+    "published_at": {
+      "anyOf": [
+        {
+          "format": "date-time",
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "title": "Published At"
+    },
+    "query_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Query Id"
+    },
+    "rating": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Rating"
+    },
+    "rating_scale": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Rating Scale"
+    },
+    "recommended": {
+      "anyOf": [
+        {
+          "type": "boolean"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Recommended"
+    },
+    "relevance_label": {
+      "$ref": "#/$defs/RelevanceLabel"
+    },
+    "relevance_method_version": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Relevance Method Version"
+    },
+    "relevance_reasons": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Relevance Reasons",
+      "type": "array"
+    },
+    "relevance_score": {
+      "anyOf": [
+        {
+          "maximum": 1,
+          "minimum": 0,
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Relevance Score"
+    },
+    "reply_count": {
+      "anyOf": [
+        {
+          "minimum": 0,
+          "type": "integer"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Reply Count"
+    },
+    "retrieval_method": {
+      "$ref": "#/$defs/RetrievalMethod"
+    },
+    "retrieved_at": {
+      "format": "date-time",
+      "title": "Retrieved At",
+      "type": "string"
+    },
+    "run_id": {
+      "pattern": "^run_.+",
+      "title": "Run Id",
+      "type": "string"
+    },
+    "source": {
+      "minLength": 1,
+      "title": "Source",
+      "type": "string"
+    },
+    "source_content_id": {
+      "minLength": 1,
+      "title": "Source Content Id",
+      "type": "string"
+    },
+    "source_metadata": {
+      "additionalProperties": true,
+      "title": "Source Metadata",
+      "type": "object"
+    },
+    "source_reference": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Source Reference"
+    },
+    "source_url": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Source Url"
+    },
+    "title": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Title"
+    },
+    "version_context": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Version Context"
+    }
+  },
+  "required": [
+    "evidence_id",
+    "game_id",
+    "evidence_kind",
+    "access_scope",
+    "dataset_id",
+    "source",
+    "source_content_id",
+    "original_text",
+    "language",
+    "published_at",
+    "retrieved_at",
+    "run_id",
+    "matched_alias_ids",
+    "retrieval_method",
+    "relevance_label",
+    "relevance_reasons",
+    "provenance"
+  ],
+  "title": "EvidenceItem",
+  "type": "object"
+}

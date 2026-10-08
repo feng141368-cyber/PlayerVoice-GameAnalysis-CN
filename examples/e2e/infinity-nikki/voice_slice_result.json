@@ -1,0 +1,2582 @@
+{
+  "input_name": "无限暖暖",
+  "run_id": "run_voice_20261003T034615Z",
+  "foundation": {
+    "input_name": "无限暖暖",
+    "run_id": "run_voice_20261003T034615Z",
+    "resolution": {
+      "input_name": "无限暖暖",
+      "locale": "zh-CN",
+      "status": "resolved",
+      "game": {
+        "game_id": "game_wikidata_q126199544",
+        "canonical_title": "无限暖暖",
+        "original_title": "无限暖暖",
+        "localized_titles": {
+          "zh": "无限暖暖",
+          "zh-hans": "无限暖暖",
+          "en": "Infinity Nikki",
+          "zh-CN": "无限暖暖"
+        },
+        "external_ids": {
+          "wikidata_id": "Q126199544",
+          "steam_app_id": "3164330"
+        },
+        "developers": [
+          "Infold Games"
+        ],
+        "publishers": [
+          "Infold Games"
+        ],
+        "resolution_status": "resolved",
+        "resolution_confidence": 0.76,
+        "resolution_evidence_ids": [
+          "ev_resolver_6b192a686ee376e88640",
+          "ev_resolver_11306267846e2d9bb56f"
+        ],
+        "resolved_at": "2026-10-03T03:46:15.202573Z",
+        "release_dates": {},
+        "genres": [
+          "休闲",
+          "免费开玩",
+          "冒险",
+          "动作",
+          "模拟",
+          "角色扮演"
+        ],
+        "franchise": null,
+        "official_urls": [
+          "https://infinitynikki.infoldgames.com/en/home"
+        ],
+        "platforms": [
+          "windows"
+        ]
+      },
+      "candidates": [
+        {
+          "entity": {
+            "game_id": "game_wikidata_q126199544",
+            "canonical_title": "无限暖暖",
+            "original_title": "无限暖暖",
+            "localized_titles": {
+              "zh": "无限暖暖",
+              "zh-hans": "无限暖暖",
+              "en": "Infinity Nikki",
+              "zh-CN": "无限暖暖"
+            },
+            "external_ids": {
+              "wikidata_id": "Q126199544",
+              "steam_app_id": "3164330"
+            },
+            "developers": [
+              "Infold Games"
+            ],
+            "publishers": [
+              "Infold Games"
+            ],
+            "resolution_status": "resolved",
+            "resolution_confidence": 0.76,
+            "resolution_evidence_ids": [
+              "ev_resolver_6b192a686ee376e88640",
+              "ev_resolver_11306267846e2d9bb56f"
+            ],
+            "resolved_at": "2026-10-03T03:46:15.202573Z",
+            "release_dates": {},
+            "genres": [
+              "休闲",
+              "免费开玩",
+              "冒险",
+              "动作",
+              "模拟",
+              "角色扮演"
+            ],
+            "franchise": null,
+            "official_urls": [
+              "https://infinitynikki.infoldgames.com/en/home"
+            ],
+            "platforms": [
+              "windows"
+            ]
+          },
+          "score": 0.76,
+          "reasons": [
+            "exact official/localized title match",
+            "localized title available for zh-CN",
+            "supported by steam, wikidata",
+            "stable external identifier present",
+            "platform listing present"
+          ],
+          "evidence": [
+            {
+              "evidence_id": "ev_resolver_6b192a686ee376e88640",
+              "provider": "wikidata",
+              "source_reference": "Q126199544",
+              "source_url": "https://www.wikidata.org/wiki/Q126199544",
+              "retrieved_at": "2026-10-03T03:34:54.857693Z"
+            },
+            {
+              "evidence_id": "ev_resolver_11306267846e2d9bb56f",
+              "provider": "steam",
+              "source_reference": "steam_app:3164330",
+              "source_url": "https://store.steampowered.com/app/3164330/",
+              "retrieved_at": "2026-10-03T03:35:01.535787Z"
+            }
+          ],
+          "providers": [
+            "steam",
+            "wikidata"
+          ]
+        }
+      ],
+      "reasons": [
+        "one candidate passed the resolution threshold with a safe margin"
+      ],
+      "provider_failures": [],
+      "partial": false
+    },
+    "aliases": {
+      "game_id": "game_wikidata_q126199544",
+      "aliases": [
+        {
+          "alias_id": "alias_5038de359a6e4ab648b3",
+          "game_id": "game_wikidata_q126199544",
+          "text": "无限暖暖",
+          "normalized_text": "无限暖暖",
+          "language": "zh",
+          "alias_type": "official_title",
+          "source_evidence_ids": [
+            "ev_resolver_11306267846e2d9bb56f",
+            "ev_resolver_6b192a686ee376e88640"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        },
+        {
+          "alias_id": "alias_f233b3b08a757c1b968d",
+          "game_id": "game_wikidata_q126199544",
+          "text": "Infinity Nikki",
+          "normalized_text": "infinitynikki",
+          "language": "en",
+          "alias_type": "localized_title",
+          "source_evidence_ids": [
+            "ev_resolver_11306267846e2d9bb56f",
+            "ev_resolver_6b192a686ee376e88640"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        }
+      ],
+      "review_items": [],
+      "observations": []
+    },
+    "query_plans": [
+      {
+        "query_id": "query_4aab73164da460150a1a",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"无限暖暖\" 官方",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_de22cfc78c3aa444f481",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"无限暖暖\" 性能 帧率 卡顿 官方",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_7f4ea45fecf63938129a",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"无限暖暖\" 操作 手柄 官方",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_c32165cd727368b44516",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"无限暖暖\" 补丁 公告 官方",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_4343fa516857ae2ecc74",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Infinity Nikki\" official",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_45152e380b50d7d37ffb",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Infinity Nikki\" performance fps stutter official",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_28dda575e5a8e2010b80",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Infinity Nikki\" controls controller official",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_447118e8378cafc45f31",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "official",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Infinity Nikki\" patch notes official",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_616f6c4a163daf6a8035",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "steam_app:3164330 intent:general",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_47329c444c431a6305a2",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "steam_app:3164330 intent:performance",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_253662793946c317b70a",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "steam_app:3164330 intent:controls",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_424c10b6ff69fba9b487",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "steam_app:3164330 intent:patch",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_9da159714d4980140402",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "en",
+        "intent": "general",
+        "query_text": "steam_app:3164330 intent:general",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_f5a228920f17b772bb67",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "steam_app:3164330 intent:performance",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_1e843027c318cbbd1d64",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "steam_app:3164330 intent:controls",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_238a98e94390300d4982",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "steam",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "steam_app:3164330 intent:patch",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_cec0cd44db083df14779",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"无限暖暖\"",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_e11cff154490dbad4006",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"无限暖暖\" 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_e4307f902ef83b2eb2db",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"无限暖暖\" 操作 手柄",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_9da3a76cabc591901652",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"无限暖暖\" 补丁 公告",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_5f4c49aecfc636fc423c",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"Infinity Nikki\"",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_96afa93c55b9e76260a8",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"Infinity Nikki\" performance fps stutter",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_f96f96afec26fd015bb4",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"Infinity Nikki\" controls controller",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_f3f72713b7f331230115",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "reddit",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"Infinity Nikki\" patch notes",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_a40046cb06cee1ddc6bb",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "无限暖暖",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_cdafc446ea68d156cd69",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "无限暖暖 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_358bfaa892a15e5b19d3",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "无限暖暖 操作 手柄",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_3f1f34e27ca2497d8c76",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "无限暖暖 补丁 公告",
+        "alias_ids": [
+          "alias_5038de359a6e4ab648b3"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_dd4f9e90b0e0b9fbb7df",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "general",
+        "query_text": "Infinity Nikki",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_6b7d49bac8a221ca7ba5",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "Infinity Nikki performance fps stutter",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_c77c3b66cdfd620e39ec",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "Infinity Nikki controls controller",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      },
+      {
+        "query_id": "query_0b3febef35880df7415b",
+        "run_id": "run_voice_20261003T034615Z",
+        "game_id": "game_wikidata_q126199544",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "Infinity Nikki patch notes",
+        "alias_ids": [
+          "alias_f233b3b08a757c1b968d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:46:21.073235Z"
+      }
+    ],
+    "fact_bundle": {
+      "game_id": "game_wikidata_q126199544",
+      "facts": [
+        {
+          "fact_id": "fact_931443cd9a0de8cdad54",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "title",
+          "value": {
+            "language": "en",
+            "title": "Infinity Nikki"
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_348944a31f30e12eb0c5",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "developer",
+          "value": "Infold Games",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_ff95b1512f403ba6404c",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "publisher",
+          "value": "Infold Games",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_b023b302ed643c811ffa",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "release_date",
+          "value": {
+            "date": "Apr 28, 2025",
+            "coming_soon": false
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_fe0760f3cea79ce5c557",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "platform_support",
+          "value": true,
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_6c8d8e990ff7e7a46d81",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "minimum_requirements",
+          "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i5-6600/R5 1500X\nMemory: 16 GB RAM\nGraphics: GTX 1060/RX 590/Intel Arc A380\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_71efad0efdb887c60498",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "minimum",
+            "amount": 60.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_1c9bbcee66ec588b7525",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "recommended_requirements",
+          "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i7-6700/R5 2600\nMemory: 16 GB RAM\nGraphics: RTX 2060/RTX 3050 Laptop/RX 5700 XT/Intel Arc A580\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_0cdb95f836272e7e8293",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "recommended",
+            "amount": 60.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_7969b5f1e36a869d30a1",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "supported_languages",
+          "value": [
+            "English",
+            "French",
+            "Italian",
+            "German",
+            "Indonesian",
+            "Japanese",
+            "Thai",
+            "Simplified Chinese",
+            "Traditional Chinese",
+            "Portuguese - Brazil",
+            "Spanish - Latin America",
+            "Korean\nlanguages with full audio support"
+          ],
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        },
+        {
+          "fact_id": "fact_ffa371fec15aae0cf17d",
+          "game_id": "game_wikidata_q126199544",
+          "fact_type": "cross_play",
+          "value": true,
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z"
+        }
+      ],
+      "evidence": [
+        {
+          "evidence_id": "ev_ffd694de43a93a52e9cb",
+          "game_id": "game_wikidata_q126199544",
+          "evidence_kind": "fact_source",
+          "access_scope": "public",
+          "dataset_id": null,
+          "source": "steam",
+          "source_content_id": "steam_app:3164330",
+          "parent_evidence_id": null,
+          "source_url": "https://store.steampowered.com/app/3164330/",
+          "source_reference": null,
+          "title": null,
+          "original_text": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437\\\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras_big/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437 width=800 height=450 /></span></p><p class=\\\"bb_paragraph\\\" >In this game, Nikki and Momo embark on a new adventure, traveling across the fantastic nations of Miraland, each with its own unique culture and environment. Players will encounter many characters and whimsical creatures while collecting stunning outfits of various styles. Some of these outfits possess magical abilities essential for progressing through the story.</p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Bright and fantasy-filled open world</strong></h2><p class=\\\"bb_paragraph\\\" >The world of Infinity Nikki offers a refreshing escape from traditional apocalyptic landscapes. It's bright, whimsical, and filled with magical creatures. Wander through this wonderful land and explore the beauty and charm around every corner.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/94ea7ea92f01d11af40395bb4407ed6c.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/94ea7ea92f01d11af40395bb4407ed6c.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Exceptional clothing design and dress-up experience</strong></h2><p class=\\\"bb_paragraph\\\" >Express your style with an extensive collection of beautifully designed outfits, some of which even grant unique abilities. From floating and purifying to gliding and shrinking, these outfits unlock exciting new ways to explore the world and overcome challenges. Each outfit enriches your journey, letting you mix and match for the perfect look.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/f30d7ae3e768167d7db386701958e18d.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/f30d7ae3e768167d7db386701958e18d.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Platforming with endless fun</strong></h2><p class=\\\"bb_paragraph\\\" >In this vast, fantastic world, master skills like floating, running, and plunging to freely explore the land and tackle intricately designed puzzles and challenges. The joy of 3D platforming is seamlessly integrated into the game's open-world exploration. Each scene is vibrant and charming—from soaring paper cranes, speeding wine cellar carts, mysterious ghost trains—so many hidden secrets await discovery!</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/d0eed1d7f38092f0ea2849fc32843e3f.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/d0eed1d7f38092f0ea2849fc32843e3f.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Cozy sim activities and casual fun</strong></h2><p class=\\\"bb_paragraph\\\" >Relax with activities like fishing, bug catching, or grooming animals. Everything Nikki collects on her journey helps craft new outfits. Whether you're in a meadow or by a river, there's a great chance that you'll encounter enchanting creatures that bring a sense of peace and immersion.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.mp4?t=1790219437\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Diverse puzzles and mini-games</strong></h2><p class=\\\"bb_paragraph\\\" >Infinity Nikki is filled with activities that challenge both wit and skill. Traverse scenic paths, enjoy a hot air balloon ride, complete platforming puzzles, or even play a hopscotch mini-game. These elements add variety and depth, ensuring every moment remains fresh and engaging.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/c7aaf55c8dcd43fd1c6f705996775962.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/c7aaf55c8dcd43fd1c6f705996775962.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >Thank you for your interest in Infinity Nikki. We look forward to meeting you in Miraland!</p>\", \"achievements\": {\"highlighted\": [{\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"Be Your Own Princess\", \"name\": \"Be Your Own Princess\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"What a Fresh Day\", \"name\": \"What a Fresh Day\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"Cute Sweetheart, Shining Debut!\", \"name\": \"Cute Sweetheart, Shining Debut!\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"How Would You Define Sexy?\", \"name\": \"How Would You Define Sexy?\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"I'm Looking Cool Today\", \"name\": \"I'm Looking Cool Today\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"My Clothes are Amazing\", \"name\": \"My Clothes are Amazing\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\", \"localized_name\": \"A Set of Design Sketches\", \"name\": \"A Set of Design Sketches\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/cff7e906b4238a85a6bcb98d2157696043deb21b.jpg\"}, {\"archived\": 0, \"hidden\": 1, \"icon\": \"49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\", \"localized_name\": \"I Swear, This is the Last Time\", \"name\": \"I Swear, This is the Last Time\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\"}, {\"archived\": 0, \"hidden\": 1, \"icon\": \"49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\", \"localized_name\": \"Heart Full of Wonders\", \"name\": \"Heart Full of Wonders\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\", \"localized_name\": \"Walking the Wishful Lands\", \"name\": \"Walking the Wishful Lands\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/3164330/49c6d66bbf422be0d193212b687cd32673bc0ad0.jpg\"}], \"total\": 34}, \"background\": \"https://store.akamai.steamstatic.com/images/storepagebackground/app/3164330?t=1790219437\", \"background_raw\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/7cc591c287983ae092b757a5340dc7992095a481/page_bg_raw.jpg?t=1790219437\", \"capsule_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/c654eb091a83aab9ca9f44dd19a52ac2b7af5389/capsule_231x87.jpg?t=1790219437\", \"capsule_imagev5\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/c654eb091a83aab9ca9f44dd19a52ac2b7af5389/capsule_184x69.jpg?t=1790219437\", \"categories\": [{\"description\": \"Single-player\", \"id\": 2}, {\"description\": \"Multi-player\", \"id\": 1}, {\"description\": \"Co-op\", \"id\": 9}, {\"description\": \"Cross-Platform Multiplayer\", \"id\": 27}, {\"description\": \"Steam Achievements\", \"id\": 22}, {\"description\": \"In-App Purchases\", \"id\": 35}, {\"description\": \"DualShock Controller Support\", \"id\": 55}, {\"description\": \"DualShock Controller Support\", \"id\": 56}, {\"description\": \"DualSense Controller Support\", \"id\": 57}, {\"description\": \"DualSense Controller Support\", \"id\": 58}, {\"description\": \"Partial Controller Support\", \"id\": 18}, {\"description\": \"Family Sharing\", \"id\": 62}], \"content_descriptors\": {\"ids\": [], \"notes\": null}, \"detailed_description\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437\\\" data-big-src=https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras_big/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437 width=800 height=450 /></span></p><p class=\\\"bb_paragraph\\\" >In this game, Nikki and Momo embark on a new adventure, traveling across the fantastic nations of Miraland, each with its own unique culture and environment. Players will encounter many characters and whimsical creatures while collecting stunning outfits of various styles. Some of these outfits possess magical abilities essential for progressing through the story.</p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Bright and fantasy-filled open world</strong></h2><p class=\\\"bb_paragraph\\\" >The world of Infinity Nikki offers a refreshing escape from traditional apocalyptic landscapes. It's bright, whimsical, and filled with magical creatures. Wander through this wonderful land and explore the beauty and charm around every corner.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/94ea7ea92f01d11af40395bb4407ed6c.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/94ea7ea92f01d11af40395bb4407ed6c.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Exceptional clothing design and dress-up experience</strong></h2><p class=\\\"bb_paragraph\\\" >Express your style with an extensive collection of beautifully designed outfits, some of which even grant unique abilities. From floating and purifying to gliding and shrinking, these outfits unlock exciting new ways to explore the world and overcome challenges. Each outfit enriches your journey, letting you mix and match for the perfect look.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/f30d7ae3e768167d7db386701958e18d.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/f30d7ae3e768167d7db386701958e18d.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Platforming with endless fun</strong></h2><p class=\\\"bb_paragraph\\\" >In this vast, fantastic world, master skills like floating, running, and plunging to freely explore the land and tackle intricately designed puzzles and challenges. The joy of 3D platforming is seamlessly integrated into the game's open-world exploration. Each scene is vibrant and charming—from soaring paper cranes, speeding wine cellar carts, mysterious ghost trains—so many hidden secrets await discovery!</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/d0eed1d7f38092f0ea2849fc32843e3f.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/d0eed1d7f38092f0ea2849fc32843e3f.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Cozy sim activities and casual fun</strong></h2><p class=\\\"bb_paragraph\\\" >Relax with activities like fishing, bug catching, or grooming animals. Everything Nikki collects on her journey helps craft new outfits. Whether you're in a meadow or by a river, there's a great chance that you'll encounter enchanting creatures that bring a sense of peace and immersion.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/0cda4202f602ad4c52a8c950236afdd0.mp4?t=1790219437\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><h2 class=\\\"bb_tag\\\" ><strong>Diverse puzzles and mini-games</strong></h2><p class=\\\"bb_paragraph\\\" >Infinity Nikki is filled with activities that challenge both wit and skill. Traverse scenic paths, enjoy a hot air balloon ride, complete platforming puzzles, or even play a hopscotch mini-game. These elements add variety and depth, ensuring every moment remains fresh and engaging.</p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline crossorigin=\\\"anonymous\\\" poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/c7aaf55c8dcd43fd1c6f705996775962.poster.avif?t=1790219437\\\" width=616 height=348 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/c7aaf55c8dcd43fd1c6f705996775962.webm?t=1790219437\\\" type=\\\"video/webm; codecs=vp9\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >Thank you for your interest in Infinity Nikki. We look forward to meeting you in Miraland!</p>\", \"developers\": [\"Infold Games\"], \"genres\": [{\"description\": \"Action\", \"id\": \"1\"}, {\"description\": \"Adventure\", \"id\": \"25\"}, {\"description\": \"Casual\", \"id\": \"4\"}, {\"description\": \"RPG\", \"id\": \"3\"}, {\"description\": \"Simulation\", \"id\": \"28\"}, {\"description\": \"Free To Play\", \"id\": \"37\"}], \"header_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/f8cad1c409c8f0f09d1b5689ce929f84b252a672/header.jpg?t=1790219437\", \"is_free\": true, \"legal_notice\": \"© Infold Games ALL RIGHTS RESERVED\", \"linux_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"mac_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"metacritic\": {\"score\": 80, \"url\": \"https://www.metacritic.com/game/pc/infinity-nikki?ftag=MCD-06-10aaa1f\"}, \"movies\": [{\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1169338737/4e03208bb7ecd31cd3ba24ec2593a300068d41a9/1790147282/dash_av1.mpd?t=1790219434\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1169338737/4e03208bb7ecd31cd3ba24ec2593a300068d41a9/1790147282/dash_h264.mpd?t=1790219434\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1169338737/4e03208bb7ecd31cd3ba24ec2593a300068d41a9/1790147282/hls_264_master.m3u8?t=1790219434\", \"id\": 257166104, \"name\": \" [100 Free Draws] Infinity Nikki × The Little Prince Collab Trailer\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257166104/6bf80b7ed646954c526232eeabc5ebfd13e02d2f/movie_600x337.jpg?t=1790219434\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1206109393/331a0295c59c00557a3274f65a5fe16bd4def937/1790149293/dash_av1.mpd?t=1790219435\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1206109393/331a0295c59c00557a3274f65a5fe16bd4def937/1790149293/dash_h264.mpd?t=1790219435\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1206109393/331a0295c59c00557a3274f65a5fe16bd4def937/1790149293/hls_264_master.m3u8?t=1790219435\", \"id\": 257432424, \"name\": \"♾️ Infinity Nikki Version 2.10 Trailer | The Feather of Justice\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257432424/26a5d0ec8f3309831fcc4db12f0bf0b0523ac51a/movie_600x337.jpg?t=1790219435\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1766246364/d2cce14d6aa066660463d92a2c92b3c7b4a061bc/1790150942/dash_av1.mpd?t=1790219436\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1766246364/d2cce14d6aa066660463d92a2c92b3c7b4a061bc/1790150942/dash_h264.mpd?t=1790219436\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/3164330/1766246364/d2cce14d6aa066660463d92a2c92b3c7b4a061bc/1790150942/hls_264_master.m3u8?t=1790219436\", \"id\": 257237639, \"name\": \"♾️ Infinity Nikki Version 2.10 Outfit Preview: Dust-Shrouded Crime\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257237639/ba948724f7ac22577f085893695371c9f2cff32a/movie_600x337.jpg?t=1790219436\"}], \"name\": \"Infinity Nikki\", \"package_groups\": [], \"pc_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows10 22H2<br></li><li><strong>Processor:</strong> i5-6600/R5 1500X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1060/RX 590/Intel Arc A380<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows10 22H2<br></li><li><strong>Processor:</strong> i7-6700/R5 2600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> RTX 2060/RTX 3050 Laptop/RX 5700 XT/Intel Arc A580<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 60 GB available space</li></ul>\"}, \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"publishers\": [\"Infold Games\"], \"ratings\": {\"dejus\": {\"descriptors\": \"Game contains violence against humans\\r\\nGame contains violence against anything other than humans\\r\\nThis content occurs in a fantastical setting\\r\\nReactions to violence are depicted unrealistically\\r\\nViolence is referred to\\r\\nViolence is implied\\r\\nViolence is rarely depicted from a distance\\r\\nMild/Limited blood and gore\\r\\nFierce sounds or dark overtones\\r\\n\\r\\nThis content occurs in a fantastical setting\\r\\nStyle is pixelated or childlike\\r\\nReactions to violence are depicted unrealistically\\r\\nViolence is referred to\\r\\nMild/Limited blood and gore\\r\\nFierce sounds or dark overtones\\r\\nPictures or sounds likely to be scary (Rarely)\\r\\nCan purchase digital goods\\r\\nCan include random prizes\\r\\nOnline Interaction or Content shared with others\\r\\nUsers or user-generated content can be blocked\\r\\nUsers or user-generated content can be reported\\r\\nModerated chat\\r\\nInteractions can be limited to invited friends only\", \"rating\": \"18\", \"required_age\": \"18\", \"use_age_gate\": \"true\"}, \"igrs\": {\"banned\": \"0\", \"descriptors\": \"Interaksi Daring\\nKekerasan\", \"rating\": \"13\", \"rating_generated\": \"1\", \"required_age\": \"13\", \"use_age_gate\": \"0\"}, \"steam_germany\": {\"banned\": \"0\", \"descriptors\": \"Gewalt\", \"rating\": \"16\", \"rating_generated\": \"1\", \"required_age\": \"16\", \"use_age_gate\": \"0\"}}, \"release_date\": {\"coming_soon\": false, \"date\": \"Apr 28, 2025\"}, \"required_age\": 0, \"reviews\": \"“Always something new and either cute or bizarrely dark to discover”<br>9/10 – IGN<br><br>“A true step forward for open-world gacha games”<br>4/5 – Eurogamer<br><br>“The ultimate dress up game, and it’s only going to get bigger from here”<br>90/100 – GamingTrend<br>\", \"screenshots\": [{\"id\": 0, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/cf19a0203dd7974cfb65c93c366112a35858e4b7/ss_cf19a0203dd7974cfb65c93c366112a35858e4b7.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/cf19a0203dd7974cfb65c93c366112a35858e4b7/ss_cf19a0203dd7974cfb65c93c366112a35858e4b7.600x338.jpg?t=1790219437\"}, {\"id\": 1, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/5aacb24b707102ad447bedd55da88dba1e1c5e65/ss_5aacb24b707102ad447bedd55da88dba1e1c5e65.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/5aacb24b707102ad447bedd55da88dba1e1c5e65/ss_5aacb24b707102ad447bedd55da88dba1e1c5e65.600x338.jpg?t=1790219437\"}, {\"id\": 2, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/8136eeb73cc8c25c1940e5a9ba68b7212e39b853/ss_8136eeb73cc8c25c1940e5a9ba68b7212e39b853.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/8136eeb73cc8c25c1940e5a9ba68b7212e39b853/ss_8136eeb73cc8c25c1940e5a9ba68b7212e39b853.600x338.jpg?t=1790219437\"}, {\"id\": 3, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/2ed70137e686f11748787238b01bd0d61df6e6a1/ss_2ed70137e686f11748787238b01bd0d61df6e6a1.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/2ed70137e686f11748787238b01bd0d61df6e6a1/ss_2ed70137e686f11748787238b01bd0d61df6e6a1.600x338.jpg?t=1790219437\"}, {\"id\": 4, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d4c29fa2f87e7b6ae484a26c3679f69088ba9447/ss_d4c29fa2f87e7b6ae484a26c3679f69088ba9447.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d4c29fa2f87e7b6ae484a26c3679f69088ba9447/ss_d4c29fa2f87e7b6ae484a26c3679f69088ba9447.600x338.jpg?t=1790219437\"}, {\"id\": 5, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/e42d9d4d583489b77f87da9ce8d1297e5f88bda8/ss_e42d9d4d583489b77f87da9ce8d1297e5f88bda8.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/e42d9d4d583489b77f87da9ce8d1297e5f88bda8/ss_e42d9d4d583489b77f87da9ce8d1297e5f88bda8.600x338.jpg?t=1790219437\"}, {\"id\": 6, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/5abbd364df70da64b9683e3be3f21a5398ba8499/ss_5abbd364df70da64b9683e3be3f21a5398ba8499.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/5abbd364df70da64b9683e3be3f21a5398ba8499/ss_5abbd364df70da64b9683e3be3f21a5398ba8499.600x338.jpg?t=1790219437\"}, {\"id\": 7, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d639966f095841c6b2884b16eec732a4baeb02c8/ss_d639966f095841c6b2884b16eec732a4baeb02c8.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d639966f095841c6b2884b16eec732a4baeb02c8/ss_d639966f095841c6b2884b16eec732a4baeb02c8.600x338.jpg?t=1790219437\"}, {\"id\": 8, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/a94b6e3b6797a920a2bfb79fdc9e51d122de2a81/ss_a94b6e3b6797a920a2bfb79fdc9e51d122de2a81.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/a94b6e3b6797a920a2bfb79fdc9e51d122de2a81/ss_a94b6e3b6797a920a2bfb79fdc9e51d122de2a81.600x338.jpg?t=1790219437\"}, {\"id\": 9, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/eb3617690cc2f68e83c5451213f0ff921a581fc7/ss_eb3617690cc2f68e83c5451213f0ff921a581fc7.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/eb3617690cc2f68e83c5451213f0ff921a581fc7/ss_eb3617690cc2f68e83c5451213f0ff921a581fc7.600x338.jpg?t=1790219437\"}, {\"id\": 10, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/dd5265921543ea1767103ab6030b4d8bd55f0e5d/ss_dd5265921543ea1767103ab6030b4d8bd55f0e5d.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/dd5265921543ea1767103ab6030b4d8bd55f0e5d/ss_dd5265921543ea1767103ab6030b4d8bd55f0e5d.600x338.jpg?t=1790219437\"}, {\"id\": 11, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d428b4a66fa4366ee1cf9603fe422da65996615d/ss_d428b4a66fa4366ee1cf9603fe422da65996615d.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d428b4a66fa4366ee1cf9603fe422da65996615d/ss_d428b4a66fa4366ee1cf9603fe422da65996615d.600x338.jpg?t=1790219437\"}, {\"id\": 12, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d8832d94398ab9004c135901ef6055120cc67333/ss_d8832d94398ab9004c135901ef6055120cc67333.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/d8832d94398ab9004c135901ef6055120cc67333/ss_d8832d94398ab9004c135901ef6055120cc67333.600x338.jpg?t=1790219437\"}, {\"id\": 13, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/40cb6b967edc86021eb7e57d1b01e49ef1865754/ss_40cb6b967edc86021eb7e57d1b01e49ef1865754.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/40cb6b967edc86021eb7e57d1b01e49ef1865754/ss_40cb6b967edc86021eb7e57d1b01e49ef1865754.600x338.jpg?t=1790219437\"}, {\"id\": 14, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/bc6802037934133ef2cb6da30161da3458b60259/ss_bc6802037934133ef2cb6da30161da3458b60259.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/bc6802037934133ef2cb6da30161da3458b60259/ss_bc6802037934133ef2cb6da30161da3458b60259.600x338.jpg?t=1790219437\"}, {\"id\": 15, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/fdd8d158748102eac2782051893fbe3f78f48759/ss_fdd8d158748102eac2782051893fbe3f78f48759.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/fdd8d158748102eac2782051893fbe3f78f48759/ss_fdd8d158748102eac2782051893fbe3f78f48759.600x338.jpg?t=1790219437\"}, {\"id\": 16, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/c8915ab3d416391906565be4c93c139eb1114f4e/ss_c8915ab3d416391906565be4c93c139eb1114f4e.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/c8915ab3d416391906565be4c93c139eb1114f4e/ss_c8915ab3d416391906565be4c93c139eb1114f4e.600x338.jpg?t=1790219437\"}, {\"id\": 17, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/0270bf24b47ed6ab6388b6415f70e24ace4b0def/ss_0270bf24b47ed6ab6388b6415f70e24ace4b0def.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/0270bf24b47ed6ab6388b6415f70e24ace4b0def/ss_0270bf24b47ed6ab6388b6415f70e24ace4b0def.600x338.jpg?t=1790219437\"}, {\"id\": 18, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/0c0b60123399a1c5965caa773742600678640d38/ss_0c0b60123399a1c5965caa773742600678640d38.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/0c0b60123399a1c5965caa773742600678640d38/ss_0c0b60123399a1c5965caa773742600678640d38.600x338.jpg?t=1790219437\"}, {\"id\": 19, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/f33c6f1087d582add0bf7fd7b5e08deab246f60b/ss_f33c6f1087d582add0bf7fd7b5e08deab246f60b.1920x1080.jpg?t=1790219437\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/f33c6f1087d582add0bf7fd7b5e08deab246f60b/ss_f33c6f1087d582add0bf7fd7b5e08deab246f60b.600x338.jpg?t=1790219437\"}], \"short_description\": \"Embark on a cozy open-world adventure filled with vast landscape, mystical puzzles and unexpected platforming challenges. Dress up not just for style, but to unravel hidden mysteries, interact with a vibrant environment, and experience the freedom to explore at your own pace.\", \"steam_appid\": 3164330, \"support_info\": {\"email\": \"infinitynikki_cs@infoldgames.com\", \"url\": \"https://support-infinitynikki.infoldgames.com/\"}, \"supported_languages\": \"English<strong>*</strong>, French, Italian, German, Indonesian, Japanese<strong>*</strong>, Thai, Simplified Chinese<strong>*</strong>, Traditional Chinese, Portuguese - Brazil, Spanish - Latin America, Korean<br><strong>*</strong>languages with full audio support\", \"type\": \"game\", \"website\": \"https://infinitynikki.infoldgames.com/en/home\"}",
+          "normalized_text": null,
+          "language": null,
+          "published_at": null,
+          "retrieved_at": "2026-10-03T03:46:28.025489Z",
+          "run_id": "run_voice_20261003T034615Z",
+          "query_id": null,
+          "matched_alias_ids": [],
+          "retrieval_method": "api",
+          "relevance_label": "relevant",
+          "relevance_score": 1.0,
+          "relevance_reasons": [
+            "official or platform-store fact source"
+          ],
+          "relevance_method_version": "fact-layer-v1",
+          "recommended": null,
+          "rating": null,
+          "rating_scale": null,
+          "engagement": null,
+          "reply_count": null,
+          "playtime_hours": null,
+          "platform": "steam",
+          "hardware_context": null,
+          "version_context": null,
+          "source_metadata": {},
+          "provenance": {
+            "source_class": "platform_store",
+            "collector_version": "fact-layer-v1",
+            "terms_or_permission_reference": null,
+            "content_checksum": "d2fe6a1710f2416ecaf088f9081fe2a5f5881226efac2cf4fa32f917fb4101aa",
+            "raw_snapshot_reference": null,
+            "contains_personal_data": false,
+            "redaction_status": "not_required"
+          }
+        }
+      ],
+      "warnings": []
+    },
+    "stage_warnings": []
+  },
+  "query_plans": [
+    {
+      "query_id": "query_616f6c4a163daf6a8035",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "steam_app:3164330 intent:general",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_9da159714d4980140402",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "steam",
+      "language": "en",
+      "intent": "general",
+      "query_text": "steam_app:3164330 intent:general",
+      "alias_ids": [
+        "alias_f233b3b08a757c1b968d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_47329c444c431a6305a2",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "steam_app:3164330 intent:performance",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_34ec66e5a6618a29ed39",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "steam_app:3164330 intent:bugs",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_a40046cb06cee1ddc6bb",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "无限暖暖",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_dd4f9e90b0e0b9fbb7df",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "bilibili",
+      "language": "en",
+      "intent": "general",
+      "query_text": "Infinity Nikki",
+      "alias_ids": [
+        "alias_f233b3b08a757c1b968d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_cdafc446ea68d156cd69",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "无限暖暖 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_d049b1b98586a859c0c6",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "无限暖暖 漏洞 闪退",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_cec0cd44db083df14779",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"无限暖暖\"",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_5f4c49aecfc636fc423c",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "reddit",
+      "language": "en",
+      "intent": "general",
+      "query_text": "\"Infinity Nikki\"",
+      "alias_ids": [
+        "alias_f233b3b08a757c1b968d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_e11cff154490dbad4006",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "\"无限暖暖\" 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    },
+    {
+      "query_id": "query_9d873da38f1d78bb117e",
+      "run_id": "run_voice_20261003T034615Z",
+      "game_id": "game_wikidata_q126199544",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "\"无限暖暖\" 漏洞 闪退",
+      "alias_ids": [
+        "alias_5038de359a6e4ab648b3"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:46:28.029949Z"
+    }
+  ],
+  "source_execution": {
+    "bilibili": {
+      "source": "bilibili",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "raw_items": 12,
+      "excluded": {},
+      "statuses": {
+        "collected": 4
+      },
+      "errors": []
+    },
+    "reddit": {
+      "source": "reddit",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 0,
+      "failed_queries": 4,
+      "raw_items": 0,
+      "excluded": {},
+      "statuses": {
+        "unavailable": 4
+      },
+      "errors": [
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+      ]
+    },
+    "steam": {
+      "source": "steam",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "raw_items": 40,
+      "excluded": {},
+      "statuses": {
+        "collected": 4
+      },
+      "errors": []
+    }
+  },
+  "raw_community_items": 52,
+  "relevance_counts": {
+    "irrelevant": 6,
+    "relevant": 46
+  },
+  "corpus": {
+    "run": {
+      "run_id": "run_voice_20261003T034615Z",
+      "request_hash": "9460d07e9aa6121e816a08f731908e47f7e348dc05d0cc454483aa9e06d66476",
+      "game_ids": [
+        "game_wikidata_q126199544"
+      ],
+      "query_plans": [
+        {
+          "query_id": "query_616f6c4a163daf6a8035",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "steam_app:3164330 intent:general",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_9da159714d4980140402",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "steam",
+          "language": "en",
+          "intent": "general",
+          "query_text": "steam_app:3164330 intent:general",
+          "alias_ids": [
+            "alias_f233b3b08a757c1b968d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_47329c444c431a6305a2",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "steam_app:3164330 intent:performance",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_34ec66e5a6618a29ed39",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "steam_app:3164330 intent:bugs",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_a40046cb06cee1ddc6bb",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "无限暖暖",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_dd4f9e90b0e0b9fbb7df",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "bilibili",
+          "language": "en",
+          "intent": "general",
+          "query_text": "Infinity Nikki",
+          "alias_ids": [
+            "alias_f233b3b08a757c1b968d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_cdafc446ea68d156cd69",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "无限暖暖 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_d049b1b98586a859c0c6",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "无限暖暖 漏洞 闪退",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_cec0cd44db083df14779",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "\"无限暖暖\"",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_5f4c49aecfc636fc423c",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "reddit",
+          "language": "en",
+          "intent": "general",
+          "query_text": "\"Infinity Nikki\"",
+          "alias_ids": [
+            "alias_f233b3b08a757c1b968d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_e11cff154490dbad4006",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "\"无限暖暖\" 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        },
+        {
+          "query_id": "query_9d873da38f1d78bb117e",
+          "run_id": "run_voice_20261003T034615Z",
+          "game_id": "game_wikidata_q126199544",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "\"无限暖暖\" 漏洞 闪退",
+          "alias_ids": [
+            "alias_5038de359a6e4ab648b3"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:46:28.029949Z"
+        }
+      ],
+      "code_version": "0.4",
+      "config_version": "voice-slice-v1",
+      "taxonomy_version": "1.1.0",
+      "started_at": "2026-10-03T03:48:01.579159Z",
+      "ended_at": "2026-10-03T03:48:01.579160Z",
+      "source_status": {
+        "bilibili": {
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 12,
+          "items_relevant": 6,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "error_code": null,
+          "reason": null
+        },
+        "reddit": {
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        "steam": {
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "error_code": null,
+          "reason": null
+        },
+        "official": {
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": null,
+          "reason": null
+        }
+      }
+    },
+    "upsert": {
+      "received": 53,
+      "inserted": 33,
+      "updated": 20,
+      "duplicates": 20,
+      "likely_cross_posts": 0
+    },
+    "snapshot_references": [
+      "public/run_voice_20261003T034615Z/bilibili.jsonl",
+      "public/run_voice_20261003T034615Z/steam.jsonl"
+    ],
+    "relevant_items": 46,
+    "ambiguous_items": 0,
+    "irrelevant_items": 6,
+    "pending_items": 0
+  },
+  "annotation_count": 26,
+  "annotations_path": "examples/e2e/infinity-nikki/annotations.jsonl",
+  "insights": {
+    "game_id": "game_wikidata_q126199544",
+    "run_id": "run_voice_20261003T034615Z",
+    "layer": "player_evidence",
+    "engine_version": "insight-engine-v1",
+    "player_insights": [
+      {
+        "insight_id": "insight_d17eb7f385a6ea314091",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "research_gap",
+        "statement": "11 relevant evidence item(s) remain unclassified and need taxonomy review.",
+        "taxonomy_nodes": [
+          "other_unclassified"
+        ],
+        "confidence": 0.95,
+        "supporting_evidence_ids": [
+          "ev_02da4c0963ab311214e1",
+          "ev_3595b6d5408b1689ed2b",
+          "ev_3bc0491398dd34f16641",
+          "ev_9f2811b35da6b6ce7b83",
+          "ev_a0e07254b48931a9a78c",
+          "ev_adfadfca748f9da41a6c",
+          "ev_b639d04f1b9f35bea61b",
+          "ev_be8baa5390535c10f991",
+          "ev_d98217faa47bfe6b0ef3",
+          "ev_e46e4de12b5500517859",
+          "ev_e56c16619f4c9c19fbfa"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 11,
+          "sources": {
+            "bilibili": 1,
+            "steam": 10
+          },
+          "languages": {
+            "en": 7,
+            "zh-CN": 4
+          },
+          "date_start": "2026-08-30T07:35:56+00:00",
+          "date_end": "2026-10-02T02:37:06+00:00",
+          "sentiment_positions": {
+            "negative": 1,
+            "positive": 9,
+            "unknown": 1
+          },
+          "sentiment_methods": {
+            "inferred_bilingual_lexicon": 1,
+            "source_native_recommendation": 10
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "No reliable topic assignment was available."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_df446b2e7fb4f0928b69",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 3 evidence item(s) express positive views about story.",
+        "taxonomy_nodes": [
+          "story"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "challenging_evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 5,
+          "sources": {
+            "steam": 5
+          },
+          "languages": {
+            "en": 1,
+            "zh-CN": 4
+          },
+          "date_start": "2026-08-27T01:14:59+00:00",
+          "date_end": "2026-10-02T16:49:41+00:00",
+          "sentiment_positions": {
+            "negative": 2,
+            "positive": 3
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 5
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_dd22b71b98738590d7ed",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to story.",
+        "taxonomy_nodes": [
+          "story"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "challenging_evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 5,
+          "sources": {
+            "steam": 5
+          },
+          "languages": {
+            "en": 1,
+            "zh-CN": 4
+          },
+          "date_start": "2026-08-27T01:14:59+00:00",
+          "date_end": "2026-10-02T16:49:41+00:00",
+          "sentiment_positions": {
+            "negative": 2,
+            "positive": 3
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 5
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 5,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.4,
+              "score_0_to_3": 2
+            },
+            "momentum": {
+              "value": 3.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 9,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_bace7a35cdd610233386",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "controversy",
+        "statement": "The collected evidence contains distinguishable positive and negative positions on story.",
+        "taxonomy_nodes": [
+          "story"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "challenging_evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 5,
+          "sources": {
+            "steam": 5
+          },
+          "languages": {
+            "en": 1,
+            "zh-CN": 4
+          },
+          "date_start": "2026-08-27T01:14:59+00:00",
+          "date_end": "2026-10-02T16:49:41+00:00",
+          "sentiment_positions": {
+            "negative": 2,
+            "positive": 3
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 5
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This indicates disagreement in the sample, not population polarisation."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_05c4b294a7e7bb2e4c24",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to bugs_stability.",
+        "taxonomy_nodes": [
+          "bugs_stability"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "en": 1
+          },
+          "date_start": "2026-10-01T05:07:10+00:00",
+          "date_end": "2026-10-01T05:07:10+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 4,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 0.25,
+              "score_0_to_3": 1
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "bilibili",
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 2
+            }
+          },
+          "total_0_to_12": 6,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_20c4bb7a8377f0987442",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "difference",
+        "statement": "Negative share for bugs_stability differs between collected steam and bilibili evidence.",
+        "taxonomy_nodes": [
+          "bugs_stability"
+        ],
+        "confidence": 0.87,
+        "supporting_evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "challenging_evidence_ids": [
+          "ev_09a089defc36b773b2fc",
+          "ev_2b48b9cc8f39ba407a56",
+          "ev_49f6b97180e526f32cef"
+        ],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 4,
+          "sources": {
+            "bilibili": 3,
+            "steam": 1
+          },
+          "languages": {
+            "en": 1,
+            "zh-CN": 3
+          },
+          "date_start": "2026-05-10T14:35:34+00:00",
+          "date_end": "2026-10-01T05:07:10+00:00",
+          "sentiment_positions": {
+            "negative": 1,
+            "unknown": 3
+          },
+          "sentiment_methods": {
+            "inferred_bilingual_lexicon": 3,
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "Source audiences and collection methods differ; this is not a market-level comparison."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_a9a3fb79c2cb859e2b16",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about gacha.",
+        "taxonomy_nodes": [
+          "gacha"
+        ],
+        "confidence": 0.66,
+        "supporting_evidence_ids": [
+          "ev_0fb6696dee2499b24684",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 2,
+          "sources": {
+            "steam": 2
+          },
+          "languages": {
+            "en": 2
+          },
+          "date_start": "2026-09-30T09:12:40+00:00",
+          "date_end": "2026-10-02T16:49:41+00:00",
+          "sentiment_positions": {
+            "positive": 2
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 2
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_dee654aa3658a4e76fa1",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about graphics.",
+        "taxonomy_nodes": [
+          "graphics"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_a6dfd7e078ee3a3f2583"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-01T09:42:58+00:00",
+          "date_end": "2026-09-01T09:42:58+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_03c3aec77c4d30caa3da",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about account_service.",
+        "taxonomy_nodes": [
+          "account_service"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_3609968043142ebbb3af"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-14T19:12:04+00:00",
+          "date_end": "2026-09-14T19:12:04+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_39d82029e1842551d023",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about audio_music.",
+        "taxonomy_nodes": [
+          "audio_music"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-08T01:48:35+00:00",
+          "date_end": "2026-09-08T01:48:35+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_055577de04a2107718d2",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about patch_reaction.",
+        "taxonomy_nodes": [
+          "patch_reaction"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-08T01:48:35+00:00",
+          "date_end": "2026-09-08T01:48:35+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_9131359694456fb869df",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Explicit player request in the collected sample: 能不能一键跳过。",
+        "taxonomy_nodes": [
+          "story"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-08T01:48:35+00:00",
+          "date_end": "2026-09-08T01:48:35+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "A stated request is not proof that the proposed solution is optimal."
+        ],
+        "priority": {
+          "label": "low",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 0.0,
+              "score_0_to_3": 0
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 2,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "explicit_request",
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_9131359694456fb869df",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: coherent and engaging narrative delivery.",
+        "taxonomy_nodes": [
+          "story"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-09-08T01:48:35+00:00",
+          "date_end": "2026-09-08T01:48:35+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "low",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 0.0,
+              "score_0_to_3": 0
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 2,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      },
+      {
+        "insight_id": "insight_37cc2a1dc3a6a0735ee7",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_wikidata_q126199544"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: transparent and fair acquisition mechanics.",
+        "taxonomy_nodes": [
+          "gacha"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_0fb6696dee2499b24684"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "en": 1
+          },
+          "date_start": "2026-09-30T09:12:40+00:00",
+          "date_end": "2026-09-30T09:12:40+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "low",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 0.0,
+              "score_0_to_3": 0
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 2,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:46.579593Z"
+      }
+    ],
+    "facts": [
+      {
+        "fact_id": "fact_931443cd9a0de8cdad54",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "title",
+        "value": {
+          "language": "en",
+          "title": "Infinity Nikki"
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_348944a31f30e12eb0c5",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "developer",
+        "value": "Infold Games",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_ff95b1512f403ba6404c",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "publisher",
+        "value": "Infold Games",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_b023b302ed643c811ffa",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "release_date",
+        "value": {
+          "date": "Apr 28, 2025",
+          "coming_soon": false
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_fe0760f3cea79ce5c557",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "platform_support",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_6c8d8e990ff7e7a46d81",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "minimum_requirements",
+        "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i5-6600/R5 1500X\nMemory: 16 GB RAM\nGraphics: GTX 1060/RX 590/Intel Arc A380\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_71efad0efdb887c60498",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "minimum",
+          "amount": 60.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_1c9bbcee66ec588b7525",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "recommended_requirements",
+        "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i7-6700/R5 2600\nMemory: 16 GB RAM\nGraphics: RTX 2060/RTX 3050 Laptop/RX 5700 XT/Intel Arc A580\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_0cdb95f836272e7e8293",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "recommended",
+          "amount": 60.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_7969b5f1e36a869d30a1",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "supported_languages",
+        "value": [
+          "English",
+          "French",
+          "Italian",
+          "German",
+          "Indonesian",
+          "Japanese",
+          "Thai",
+          "Simplified Chinese",
+          "Traditional Chinese",
+          "Portuguese - Brazil",
+          "Spanish - Latin America",
+          "Korean\nlanguages with full audio support"
+        ],
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      },
+      {
+        "fact_id": "fact_ffa371fec15aae0cf17d",
+        "game_id": "game_wikidata_q126199544",
+        "fact_type": "cross_play",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_ffd694de43a93a52e9cb",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:46:28.025489Z"
+      }
+    ],
+    "coverage": {
+      "game_id": "game_wikidata_q126199544",
+      "run_id": "run_voice_20261003T034615Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 12,
+          "items_relevant": 6,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2022-10-28T19:38:38Z",
+          "date_end": "2026-09-30T17:13:49Z",
+          "languages": {
+            "zh-CN": 12
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "date_start": "2026-08-27T01:14:59Z",
+          "date_end": "2026-10-02T16:49:41Z",
+          "languages": {
+            "en": 10,
+            "zh-CN": 10
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 33,
+      "relevant_corpus_size": 26,
+      "languages": {
+        "en": 10,
+        "unknown": 1,
+        "zh-CN": 22
+      },
+      "date_start": "2022-10-28T19:38:38Z",
+      "date_end": "2026-10-02T16:49:41Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:46.579593Z"
+    },
+    "annotation_count": 26,
+    "generated_at": "2026-10-03T13:53:46.579593Z"
+  },
+  "evidence_store_path": "examples/e2e/infinity-nikki-cross-language/evidence.sqlite3",
+  "report_path": "examples/e2e/infinity-nikki/evidence_report.md",
+  "warnings": []
+}

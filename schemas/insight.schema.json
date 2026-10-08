@@ -1,0 +1,168 @@
+{
+  "$defs": {
+    "InsightScope": {
+      "enum": [
+        "game",
+        "comparison",
+        "patch",
+        "segment"
+      ],
+      "title": "InsightScope",
+      "type": "string"
+    },
+    "InsightType": {
+      "enum": [
+        "fact_summary",
+        "praise",
+        "complaint",
+        "controversy",
+        "pain_point",
+        "need",
+        "opportunity",
+        "difference",
+        "preference_match",
+        "research_gap"
+      ],
+      "title": "InsightType",
+      "type": "string"
+    },
+    "Mode": {
+      "enum": [
+        "player",
+        "creator",
+        "analyst",
+        "compare"
+      ],
+      "title": "Mode",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "properties": {
+    "challenging_evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Challenging Evidence Ids",
+      "type": "array"
+    },
+    "confidence": {
+      "maximum": 1,
+      "minimum": 0,
+      "title": "Confidence",
+      "type": "number"
+    },
+    "context_evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Context Evidence Ids",
+      "type": "array"
+    },
+    "generated_at": {
+      "format": "date-time",
+      "title": "Generated At",
+      "type": "string"
+    },
+    "insight_id": {
+      "pattern": "^insight_.+",
+      "title": "Insight Id",
+      "type": "string"
+    },
+    "insight_type": {
+      "$ref": "#/$defs/InsightType"
+    },
+    "mode": {
+      "$ref": "#/$defs/Mode"
+    },
+    "opportunity_origin": {
+      "anyOf": [
+        {
+          "enum": [
+            "explicit_request",
+            "inferred_need"
+          ],
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Opportunity Origin"
+    },
+    "priority": {
+      "anyOf": [
+        {
+          "additionalProperties": true,
+          "type": "object"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Priority"
+    },
+    "sample_scope": {
+      "additionalProperties": true,
+      "title": "Sample Scope",
+      "type": "object"
+    },
+    "scope_ids": {
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "title": "Scope Ids",
+      "type": "array"
+    },
+    "scope_type": {
+      "$ref": "#/$defs/InsightScope"
+    },
+    "statement": {
+      "minLength": 1,
+      "title": "Statement",
+      "type": "string"
+    },
+    "supporting_evidence_ids": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Supporting Evidence Ids",
+      "type": "array"
+    },
+    "taxonomy_nodes": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Taxonomy Nodes",
+      "type": "array"
+    },
+    "uncertainty": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Uncertainty",
+      "type": "array"
+    }
+  },
+  "required": [
+    "insight_id",
+    "scope_type",
+    "scope_ids",
+    "mode",
+    "insight_type",
+    "statement",
+    "taxonomy_nodes",
+    "confidence",
+    "supporting_evidence_ids",
+    "challenging_evidence_ids",
+    "context_evidence_ids",
+    "sample_scope",
+    "uncertainty",
+    "generated_at"
+  ],
+  "title": "Insight",
+  "type": "object"
+}

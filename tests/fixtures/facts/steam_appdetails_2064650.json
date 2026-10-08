@@ -1,0 +1,22 @@
+{
+  "2064650": {
+    "data": {
+      "categories": [
+        {"description": "Cross-Platform Multiplayer", "id": 27},
+        {"description": "Full controller support", "id": 28}
+      ],
+      "controller_support": "full",
+      "developers": ["Hotta Studio"],
+      "name": "Tower of Fantasy",
+      "pc_requirements": {
+        "minimum": "<strong>Minimum:</strong><br>OS: Windows 10<br>Memory: 8 GB RAM<br>Storage: 30 GB available space",
+        "recommended": "<strong>Recommended:</strong><br>OS: Windows 10<br>Memory: 16 GB RAM<br>Storage: 40 GB available space"
+      },
+      "platforms": {"linux": false, "mac": false, "windows": true},
+      "publishers": ["Level Infinite"],
+      "release_date": {"coming_soon": false, "date": "10 Aug, 2022"},
+      "supported_languages": "English<strong>*</strong>, Simplified Chinese, Japanese<strong>*</strong>"
+    },
+    "success": true
+  }
+}

@@ -1,0 +1,7 @@
+cohort_period,platform,cohort_size,d1_players,d1_retention,d7_players,d7_retention,d30_players,d30_retention
+post_1.3,Android,569,276,0.4851,234,0.4112,93,0.1634
+post_1.3,PC,261,153,0.5862,138,0.5287,64,0.2452
+post_1.3,iOS,376,199,0.5293,182,0.484,91,0.242
+pre_1.3,Android,607,343,0.5651,317,0.5222,141,0.2323
+pre_1.3,PC,281,173,0.6157,139,0.4947,87,0.3096
+pre_1.3,iOS,406,246,0.6059,210,0.5172,105,0.2586

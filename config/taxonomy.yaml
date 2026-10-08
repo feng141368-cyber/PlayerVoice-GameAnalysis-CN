@@ -1,0 +1,276 @@
+version: 1.1.0
+name: playervoice-cross-game-taxonomy
+classification:
+  strategy: multi_label
+  primary_topic_required_for_relevant_ugc: true
+  secondary_topics_allowed: true
+  separate_dimensions:
+    - topic
+    - sentiment
+    - behaviour_signal
+    - evidence_type
+  unknown_topic: other_unclassified
+
+fact_dimensions:
+  - id: identity
+    children: [titles, developer, publisher, release_date, current_version]
+  - id: availability
+    children: [pc, playstation, xbox, switch, ios, android, macos, other_platform]
+  - id: interoperability
+    children: [cross_play, cross_save]
+  - id: system_requirements
+    children: [minimum_hardware, recommended_hardware, storage, network]
+  - id: input_support
+    children: [keyboard_mouse, controller, touch, remapping]
+  - id: language_support
+    children: [interface_language, subtitle_language, voice_language]
+  - id: update_history
+    children: [release, major_update, patch, hotfix]
+
+core_topics:
+  - id: gameplay
+    label_en: Gameplay
+    label_zh: 核心玩法
+    definition: Overall interaction loop when no more specific gameplay topic is dominant.
+  - id: combat
+    label_en: Combat
+    label_zh: 战斗
+    definition: Combat feel, mechanics, targeting, weapons, abilities, balance, and encounter design.
+  - id: exploration
+    label_en: Exploration
+    label_zh: 探索
+    definition: World traversal, discovery, map design, puzzles, and exploration rewards.
+  - id: story
+    label_en: Story
+    label_zh: 剧情
+    definition: Plot, pacing, writing, dialogue, lore, and narrative coherence.
+  - id: characters
+    label_en: Characters
+    label_zh: 角色
+    definition: Character writing, design, development, relationships, and attachment.
+  - id: progression
+    label_en: Progression
+    label_zh: 养成与进度
+    definition: Levelling, upgrade paths, resources, gates, and sense of advancement.
+  - id: difficulty
+    label_en: Difficulty
+    label_zh: 难度
+    definition: Challenge, fairness, accessibility of difficulty, and difficulty spikes.
+  - id: grind
+    label_en: Grind
+    label_zh: 重复刷取
+    definition: Repetition or resource/time requirements perceived as excessive or meaningful.
+  - id: daily_commitment
+    label_en: Daily Commitment
+    label_zh: 日常负担
+    definition: Recurring daily/weekly time pressure, chores, and required session frequency.
+  - id: endgame
+    label_en: Endgame
+    label_zh: 终局内容
+    definition: Activities, goals, and progression after the main or levelling experience.
+  - id: content_cadence
+    label_en: Content Cadence
+    label_zh: 内容更新节奏
+    definition: Frequency, scale, pacing, and droughts of new content.
+  - id: monetisation
+    label_en: Monetisation
+    label_zh: 商业化
+    definition: Spending design, price, value, paywalls, subscriptions, passes, and purchase pressure.
+  - id: gacha
+    label_en: Gacha
+    label_zh: 抽卡
+    definition: Randomised acquisition systems; use extension nodes for detailed mechanics.
+  - id: fomo
+    label_en: FOMO
+    label_zh: 限时压力
+    definition: Pressure caused by limited-time content, rewards, banners, or availability.
+  - id: pvp
+    label_en: PvP
+    label_zh: 玩家对战
+    definition: Competitive player-versus-player systems, balance, fairness, and rewards.
+  - id: fair_play_integrity
+    label_en: Fair Play & Integrity
+    label_zh: 公平竞技与环境治理
+    definition: Cheating, anti-cheat effectiveness, bots, exploit abuse, and false-positive enforcement that affect match integrity.
+  - id: social
+    label_en: Social
+    label_zh: 社交
+    definition: Co-op, friends, guilds, chat, community tools, and shared-world interaction.
+  - id: performance
+    label_en: Performance
+    label_zh: 性能表现
+    definition: FPS, stutter, latency, loading, thermal load, memory, and optimisation.
+  - id: graphics
+    label_en: Graphics
+    label_zh: 画面技术
+    definition: Image quality, rendering, resolution, visual settings, and technical presentation.
+  - id: art_direction
+    label_en: Art Direction
+    label_zh: 美术风格
+    definition: Visual identity, consistency, environment art, animation style, and aesthetics.
+  - id: audio
+    label_en: Audio
+    label_zh: 音频
+    definition: Overall audio experience when no more specific audio topic is dominant.
+  - id: audio_music
+    parent: audio
+    label_en: Music
+    label_zh: 音乐
+    definition: Score, soundtrack, musical identity, repetition, and contextual use.
+  - id: audio_sound_design
+    parent: audio
+    label_en: Sound Design
+    label_zh: 声音设计
+    definition: Effects, feedback, mixing, spatial audio, and environmental sound.
+  - id: audio_voice_acting
+    parent: audio
+    label_en: Voice Acting
+    label_zh: 配音
+    definition: Performance, casting, direction, and language-specific voice quality.
+  - id: controls
+    label_en: Controls
+    label_zh: 操作
+    definition: Keyboard/mouse, controller, touch, remapping, responsiveness, and control feel.
+  - id: ui_ux
+    label_en: UI/UX
+    label_zh: 界面与体验
+    definition: Navigation, information architecture, readability, onboarding, camera, and interaction friction.
+  - id: accessibility
+    label_en: Accessibility
+    label_zh: 无障碍
+    definition: Features and barriers affecting players with different access needs.
+  - id: bugs_stability
+    label_en: Bugs & Stability
+    label_zh: Bug与稳定性
+    definition: Crashes, broken quests, blockers, data loss, and reproducible defects.
+  - id: compatibility
+    label_en: Compatibility
+    label_zh: 兼容性
+    definition: Device, OS, peripheral, driver, platform, or version compatibility.
+  - id: account_service
+    label_en: Account & Service
+    label_zh: 账号与服务
+    definition: Login, migration, bans, support, refunds, server access, and account recovery.
+  - id: onboarding
+    label_en: Onboarding
+    label_zh: 新手体验
+    definition: First-session guidance, learning curve, early progression, and initial clarity.
+  - id: return_experience
+    label_en: Return Experience
+    label_zh: 回流体验
+    definition: Returning-player catch-up, account continuity, and re-entry friction.
+  - id: patch_reaction
+    label_en: Patch Reaction
+    label_zh: 版本反响
+    definition: Direct reaction to a named release, update, patch, or hotfix.
+  - id: other_unclassified
+    label_en: Other / Unclassified
+    label_zh: 其他／未分类
+    definition: Insufficient evidence for a reliable topic; never promoted as a product priority.
+
+genre_extensions:
+  gacha:
+    applies_when: [gacha]
+    topics:
+      - id: gacha.pull_rate
+        label_en: Pull Rate
+        label_zh: 出率
+      - id: gacha.pity
+        label_en: Pity System
+        label_zh: 保底机制
+      - id: gacha.banner
+        label_en: Banner Design
+        label_zh: 卡池设计
+      - id: gacha.currency
+        label_en: Premium Currency
+        label_zh: 抽卡货币
+      - id: gacha.dupes
+        label_en: Duplicates
+        label_zh: 命座／重复获取
+      - id: gacha.power_creep
+        label_en: Power Creep
+        label_zh: 数值膨胀
+  mmo:
+    applies_when: [mmo, mmorpg]
+    topics:
+      - id: mmo.raid
+        label_en: Raids
+        label_zh: 团本
+      - id: mmo.guild
+        label_en: Guilds
+        label_zh: 公会
+      - id: mmo.economy
+        label_en: Player Economy
+        label_zh: 玩家经济
+      - id: mmo.matchmaking
+        label_en: Matchmaking
+        label_zh: 匹配
+      - id: mmo.server_health
+        label_en: Server Health
+        label_zh: 服务器生态
+  simulation:
+    applies_when: [simulation, life_sim, management]
+    topics:
+      - id: simulation.sandbox_freedom
+        label_en: Sandbox Freedom
+        label_zh: 沙盒自由度
+      - id: simulation.system_depth
+        label_en: System Depth
+        label_zh: 系统深度
+      - id: simulation.customisation
+        label_en: Customisation
+        label_zh: 自定义
+      - id: simulation.automation
+        label_en: Automation
+        label_zh: 自动化
+  fashion_customisation:
+    applies_when: [dress_up, fashion, character_customisation]
+    topics:
+      - id: fashion.wardrobe
+        label_en: Wardrobe Breadth
+        label_zh: 衣橱丰富度
+      - id: fashion.dye
+        label_en: Dye & Colour
+        label_zh: 染色
+      - id: fashion.body_face
+        label_en: Body & Face Customisation
+        label_zh: 捏脸与体型
+      - id: fashion.clipping
+        label_en: Clipping & Fit
+        label_zh: 穿模与适配
+
+behaviour_signals:
+  - id: churn_risk
+    definition: Expressed intent to stop, uninstall, or disengage.
+  - id: return_intent
+    definition: Expressed intent to return or conditions for returning.
+  - id: recommendation_intent
+    definition: Expressed intent to recommend or discourage others.
+  - id: payment_intent
+    definition: Expressed willingness to spend.
+  - id: payment_withdrawal
+    definition: Expressed reduction or cessation of spending.
+  - id: frustration
+    definition: Expressed material frustration without a stronger behavioural action.
+  - id: bug_report
+    definition: Description of a potentially reproducible defect.
+  - id: feature_request
+    definition: Explicit requested change; not automatically an underlying need.
+
+business_impact_hypotheses:
+  - retention
+  - monetisation
+  - acquisition
+  - engagement
+  - satisfaction
+  - reputation
+
+evidence_rules:
+  - Topics do not imply sentiment.
+  - Source-native rating and recommendation remain separate from inferred sentiment.
+  - Genre extensions supplement rather than replace core topics.
+  - Cross-game comparison uses core topic IDs; extension topics appear as additional detail.
+  - Behaviour signals require explicit textual support and are not observed behaviour.
+  - Generic praise, short reactions, and unclear slang remain other_unclassified unless they identify a reliable product topic.
+  - Business impacts are hypotheses unless joined to authorised first-party behavioural data.
+  - other_unclassified is a coverage-quality signal, not a priority topic.

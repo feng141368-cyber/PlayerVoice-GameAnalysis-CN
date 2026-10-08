@@ -1,0 +1,732 @@
+{
+  "request_id": "player_infinity_nikki_real",
+  "mode": "player",
+  "game_ids": [
+    "game_wikidata_q126199544"
+  ],
+  "payload": {
+    "game_id": "game_wikidata_q126199544",
+    "game_title": "无限暖暖",
+    "preference_profile": {
+      "important": [
+        "exploration",
+        "story",
+        "characters",
+        "graphics",
+        "audio"
+      ],
+      "avoid": [
+        "pvp",
+        "daily_commitment"
+      ],
+      "constraints": {
+        "available_time_minutes_per_day": 60
+      },
+      "raw_text": "我每天大概只能玩一个小时。我喜欢探索、剧情和角色塑造。我不喜欢重 PvP，也不喜欢每天必须上线做很多任务。比较在乎画面和音乐。",
+      "parser_version": "preference-rules-v1"
+    },
+    "what_is_this_game": [
+      {
+        "claim_id": "claim_c3948fcc8bcc4f22f5a5",
+        "label": "title",
+        "statement": "title: language=en, title=Infinity Nikki",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_931443cd9a0de8cdad54"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_a8f378ca7b0157f77500",
+        "label": "developer",
+        "statement": "developer: Infold Games",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_348944a31f30e12eb0c5"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_beb2eea1ae24a33bc048",
+        "label": "publisher",
+        "statement": "publisher: Infold Games",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_ff95b1512f403ba6404c"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_416d19dd6f5657b3107c",
+        "label": "release_date",
+        "statement": "release_date: date=Apr 28, 2025, coming_soon=False",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_b023b302ed643c811ffa"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      }
+    ],
+    "where_can_i_play_it": [
+      {
+        "claim_id": "claim_0dd85041d420afc5e400",
+        "label": "platform_support",
+        "statement": "Windows platform_support: True",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_fe0760f3cea79ce5c557"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_00eb2223435268f745d0",
+        "label": "cross_play",
+        "statement": "US cross_play: True",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_ffa371fec15aae0cf17d"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      }
+    ],
+    "can_i_run_it": [
+      {
+        "claim_id": "claim_670b34160361f17f0566",
+        "label": "minimum_requirements",
+        "statement": "Windows minimum_requirements: Minimum:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i5-6600/R5 1500X\nMemory: 16 GB RAM\nGraphics: GTX 1060/RX 590/Intel Arc A380\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_6c8d8e990ff7e7a46d81"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_c8fd5f989de8d5d45811",
+        "label": "storage_requirement",
+        "statement": "Windows storage_requirement: tier=minimum, amount=60.0",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_71efad0efdb887c60498"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_2d514dc8118d3471e9b5",
+        "label": "recommended_requirements",
+        "statement": "Windows recommended_requirements: Recommended:\nRequires a 64-bit processor and operating system\nOS: Windows10 22H2\nProcessor: i7-6700/R5 2600\nMemory: 16 GB RAM\nGraphics: RTX 2060/RTX 3050 Laptop/RX 5700 XT/Intel Arc A580\nNetwork: Broadband Internet connection\nStorage: 60 GB available space",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_1c9bbcee66ec588b7525"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_5c381ff8ad22e2e21e19",
+        "label": "storage_requirement",
+        "statement": "Windows storage_requirement: tier=recommended, amount=60.0",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_0cdb95f836272e7e8293"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      }
+    ],
+    "controls": [
+      {
+        "claim_id": "claim_9959a3aadfe919358e8c",
+        "label": "controls",
+        "statement": "Controller, keyboard/mouse, touch, and remapping support are not established by the collected evidence.",
+        "layer": "insufficient",
+        "taxonomy_node": "controls",
+        "fact_ids": [],
+        "insight_ids": [],
+        "evidence_ids": [],
+        "confidence": null,
+        "uncertainty": [
+          "Insufficient collected evidence; absence is not a neutral or positive finding."
+        ]
+      }
+    ],
+    "what_players_praise": [
+      {
+        "claim_id": "claim_f12d77b1e9c4177a08ef",
+        "label": "praise",
+        "statement": "In this collected sample, 3 evidence item(s) express positive views about story.",
+        "layer": "player_evidence",
+        "taxonomy_node": "story",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_df446b2e7fb4f0928b69"
+        ],
+        "evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7",
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_9ae844bbf2a3fab5021f",
+        "label": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about gacha.",
+        "layer": "player_evidence",
+        "taxonomy_node": "gacha",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_a9a3fb79c2cb859e2b16"
+        ],
+        "evidence_ids": [
+          "ev_0fb6696dee2499b24684",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "confidence": 0.66,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_fd943cb1db977678cb2f",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about graphics.",
+        "layer": "player_evidence",
+        "taxonomy_node": "graphics",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_dee654aa3658a4e76fa1"
+        ],
+        "evidence_ids": [
+          "ev_a6dfd7e078ee3a3f2583"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_79f14d4ac5dfdd85601e",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about account_service.",
+        "layer": "player_evidence",
+        "taxonomy_node": "account_service",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_03c3aec77c4d30caa3da"
+        ],
+        "evidence_ids": [
+          "ev_3609968043142ebbb3af"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_f9441992fd7322f838ad",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about audio_music.",
+        "layer": "player_evidence",
+        "taxonomy_node": "audio_music",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_39d82029e1842551d023"
+        ],
+        "evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_11678138f04eaf335355",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about patch_reaction.",
+        "layer": "player_evidence",
+        "taxonomy_node": "patch_reaction",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_055577de04a2107718d2"
+        ],
+        "evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      }
+    ],
+    "what_players_complain_about": [
+      {
+        "claim_id": "claim_f62d820748ef74229982",
+        "label": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to story.",
+        "layer": "player_evidence",
+        "taxonomy_node": "story",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_dd22b71b98738590d7ed"
+        ],
+        "evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105",
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_e59c08732c02835db4de",
+        "label": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to bugs_stability.",
+        "layer": "player_evidence",
+        "taxonomy_node": "bugs_stability",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_05c4b294a7e7bb2e4c24"
+        ],
+        "evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      }
+    ],
+    "what_to_pay_attention_to": [
+      {
+        "claim_id": "claim_f62d820748ef74229982",
+        "label": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to story.",
+        "layer": "player_evidence",
+        "taxonomy_node": "story",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_dd22b71b98738590d7ed"
+        ],
+        "evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105",
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_e59c08732c02835db4de",
+        "label": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to bugs_stability.",
+        "layer": "player_evidence",
+        "taxonomy_node": "bugs_stability",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_05c4b294a7e7bb2e4c24"
+        ],
+        "evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      }
+    ],
+    "preference_fit": [
+      {
+        "dimension": "exploration",
+        "assessment": "uncertain",
+        "rationale": "No evidence-bounded Insight supports a reliable fit judgment for exploration.",
+        "insight_ids": [],
+        "evidence_ids": [],
+        "evidence_count": 0,
+        "source_count": 0,
+        "confidence": null,
+        "uncertainty": [
+          "Insufficient evidence; no fit score is inferred."
+        ]
+      },
+      {
+        "dimension": "story",
+        "assessment": "likely_match",
+        "rationale": "The collected sample contains player praise linked to story.",
+        "insight_ids": [
+          "insight_df446b2e7fb4f0928b69"
+        ],
+        "evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7",
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "evidence_count": 5,
+        "source_count": 1,
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public player evidence is self-selected and not a population estimate."
+        ]
+      },
+      {
+        "dimension": "characters",
+        "assessment": "uncertain",
+        "rationale": "No evidence-bounded Insight supports a reliable fit judgment for characters.",
+        "insight_ids": [],
+        "evidence_ids": [],
+        "evidence_count": 0,
+        "source_count": 0,
+        "confidence": null,
+        "uncertainty": [
+          "Insufficient evidence; no fit score is inferred."
+        ]
+      },
+      {
+        "dimension": "graphics",
+        "assessment": "likely_match",
+        "rationale": "The collected sample contains player praise linked to graphics.",
+        "insight_ids": [
+          "insight_dee654aa3658a4e76fa1"
+        ],
+        "evidence_ids": [
+          "ev_a6dfd7e078ee3a3f2583"
+        ],
+        "evidence_count": 1,
+        "source_count": 1,
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public player evidence is self-selected and not a population estimate."
+        ]
+      },
+      {
+        "dimension": "audio",
+        "assessment": "likely_match",
+        "rationale": "The collected sample contains player praise linked to audio.",
+        "insight_ids": [
+          "insight_39d82029e1842551d023"
+        ],
+        "evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "evidence_count": 1,
+        "source_count": 1,
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public player evidence is self-selected and not a population estimate."
+        ]
+      },
+      {
+        "dimension": "pvp",
+        "assessment": "uncertain",
+        "rationale": "No evidence-bounded Insight supports a reliable fit judgment for pvp.",
+        "insight_ids": [],
+        "evidence_ids": [],
+        "evidence_count": 0,
+        "source_count": 0,
+        "confidence": null,
+        "uncertainty": [
+          "Insufficient evidence; no fit score is inferred."
+        ]
+      },
+      {
+        "dimension": "daily_commitment",
+        "assessment": "uncertain",
+        "rationale": "No evidence-bounded Insight supports a reliable fit judgment for daily_commitment.",
+        "insight_ids": [],
+        "evidence_ids": [],
+        "evidence_count": 0,
+        "source_count": 0,
+        "confidence": null,
+        "uncertainty": [
+          "Insufficient evidence; no fit score is inferred."
+        ]
+      },
+      {
+        "dimension": "available_time",
+        "assessment": "uncertain",
+        "rationale": "The player reports about 60 minutes/day, but collected evidence cannot establish required daily commitment.",
+        "insight_ids": [],
+        "evidence_ids": [],
+        "evidence_count": 0,
+        "source_count": 0,
+        "confidence": null,
+        "uncertainty": [
+          "Available-time fit is not inferred from missing commitment evidence."
+        ]
+      }
+    ]
+  },
+  "source_coverage": {
+    "game_wikidata_q126199544": {
+      "game_id": "game_wikidata_q126199544",
+      "run_id": "run_voice_20261003T034615Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 12,
+          "items_relevant": 6,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2022-10-28T19:38:38Z",
+          "date_end": "2026-09-30T17:13:49Z",
+          "languages": {
+            "zh-CN": 12
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "date_start": "2026-08-27T01:14:59Z",
+          "date_end": "2026-10-02T16:49:41Z",
+          "languages": {
+            "en": 10,
+            "zh-CN": 10
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 33,
+      "relevant_corpus_size": 26,
+      "languages": {
+        "en": 10,
+        "unknown": 1,
+        "zh-CN": 22
+      },
+      "date_start": "2022-10-28T19:38:38Z",
+      "date_end": "2026-10-02T16:49:41Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:46.579593Z"
+    }
+  },
+  "limitations": [
+    "Public community evidence is self-selected and not population-representative.",
+    "Missing evidence is reported as insufficient, never converted into a neutral fit.",
+    "无限暖暖: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)"
+  ],
+  "evidence_references": [
+    {
+      "evidence_id": "ev_0f131e4cbbeb7e4e4148",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234359752",
+      "excerpt": "这游戏就是坨大便。玩不明白，而且，剧情太尴尬了。本质处女幻想。"
+    },
+    {
+      "evidence_id": "ev_0fb6696dee2499b24684",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236532935",
+      "excerpt": "It's not bad just stay away from using irl money for the gachas"
+    },
+    {
+      "evidence_id": "ev_229f5f8a617d92f761d9",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236642980",
+      "excerpt": "微氪党也能玩，衣服很精致，放大能看到很多材质和细节，大喵好可爱。至于剧情个人挺喜欢的，沉浸下来慢慢玩很有意思。"
+    },
+    {
+      "evidence_id": "ev_2a50adf719624154de4b",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234744057",
+      "excerpt": "想玩的可以看看我的测评。 这是我第一次在steam上写测评，因为我电脑玩了500+小时，手机端也是500+，但最近想要卸载电脑端，所以来留下一个测评。我会尽量客观的阐明这个游戏的优缺点。 先说优点吧，毕竟玩了这么久。 第一，无限暖暖的服装确实是比较好看的，而且一直在更新中，衣柜比较大。虽然还有很多功能（类似自由调整）没有搬上来，但我一直是抱有希望的。 第二，拍照系统。喜欢拍照的人应该会很喜欢，比如时停抓拍啦，比如内置打光之类的，这个系统也在一直在更新，我依然抱有希望。 第三，音乐。我真挺喜欢无限暖暖的音乐，每个地图有自己的背景音，每个季节也会出很多新音乐"
+    },
+    {
+      "evidence_id": "ev_3609968043142ebbb3af",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:235284569",
+      "excerpt": "但是建议还是在官服下载，因为这是渠道号没有官方账号啊啊啊"
+    },
+    {
+      "evidence_id": "ev_9af57ba3186904b25ca7",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236711367",
+      "excerpt": "Pretty chill and cute game, regularly updated with stories and minigames. The storylines cover all kinds of themes, they're bringing new ones every month, which are connected to an overarching narrative for the current region. It is a gacha game, but it's not necessary to pay, on"
+    },
+    {
+      "evidence_id": "ev_a6dfd7e078ee3a3f2583",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234222268",
+      "excerpt": "挺好 画质很好"
+    },
+    {
+      "evidence_id": "ev_b3c11c7fa55e4a4df600",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236597269",
+      "excerpt": "I downloaded this it won't play just freezes can't even get past the download"
+    },
+    {
+      "evidence_id": "ev_b9490334b6abcae1e105",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:233787088",
+      "excerpt": "二游文案有一个算一个都可以枪毙了，什么狗屎谜语人矫揉造作不知所云，我是来换衣服的，不是来看傻逼文案的啊"
+    },
+    {
+      "evidence_id": "ev_ffd694de43a93a52e9cb",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "fact",
+      "source": "steam",
+      "source_url": "https://store.steampowered.com/app/3164330/",
+      "source_reference": null,
+      "excerpt": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437\\\" data-big-src=https://shared.akamai.steamsta"
+    }
+  ],
+  "generated_at": "2026-10-03T13:58:33.143693Z"
+}

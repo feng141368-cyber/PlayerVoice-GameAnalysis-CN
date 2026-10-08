@@ -1,0 +1,72 @@
+version: 1
+
+intent_terms:
+  en:
+    general: ""
+    review: review
+    performance: performance fps stutter
+    optimisation: optimization settings
+    graphics: graphics visuals
+    audio: audio sound
+    controls: controls controller
+    bugs: bugs crashes
+    story: story
+    characters: characters
+    combat: combat
+    exploration: exploration open world
+    progression: progression
+    grind: grind
+    daily: daily quests
+    monetisation: monetization pricing
+    gacha: gacha pulls pity
+    pvp: pvp
+    endgame: endgame
+    churn: quit leaving
+    uninstall: uninstall
+    feature_request: feature request
+    update: update
+    patch: patch notes
+    controversy: controversy
+  zh:
+    general: ""
+    review: 评测
+    performance: 性能 帧率 卡顿
+    optimisation: 优化 设置
+    graphics: 画质 视觉
+    audio: 音效 配音
+    controls: 操作 手柄
+    bugs: 漏洞 闪退
+    story: 剧情
+    characters: 角色
+    combat: 战斗
+    exploration: 探索 开放世界
+    progression: 养成 进度
+    grind: 肝度
+    daily: 日常 任务
+    monetisation: 氪金 定价
+    gacha: 抽卡 保底
+    pvp: PVP
+    endgame: 终局 后期
+    churn: 退坑
+    uninstall: 卸载
+    feature_request: 功能 建议
+    update: 更新
+    patch: 补丁 公告
+    controversy: 争议
+
+sources:
+  official:
+    template: '"{alias}" {term} 官方'
+    template_en: '"{alias}" {term} official'
+    expected_default: fact
+    expected_patch: patch_note
+  reddit:
+    template: '"{alias}" {term}'
+    expected_default: post
+  bilibili:
+    template: '{alias} {term}'
+    expected_default: video
+  steam:
+    identity_template: 'steam_app:{steam_app_id} intent:{intent}'
+    fallback_template: '"{alias}" {term}'
+    expected_default: review

@@ -1,0 +1,286 @@
+{
+  "game": "Tower of Fantasy",
+  "records": 327,
+  "sources": 2,
+  "anchor_date": "2026-09-20T16:27:09+00:00",
+  "window_days": 30,
+  "topics": [
+    {
+      "topic": "Account/Service",
+      "records": 44,
+      "share": 0.1345565749235474,
+      "negative_share": 0.9090909090909091,
+      "sources": 1,
+      "recent_records": 3,
+      "prior_records": 1,
+      "momentum": 0.9604156358238495,
+      "volume_score": 1,
+      "negativity_score": 3,
+      "momentum_score": 0,
+      "breadth_score": 1,
+      "priority_score": 5,
+      "priority": "P2"
+    },
+    {
+      "topic": "Monetization",
+      "records": 41,
+      "share": 0.12538226299694188,
+      "negative_share": 0.4634146341463415,
+      "sources": 2,
+      "recent_records": 1,
+      "prior_records": 3,
+      "momentum": 0.12817851582771145,
+      "volume_score": 1,
+      "negativity_score": 2,
+      "momentum_score": 0,
+      "breadth_score": 2,
+      "priority_score": 5,
+      "priority": "P2"
+    },
+    {
+      "topic": "Story/Character",
+      "records": 27,
+      "share": 0.08256880733944955,
+      "negative_share": 0.5555555555555556,
+      "sources": 2,
+      "recent_records": 2,
+      "prior_records": 1,
+      "momentum": 0.6635329045027213,
+      "volume_score": 1,
+      "negativity_score": 2,
+      "momentum_score": 0,
+      "breadth_score": 2,
+      "priority_score": 5,
+      "priority": "P2"
+    },
+    {
+      "topic": "Performance",
+      "records": 3,
+      "share": 0.009174311926605505,
+      "negative_share": 0.6666666666666666,
+      "sources": 2,
+      "recent_records": 1,
+      "prior_records": 0,
+      "momentum": 5.25531914893617,
+      "volume_score": 0,
+      "negativity_score": 3,
+      "momentum_score": 0,
+      "breadth_score": 2,
+      "priority_score": 5,
+      "priority": "P2"
+    },
+    {
+      "topic": "Combat/Balance",
+      "records": 22,
+      "share": 0.0672782874617737,
+      "negative_share": 0.5909090909090909,
+      "sources": 2,
+      "recent_records": 3,
+      "prior_records": 2,
+      "momentum": 0.4975647269930787,
+      "volume_score": 0,
+      "negativity_score": 2,
+      "momentum_score": 0,
+      "breadth_score": 2,
+      "priority_score": 4,
+      "priority": "P2"
+    },
+    {
+      "topic": "UI/UX",
+      "records": 4,
+      "share": 0.012232415902140673,
+      "negative_share": 1.0,
+      "sources": 1,
+      "recent_records": 0,
+      "prior_records": 1,
+      "momentum": 0.06976744186046512,
+      "volume_score": 0,
+      "negativity_score": 3,
+      "momentum_score": 0,
+      "breadth_score": 1,
+      "priority_score": 4,
+      "priority": "P2"
+    },
+    {
+      "topic": "Social/Community",
+      "records": 28,
+      "share": 0.0856269113149847,
+      "negative_share": 0.21428571428571427,
+      "sources": 1,
+      "recent_records": 1,
+      "prior_records": 1,
+      "momentum": 0.36665017318159326,
+      "volume_score": 1,
+      "negativity_score": 1,
+      "momentum_score": 0,
+      "breadth_score": 1,
+      "priority_score": 3,
+      "priority": "P3"
+    },
+    {
+      "topic": "Content/Progression",
+      "records": 9,
+      "share": 0.027522935779816515,
+      "negative_share": 0.4444444444444444,
+      "sources": 1,
+      "recent_records": 1,
+      "prior_records": 0,
+      "momentum": 5.25531914893617,
+      "volume_score": 0,
+      "negativity_score": 2,
+      "momentum_score": 0,
+      "breadth_score": 1,
+      "priority_score": 3,
+      "priority": "P3"
+    },
+    {
+      "topic": "Other",
+      "records": 149,
+      "share": 0.45565749235474007,
+      "negative_share": 0.3825503355704698,
+      "sources": 2,
+      "recent_records": 35,
+      "prior_records": 6,
+      "momentum": 1.851063829787234,
+      "volume_score": 3,
+      "negativity_score": 1,
+      "momentum_score": 3,
+      "breadth_score": 2,
+      "priority_score": 0,
+      "priority": "N/A"
+    }
+  ],
+  "excerpts": {
+    "Account/Service": [
+      {
+        "source": "steam",
+        "created_at": "2026-01-17T20:07:09+00:00",
+        "text": "Lost my Account, I was serving mandatory military service for 9 months, and they couldn't even send an Email, how tf was I suppose to know? I had other things in life besides this game, and yet I had alot of progress. So I won't be coming back because if it happend once, doesn't ",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 82
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-03-19T14:11:47+00:00",
+        "text": "Took a break from ToF, decided to come back, ready to explore & get new toons . . . apparantly, last day to transfer legacy accounts to the new systems was April 15 . . . I had spent hundreds of dollars & unlocked almost all of 'then' characters, weapons, vehicles, apartment, rel",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 72
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-02-04T22:00:47+00:00",
+        "text": "I played Tower for a long time, I was very active, but in early 2025 I joined the army and after I was discharged and returned home in 2026, when I went to play the game, I discovered that my account had been deleted and all my efforts had been erased. They didn't send me an emai",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 65
+      }
+    ],
+    "Monetization": [
+      {
+        "source": "steam",
+        "created_at": "2026-06-25T15:27:22+00:00",
+        "text": "I loved this game and forced myself to endure the gacha nonsense and seeing how far I could get as a F2P, I wasn't even mad when the whales were 50x more powerful than I was. I turned it into a solo game and had a blast because I loved the aesthetic, new maps and worlds were awes",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 31
+      },
+      {
+        "source": "steam",
+        "created_at": "2025-12-21T05:38:54+00:00",
+        "text": "So we are about to enter 4th week of the new MMO server release for this game and let's just say, if not for gacha removal, I wouldn't play it at all, but turns out, just gacha removal doesn't magically fix the game, as I spent time on this, I realized that issues that were prese",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 20
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-07-28T22:14:49+00:00",
+        "text": "TLDR: Game is ok, but the steam version is not. I was having disk performance issues with the official version, so I decided to switch to the steam version, This version had to download 100GB so that I could get to the launcher. Then it had to download 31GB more to launch the gam",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 11
+      }
+    ],
+    "Story/Character": [
+      {
+        "source": "steam",
+        "created_at": "2025-12-02T20:14:22+00:00",
+        "text": "I'm writing this review solely from my experience as a new Tower of Fantasy player on the Warp Server (the one where they removed the gacha and everyone can acquire everything for free). Turns out, removing the gacha doesn't fix a broken and flawed game. Everything about the move",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 25
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-04-05T01:44:16+00:00",
+        "text": "Played at release, ~200 hours over a few months. But stopped playing bc of lack of polish. Imagine my surprise when they announced a soft reboot/global warp server, & none of these issues were fixed. This game died from a thousand papercuts when it first came out, & it’ll happen ",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 16
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-05-04T00:14:39+00:00",
+        "text": "You know I've played this game on there launcher mainly but lordy, back when I played a lot there was idk a game here? like a story and a point to this game but ever since the game was sold out the game has turned into a mess, There's no real story or point to the game other then",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 15
+      }
+    ],
+    "Performance": [
+      {
+        "source": "steam",
+        "created_at": "2025-11-27T21:54:45+00:00",
+        "text": "Could’ve been fun, but the busted servers, lag, and connection failures kill any momentum. Technical issues overshadow everything else.",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 1
+      },
+      {
+        "source": "steam",
+        "created_at": "2025-12-02T02:29:34+00:00",
+        "text": "The list of problems with ToF is a mile long, most of which are just annoying, but death by a thousand paper cuts. The worst so far is a problem with one of the maps, at least on older servers, that can cause constant crashing and make the game unplayable for that character (cras",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 0
+      }
+    ],
+    "Combat/Balance": [
+      {
+        "source": "steam",
+        "created_at": "2026-02-19T19:28:26+00:00",
+        "text": "This game genuinely bothers me. You do world bosses mainly for cosmetics, only to discover that the cosmetic shard you need (10 of them, by the way) is sent to a group auction where you must bid against other players. That means I can do the content correctly, repeatedly, and sti",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 39
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-07-09T07:50:00+00:00",
+        "text": "this good should be genshin upgrade, but it become worse...confusing UI, no full controller support, no simulcra quick switch, only weapon....luckily wuwa arrived on steam...",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 7
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-05-04T03:00:21+00:00",
+        "text": "Honestly. I tried to keep an open mind. I tried. I told myself it'll be mmo-esque but without the gambling. How bad could it be? Oh..sweet jesus. I tried the \"warp\" server. Where to start? Resources to raise weapons are ridiculously scarce for the amount it costs..even moreso if ",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 5
+      }
+    ],
+    "UI/UX": [
+      {
+        "source": "steam",
+        "created_at": "2026-04-18T01:31:52+00:00",
+        "text": "It's a decent game from what I have played so far. But it's plagued by so many bugs that shouldn't be there. Like the fact i'll just stop behind able to rotate the camera. Or get locked being a tip screen without being able to close it.",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 5
+      },
+      {
+        "source": "steam",
+        "created_at": "2026-08-12T22:02:18+00:00",
+        "text": "Hotta Studio desperately needs to hire a UI developer who has used a PC this century, or ever. This game is a straight-up lift-and-drop mobile phone game port, and it shows in every way. This is without a doubt the single worst PC video game UI I've experienced in the 21st centur",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 4
+      },
+      {
+        "source": "steam",
+        "created_at": "2025-11-29T21:32:33+00:00",
+        "text": "Camera keeps zooming in even with it disabled. Even when just running around it tries to zoom in at random moments. Tried all the options no luck, not going to fight the camera 247",
+        "url": "https://steamcommunity.com/app/2064650/reviews/",
+        "engagement": 2
+      }
+    ]
+  }
+}

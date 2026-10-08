@@ -1,0 +1,718 @@
+{
+  "request_id": "creator_infinity_nikki_real",
+  "mode": "creator",
+  "game_ids": [
+    "game_wikidata_q126199544"
+  ],
+  "payload": {
+    "game_id": "game_wikidata_q126199544",
+    "game_title": "无限暖暖",
+    "game_current_context": [
+      {
+        "claim_id": "claim_c3948fcc8bcc4f22f5a5",
+        "label": "title",
+        "statement": "title: {\"language\": \"en\", \"title\": \"Infinity Nikki\"}",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_931443cd9a0de8cdad54"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_a8f378ca7b0157f77500",
+        "label": "developer",
+        "statement": "developer: Infold Games",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_348944a31f30e12eb0c5"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_beb2eea1ae24a33bc048",
+        "label": "publisher",
+        "statement": "publisher: Infold Games",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_ff95b1512f403ba6404c"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      },
+      {
+        "claim_id": "claim_416d19dd6f5657b3107c",
+        "label": "release_date",
+        "statement": "release_date: {\"date\": \"Apr 28, 2025\", \"coming_soon\": false}",
+        "layer": "fact",
+        "taxonomy_node": null,
+        "fact_ids": [
+          "fact_b023b302ed643c811ffa"
+        ],
+        "insight_ids": [],
+        "evidence_ids": [
+          "ev_ffd694de43a93a52e9cb"
+        ],
+        "confidence": 0.95,
+        "uncertainty": []
+      }
+    ],
+    "praise": [
+      {
+        "claim_id": "claim_f12d77b1e9c4177a08ef",
+        "label": "praise",
+        "statement": "In this collected sample, 3 evidence item(s) express positive views about story.",
+        "layer": "player_evidence",
+        "taxonomy_node": "story",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_df446b2e7fb4f0928b69"
+        ],
+        "evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7",
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_9ae844bbf2a3fab5021f",
+        "label": "praise",
+        "statement": "In this collected sample, 2 evidence item(s) express positive views about gacha.",
+        "layer": "player_evidence",
+        "taxonomy_node": "gacha",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_a9a3fb79c2cb859e2b16"
+        ],
+        "evidence_ids": [
+          "ev_0fb6696dee2499b24684",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "confidence": 0.66,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_fd943cb1db977678cb2f",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about graphics.",
+        "layer": "player_evidence",
+        "taxonomy_node": "graphics",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_dee654aa3658a4e76fa1"
+        ],
+        "evidence_ids": [
+          "ev_a6dfd7e078ee3a3f2583"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_79f14d4ac5dfdd85601e",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about account_service.",
+        "layer": "player_evidence",
+        "taxonomy_node": "account_service",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_03c3aec77c4d30caa3da"
+        ],
+        "evidence_ids": [
+          "ev_3609968043142ebbb3af"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_f9441992fd7322f838ad",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about audio_music.",
+        "layer": "player_evidence",
+        "taxonomy_node": "audio_music",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_39d82029e1842551d023"
+        ],
+        "evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_11678138f04eaf335355",
+        "label": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about patch_reaction.",
+        "layer": "player_evidence",
+        "taxonomy_node": "patch_reaction",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_055577de04a2107718d2"
+        ],
+        "evidence_ids": [
+          "ev_2a50adf719624154de4b"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      }
+    ],
+    "complaints": [
+      {
+        "claim_id": "claim_f62d820748ef74229982",
+        "label": "complaint",
+        "statement": "In this collected sample, 2 evidence item(s) report negative experiences related to story.",
+        "layer": "player_evidence",
+        "taxonomy_node": "story",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_dd22b71b98738590d7ed"
+        ],
+        "evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105",
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7"
+        ],
+        "confidence": 0.9,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      },
+      {
+        "claim_id": "claim_e59c08732c02835db4de",
+        "label": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to bugs_stability.",
+        "layer": "player_evidence",
+        "taxonomy_node": "bugs_stability",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_05c4b294a7e7bb2e4c24"
+        ],
+        "evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "confidence": 0.58,
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ]
+      }
+    ],
+    "controversy_status": "1 well-supported controversy topic(s) detected.",
+    "controversies": [
+      {
+        "topic": "story",
+        "question": "Why do players in this sample hold different views about story?",
+        "side_a": {
+          "label": "Positive position",
+          "summary": "Some collected players express positive views about story.",
+          "evidence_ids": [
+            "ev_229f5f8a617d92f761d9",
+            "ev_2a50adf719624154de4b",
+            "ev_9af57ba3186904b25ca7"
+          ],
+          "representative_statements": [
+            {
+              "evidence_id": "ev_229f5f8a617d92f761d9",
+              "statement": "微氪党也能玩，衣服很精致，放大能看到很多材质和细节，大喵好可爱。至于剧情个人挺喜欢的，沉浸下来慢慢玩很有意思。"
+            },
+            {
+              "evidence_id": "ev_2a50adf719624154de4b",
+              "statement": "想玩的可以看看我的测评。 这是我第一次在steam上写测评，因为我电脑玩了500+小时，手机端也是500+，但最近想要卸载电脑端，所以来留下一个测评。我会尽量客观的阐明这个游戏的优缺点。 先说优点吧，毕竟玩了这么久。 第一，无限暖暖的服装确实是比较好看的，而且一直在更新中，衣柜比较大。虽然还有很多功能（类似自由调整）没有搬上来，但我一直是抱有希望的。 第二，拍照系统。喜欢拍照的人应该会很喜欢，比如时停抓拍啦，比如内置打光之类的，这个系统也在一直在更新，我依然抱有希望。 第三，"
+            },
+            {
+              "evidence_id": "ev_9af57ba3186904b25ca7",
+              "statement": "Pretty chill and cute game, regularly updated with stories and minigames. The storylines cover all kinds of themes, they're bringing new ones every month, which are connected to an overarching narrative for the current region. It is a gacha"
+            }
+          ]
+        },
+        "side_b": {
+          "label": "Critical position",
+          "summary": "Other collected players express negative views about story.",
+          "evidence_ids": [
+            "ev_0f131e4cbbeb7e4e4148",
+            "ev_b9490334b6abcae1e105"
+          ],
+          "representative_statements": [
+            {
+              "evidence_id": "ev_0f131e4cbbeb7e4e4148",
+              "statement": "这游戏就是坨大便。玩不明白，而且，剧情太尴尬了。本质处女幻想。"
+            },
+            {
+              "evidence_id": "ev_b9490334b6abcae1e105",
+              "statement": "二游文案有一个算一个都可以枪毙了，什么狗屎谜语人矫揉造作不知所云，我是来换衣服的，不是来看傻逼文案的啊"
+            }
+          ]
+        },
+        "insight_ids": [
+          "insight_bace7a35cdd610233386"
+        ],
+        "confidence": 0.9,
+        "evidence_coverage": {
+          "evidence_count": 5,
+          "sources": {
+            "steam": 5
+          },
+          "languages": {
+            "en": 1,
+            "zh-CN": 4
+          },
+          "date_start": "2026-08-27T01:14:59+00:00",
+          "date_end": "2026-10-02T16:49:41+00:00",
+          "sentiment_positions": {
+            "negative": 2,
+            "positive": 3
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 5
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "research_gap": "The sample establishes disagreement, but not which player segments, play stages, or design elements explain the difference."
+      }
+    ],
+    "questions_worth_investigating": [
+      {
+        "question": "Why do players in this sample hold different views about story?",
+        "classification": "research_question",
+        "rationale": "The sample establishes disagreement, but not which player segments, play stages, or design elements explain the difference.",
+        "insight_ids": [
+          "insight_bace7a35cdd610233386"
+        ],
+        "evidence_ids": [
+          "ev_229f5f8a617d92f761d9",
+          "ev_2a50adf719624154de4b",
+          "ev_9af57ba3186904b25ca7",
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "not_an_established_finding": true
+      },
+      {
+        "question": "Which player contexts and play stages are associated with complaints about story?",
+        "classification": "research_question",
+        "rationale": "The evidence establishes complaints in the collected sample, but does not establish their prevalence or affected player segments.",
+        "insight_ids": [
+          "insight_dd22b71b98738590d7ed"
+        ],
+        "evidence_ids": [
+          "ev_0f131e4cbbeb7e4e4148",
+          "ev_b9490334b6abcae1e105"
+        ],
+        "not_an_established_finding": true
+      },
+      {
+        "question": "Which player contexts and play stages are associated with complaints about bugs_stability?",
+        "classification": "research_question",
+        "rationale": "The evidence establishes complaints in the collected sample, but does not establish their prevalence or affected player segments.",
+        "insight_ids": [
+          "insight_05c4b294a7e7bb2e4c24"
+        ],
+        "evidence_ids": [
+          "ev_b3c11c7fa55e4a4df600"
+        ],
+        "not_an_established_finding": true
+      }
+    ],
+    "research_gaps": [
+      {
+        "claim_id": "claim_9a8c69333db1e3aa75ed",
+        "label": "research_gap",
+        "statement": "11 relevant evidence item(s) remain unclassified and need taxonomy review.",
+        "layer": "player_evidence",
+        "taxonomy_node": "other_unclassified",
+        "fact_ids": [],
+        "insight_ids": [
+          "insight_d17eb7f385a6ea314091"
+        ],
+        "evidence_ids": [
+          "ev_02da4c0963ab311214e1",
+          "ev_3595b6d5408b1689ed2b",
+          "ev_3bc0491398dd34f16641",
+          "ev_9f2811b35da6b6ce7b83",
+          "ev_a0e07254b48931a9a78c",
+          "ev_adfadfca748f9da41a6c",
+          "ev_b639d04f1b9f35bea61b",
+          "ev_be8baa5390535c10f991",
+          "ev_d98217faa47bfe6b0ef3",
+          "ev_e46e4de12b5500517859",
+          "ev_e56c16619f4c9c19fbfa"
+        ],
+        "confidence": 0.95,
+        "uncertainty": [
+          "No reliable topic assignment was available."
+        ]
+      }
+    ],
+    "platform_language_differences": [
+      {
+        "claim_id": "claim_1126fc780db795f6c165",
+        "label": "platform_language_difference",
+        "statement": "Insufficient comparable multi-source evidence for a platform or language difference claim.",
+        "layer": "insufficient",
+        "taxonomy_node": null,
+        "fact_ids": [],
+        "insight_ids": [],
+        "evidence_ids": [],
+        "confidence": null,
+        "uncertainty": [
+          "The current sample does not support an affirmative claim."
+        ]
+      }
+    ],
+    "representative_evidence_ids": [
+      "ev_229f5f8a617d92f761d9",
+      "ev_2a50adf719624154de4b",
+      "ev_9af57ba3186904b25ca7",
+      "ev_0f131e4cbbeb7e4e4148",
+      "ev_b9490334b6abcae1e105",
+      "ev_0fb6696dee2499b24684",
+      "ev_a6dfd7e078ee3a3f2583",
+      "ev_3609968043142ebbb3af",
+      "ev_b3c11c7fa55e4a4df600",
+      "ev_02da4c0963ab311214e1",
+      "ev_3595b6d5408b1689ed2b",
+      "ev_3bc0491398dd34f16641",
+      "ev_9f2811b35da6b6ce7b83",
+      "ev_a0e07254b48931a9a78c",
+      "ev_adfadfca748f9da41a6c",
+      "ev_b639d04f1b9f35bea61b",
+      "ev_be8baa5390535c10f991",
+      "ev_d98217faa47bfe6b0ef3",
+      "ev_e46e4de12b5500517859",
+      "ev_e56c16619f4c9c19fbfa"
+    ]
+  },
+  "source_coverage": {
+    "game_wikidata_q126199544": {
+      "game_id": "game_wikidata_q126199544",
+      "run_id": "run_voice_20261003T034615Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 12,
+          "items_relevant": 6,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2022-10-28T19:38:38Z",
+          "date_end": "2026-09-30T17:13:49Z",
+          "languages": {
+            "zh-CN": 12
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "date_start": "2026-08-27T01:14:59Z",
+          "date_end": "2026-10-02T16:49:41Z",
+          "languages": {
+            "en": 10,
+            "zh-CN": 10
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 33,
+      "relevant_corpus_size": 26,
+      "languages": {
+        "en": 10,
+        "unknown": 1,
+        "zh-CN": 22
+      },
+      "date_start": "2022-10-28T19:38:38Z",
+      "date_end": "2026-10-02T16:49:41Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:46.579593Z"
+    }
+  },
+  "limitations": [
+    "Public community evidence is self-selected and not population-representative.",
+    "Missing evidence is reported as insufficient, never converted into a neutral fit.",
+    "无限暖暖: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)"
+  ],
+  "evidence_references": [
+    {
+      "evidence_id": "ev_02da4c0963ab311214e1",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236665209",
+      "excerpt": "still enjoying the game"
+    },
+    {
+      "evidence_id": "ev_0f131e4cbbeb7e4e4148",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234359752",
+      "excerpt": "这游戏就是坨大便。玩不明白，而且，剧情太尴尬了。本质处女幻想。"
+    },
+    {
+      "evidence_id": "ev_0fb6696dee2499b24684",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236532935",
+      "excerpt": "It's not bad just stay away from using irl money for the gachas"
+    },
+    {
+      "evidence_id": "ev_229f5f8a617d92f761d9",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236642980",
+      "excerpt": "微氪党也能玩，衣服很精致，放大能看到很多材质和细节，大喵好可爱。至于剧情个人挺喜欢的，沉浸下来慢慢玩很有意思。"
+    },
+    {
+      "evidence_id": "ev_2a50adf719624154de4b",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234744057",
+      "excerpt": "想玩的可以看看我的测评。 这是我第一次在steam上写测评，因为我电脑玩了500+小时，手机端也是500+，但最近想要卸载电脑端，所以来留下一个测评。我会尽量客观的阐明这个游戏的优缺点。 先说优点吧，毕竟玩了这么久。 第一，无限暖暖的服装确实是比较好看的，而且一直在更新中，衣柜比较大。虽然还有很多功能（类似自由调整）没有搬上来，但我一直是抱有希望的。 第二，拍照系统。喜欢拍照的人应该会很喜欢，比如时停抓拍啦，比如内置打光之类的，这个系统也在一直在更新，我依然抱有希望。 第三，音乐。我真挺喜欢无限暖暖的音乐，每个地图有自己的背景音，每个季节也会出很多新音乐"
+    },
+    {
+      "evidence_id": "ev_3595b6d5408b1689ed2b",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234057074",
+      "excerpt": "WO XI HUAN CA DNVISE"
+    },
+    {
+      "evidence_id": "ev_3609968043142ebbb3af",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:235284569",
+      "excerpt": "但是建议还是在官服下载，因为这是渠道号没有官方账号啊啊啊"
+    },
+    {
+      "evidence_id": "ev_3bc0491398dd34f16641",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236588320",
+      "excerpt": "i am infinity nikki"
+    },
+    {
+      "evidence_id": "ev_9af57ba3186904b25ca7",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236711367",
+      "excerpt": "Pretty chill and cute game, regularly updated with stories and minigames. The storylines cover all kinds of themes, they're bringing new ones every month, which are connected to an overarching narrative for the current region. It is a gacha game, but it's not necessary to pay, on"
+    },
+    {
+      "evidence_id": "ev_9f2811b35da6b6ce7b83",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236521410",
+      "excerpt": ".."
+    },
+    {
+      "evidence_id": "ev_a0e07254b48931a9a78c",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:235819023",
+      "excerpt": "豪玩"
+    },
+    {
+      "evidence_id": "ev_a6dfd7e078ee3a3f2583",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234222268",
+      "excerpt": "挺好 画质很好"
+    },
+    {
+      "evidence_id": "ev_adfadfca748f9da41a6c",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1n8ac6WEGX/#reply319151865296",
+      "source_reference": "bilibili:BV1n8ac6WEGX:reply:319151865296",
+      "excerpt": "为莴苣诞下一条调查反馈，最新攻略也不跟地悄悄离开了[嘘声]"
+    },
+    {
+      "evidence_id": "ev_b3c11c7fa55e4a4df600",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236597269",
+      "excerpt": "I downloaded this it won't play just freezes can't even get past the download"
+    },
+    {
+      "evidence_id": "ev_b639d04f1b9f35bea61b",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:234132547",
+      "excerpt": "游戏场景很真实，服装很精致，感觉是为我量身定制的大世界与换装结合的游戏。"
+    },
+    {
+      "evidence_id": "ev_b9490334b6abcae1e105",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:233787088",
+      "excerpt": "二游文案有一个算一个都可以枪毙了，什么狗屎谜语人矫揉造作不知所云，我是来换衣服的，不是来看傻逼文案的啊"
+    },
+    {
+      "evidence_id": "ev_be8baa5390535c10f991",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236431837",
+      "excerpt": "7 outfit slots for a dress up game. 7. 123456 7. seven."
+    },
+    {
+      "evidence_id": "ev_d98217faa47bfe6b0ef3",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236520791",
+      "excerpt": "The outfits are actually sooo cute. You dont need to spend any actual money if you dont want to, just play the game and youll get adorable outfits along the way. 10/10, would play again. (im still playing)"
+    },
+    {
+      "evidence_id": "ev_e46e4de12b5500517859",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236582165",
+      "excerpt": "love it but its really big"
+    },
+    {
+      "evidence_id": "ev_e56c16619f4c9c19fbfa",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/3164330/reviews/",
+      "source_reference": "steam:app:3164330:review:236436711",
+      "excerpt": "Shroomtastic!"
+    },
+    {
+      "evidence_id": "ev_ffd694de43a93a52e9cb",
+      "game_id": "game_wikidata_q126199544",
+      "layer": "fact",
+      "source": "steam",
+      "source_url": "https://store.steampowered.com/app/3164330/",
+      "source_reference": null,
+      "excerpt": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3164330/extras/2ca912870aecd9a39fb8b339ccc0d8fa.avif?t=1790219437\\\" data-big-src=https://shared.akamai.steamsta"
+    }
+  ],
+  "generated_at": "2026-10-03T13:58:38.046844Z"
+}

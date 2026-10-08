@@ -1,0 +1,1728 @@
+{
+  "request_id": "compare_competitive_shooters_live",
+  "mode": "compare",
+  "game_ids": [
+    "game_steam_578080",
+    "game_steam_730",
+    "game_wikidata_q61478103"
+  ],
+  "payload": {
+    "game_ids": [
+      "game_steam_578080",
+      "game_steam_730",
+      "game_wikidata_q61478103"
+    ],
+    "taxonomy_version": "1.1.0",
+    "dimensions": [
+      {
+        "dimension": "performance",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "performance",
+            "evidence_count": 3,
+            "corpus_share_percent": 3.0,
+            "source_distribution": {
+              "steam": 3
+            },
+            "language_distribution": {
+              "zh-CN": 3
+            },
+            "sentiment_positions": {
+              "negative": 3
+            },
+            "date_start": "2026-09-30T13:15:02Z",
+            "date_end": "2026-10-03T13:23:07Z",
+            "confidence": "medium",
+            "insight_ids": [
+              "insight_1225ba26db4908713ea2",
+              "insight_d87251c24b51ccc7ec7c"
+            ],
+            "evidence_ids": [
+              "ev_698a2b9b23d40397d91f",
+              "ev_e157a0b12ba70525914a",
+              "ev_fbf99e182852c4335381"
+            ],
+            "summary": "3 relevant items from 1 source(s); source breadth remains limited."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "performance",
+            "evidence_count": 1,
+            "corpus_share_percent": 0.6,
+            "source_distribution": {
+              "steam": 1
+            },
+            "language_distribution": {
+              "zh-CN": 1
+            },
+            "sentiment_positions": {
+              "negative": 1
+            },
+            "date_start": "2026-10-03T13:00:47Z",
+            "date_end": "2026-10-03T13:00:47Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_d0bc83efaa330954c1be"
+            ],
+            "evidence_ids": [
+              "ev_18a4a21cf484feae32c0"
+            ],
+            "summary": "Only 1 relevant evidence item(s); treat the observed pattern as limited."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "performance",
+            "evidence_count": 2,
+            "corpus_share_percent": 1.9,
+            "source_distribution": {
+              "steam": 2
+            },
+            "language_distribution": {
+              "zh-CN": 2
+            },
+            "sentiment_positions": {
+              "negative": 2
+            },
+            "date_start": "2026-09-30T13:59:44Z",
+            "date_end": "2026-10-03T07:34:37Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_f2c1fabc3902f6542f3c"
+            ],
+            "evidence_ids": [
+              "ev_ef742479a2ec7e0aca70",
+              "ev_f16b41dd1352edc7d90e"
+            ],
+            "summary": "Only 2 relevant evidence item(s); treat the observed pattern as limited."
+          }
+        ]
+      },
+      {
+        "dimension": "exploration",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "exploration",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "exploration",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "exploration",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "story",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "story",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "story",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "story",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "combat",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "combat",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "combat",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "combat",
+            "evidence_count": 2,
+            "corpus_share_percent": 1.9,
+            "source_distribution": {
+              "steam": 2
+            },
+            "language_distribution": {
+              "zh-CN": 2
+            },
+            "sentiment_positions": {
+              "positive": 2
+            },
+            "date_start": "2026-10-03T05:34:51Z",
+            "date_end": "2026-10-03T13:20:07Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_01b227d0b0ef379b9869"
+            ],
+            "evidence_ids": [
+              "ev_41a5db45f0d610b5e763",
+              "ev_eac89a4bf9fbe32d03ec"
+            ],
+            "summary": "Only 2 relevant evidence item(s); treat the observed pattern as limited."
+          }
+        ]
+      },
+      {
+        "dimension": "daily_commitment",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "daily_commitment",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "daily_commitment",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "daily_commitment",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "monetisation",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "monetisation",
+            "evidence_count": 1,
+            "corpus_share_percent": 1.0,
+            "source_distribution": {
+              "steam": 1
+            },
+            "language_distribution": {
+              "zh-CN": 1
+            },
+            "sentiment_positions": {
+              "negative": 1
+            },
+            "date_start": "2026-10-03T13:23:07Z",
+            "date_end": "2026-10-03T13:23:07Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_30f5fa94878436d3bac8"
+            ],
+            "evidence_ids": [
+              "ev_fbf99e182852c4335381"
+            ],
+            "summary": "Only 1 relevant evidence item(s); treat the observed pattern as limited."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "monetisation",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "monetisation",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "graphics",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "graphics",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "graphics",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "graphics",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "audio",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "audio",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "audio",
+            "evidence_count": 1,
+            "corpus_share_percent": 0.6,
+            "source_distribution": {
+              "steam": 1
+            },
+            "language_distribution": {
+              "zh-CN": 1
+            },
+            "sentiment_positions": {
+              "negative": 1
+            },
+            "date_start": "2026-10-03T13:00:47Z",
+            "date_end": "2026-10-03T13:00:47Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_2ea4d0212898f6a759a2"
+            ],
+            "evidence_ids": [
+              "ev_18a4a21cf484feae32c0"
+            ],
+            "summary": "Only 1 relevant evidence item(s); treat the observed pattern as limited."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "audio",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "controls",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "controls",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "controls",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "controls",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          }
+        ]
+      },
+      {
+        "dimension": "fair_play_integrity",
+        "status": "comparable_with_caution",
+        "reason": "sample sizes differ by more than 4×. Raw counts and coverage must accompany any interpretation.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "fair_play_integrity",
+            "evidence_count": 5,
+            "corpus_share_percent": 5.1,
+            "source_distribution": {
+              "steam": 5
+            },
+            "language_distribution": {
+              "zh-CN": 5
+            },
+            "sentiment_positions": {
+              "negative": 2,
+              "positive": 3
+            },
+            "date_start": "2026-09-30T13:43:24Z",
+            "date_end": "2026-10-03T11:48:15Z",
+            "confidence": "medium",
+            "insight_ids": [
+              "insight_649a0f81f29b46dc1289",
+              "insight_ace82b63a2f2db8a3466",
+              "insight_3b586f3815229e680530",
+              "insight_6b3aa794f4b7782563a0"
+            ],
+            "evidence_ids": [
+              "ev_187915dccf04a0e461b4",
+              "ev_8761b41806b3be959d47",
+              "ev_da9fce5dddca70f45c23",
+              "ev_de6faebc37a1ff550b15",
+              "ev_f90697c40383b97ea274"
+            ],
+            "summary": "5 relevant items from 1 source(s); source breadth remains limited."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "fair_play_integrity",
+            "evidence_count": 3,
+            "corpus_share_percent": 1.9,
+            "source_distribution": {
+              "steam": 3
+            },
+            "language_distribution": {
+              "zh-CN": 3
+            },
+            "sentiment_positions": {
+              "negative": 1,
+              "positive": 2
+            },
+            "date_start": "2026-10-03T05:03:31Z",
+            "date_end": "2026-10-03T10:45:01Z",
+            "confidence": "medium",
+            "insight_ids": [
+              "insight_6a9f1025fcd56ecb5ddb",
+              "insight_4847a94649c00824aa21",
+              "insight_050975f0c6cddb96cfec",
+              "insight_a18e75151079f59f1a3d"
+            ],
+            "evidence_ids": [
+              "ev_79afd010a152c51f862d",
+              "ev_7ea139bba71109a983bf",
+              "ev_b91557d31fa4c4fe234c"
+            ],
+            "summary": "3 relevant items from 1 source(s); source breadth remains limited."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "fair_play_integrity",
+            "evidence_count": 15,
+            "corpus_share_percent": 14.3,
+            "source_distribution": {
+              "steam": 15
+            },
+            "language_distribution": {
+              "zh-CN": 15
+            },
+            "sentiment_positions": {
+              "negative": 13,
+              "positive": 2
+            },
+            "date_start": "2026-09-30T12:44:02Z",
+            "date_end": "2026-10-03T12:45:17Z",
+            "confidence": "medium",
+            "insight_ids": [
+              "insight_44d85ce99aea57830760",
+              "insight_41301137eb6c18345776",
+              "insight_4fc293d2d6c0fde7c5b3",
+              "insight_446ace737fdfd27827a2"
+            ],
+            "evidence_ids": [
+              "ev_33011e9ba8603e9002c2",
+              "ev_465352b42c15d51fa68d",
+              "ev_68c784b368fa99ce4de2",
+              "ev_6b8758d7827b30c3aba6",
+              "ev_7a3ec750d20328253d1e",
+              "ev_8224dd49c18fa76a2360",
+              "ev_826fef189d63f892e664",
+              "ev_8ed7622ba61a7fe524b2",
+              "ev_90f7767166d4cc5138c8",
+              "ev_9f49fbeb6f36380c6bca",
+              "ev_c950c9ee868f5fb94e86",
+              "ev_dd9c2e914447afd2ae7e",
+              "ev_e15ebc3e6a69bde150a9",
+              "ev_e94e78e68e3d9d382a7b",
+              "ev_ef742479a2ec7e0aca70"
+            ],
+            "summary": "15 relevant items from 1 source(s); source breadth remains limited."
+          }
+        ]
+      },
+      {
+        "dimension": "bugs_stability",
+        "status": "insufficient_evidence",
+        "reason": "At least one game has fewer than three relevant items; no reliable cross-game difference is asserted.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "dimension": "bugs_stability",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_steam_730",
+            "dimension": "bugs_stability",
+            "evidence_count": 0,
+            "corpus_share_percent": 0.0,
+            "source_distribution": {},
+            "language_distribution": {},
+            "sentiment_positions": {},
+            "date_start": null,
+            "date_end": null,
+            "confidence": "insufficient",
+            "insight_ids": [],
+            "evidence_ids": [],
+            "summary": "No relevant evidence was classified for this dimension."
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "dimension": "bugs_stability",
+            "evidence_count": 2,
+            "corpus_share_percent": 1.9,
+            "source_distribution": {
+              "steam": 2
+            },
+            "language_distribution": {
+              "zh-CN": 2
+            },
+            "sentiment_positions": {
+              "negative": 2
+            },
+            "date_start": "2026-09-30T17:53:47Z",
+            "date_end": "2026-10-03T11:11:46Z",
+            "confidence": "low",
+            "insight_ids": [
+              "insight_68f9eb97806fd61776f3",
+              "insight_5aedaa891ee5cf98137e"
+            ],
+            "evidence_ids": [
+              "ev_94d08367d7facad1ea87",
+              "ev_c950c9ee868f5fb94e86"
+            ],
+            "summary": "Only 2 relevant evidence item(s); treat the observed pattern as limited."
+          }
+        ]
+      }
+    ],
+    "fact_dimensions": [
+      {
+        "fact_type": "platform_support",
+        "status": "comparable",
+        "reason": "A verified Fact Layer value is available for every game.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "fact_type": "platform_support",
+            "status": "available",
+            "values": [
+              true
+            ],
+            "fact_ids": [
+              "fact_c0cdfabef8ceaf6b078b"
+            ],
+            "evidence_ids": [
+              "ev_857d278965afcbdfd81f"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_steam_730",
+            "fact_type": "platform_support",
+            "status": "available",
+            "values": [
+              true,
+              true
+            ],
+            "fact_ids": [
+              "fact_a6ac8d3b931319a2391f",
+              "fact_858c759481d9c6ab5bc5"
+            ],
+            "evidence_ids": [
+              "ev_3541741d7ee38dead856"
+            ],
+            "platforms": [
+              "Linux",
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "fact_type": "platform_support",
+            "status": "available",
+            "values": [
+              true
+            ],
+            "fact_ids": [
+              "fact_7d819247f9390e0a8700"
+            ],
+            "evidence_ids": [
+              "ev_90fb617a265322c60fb5"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          }
+        ]
+      },
+      {
+        "fact_type": "minimum_requirements",
+        "status": "comparable",
+        "reason": "A verified Fact Layer value is available for every game.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "fact_type": "minimum_requirements",
+            "status": "available",
+            "values": [
+              "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-4430 / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space"
+            ],
+            "fact_ids": [
+              "fact_bf7dc0cc301b82c9708b"
+            ],
+            "evidence_ids": [
+              "ev_857d278965afcbdfd81f"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_steam_730",
+            "fact_type": "minimum_requirements",
+            "status": "available",
+            "values": [
+              "Minimum:\nOS: Windows® 10\nProcessor: 4 hardware CPU threads - Intel® Core™ i5 750 or higher\nMemory: 8 GB RAM\nGraphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0\nDirectX: Version 11\nStorage: 85 GB available space"
+            ],
+            "fact_ids": [
+              "fact_de7d6164f9cbb3d3dbfc"
+            ],
+            "evidence_ids": [
+              "ev_3541741d7ee38dead856"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "fact_type": "minimum_requirements",
+            "status": "available",
+            "values": [
+              "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or Equivalent\nMemory: 6 GB RAM\nGraphics: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950\nDirectX: Version 12\nNetwork: Broadband Internet connection\nStorage: 75 GB available space\nAdditional Notes: ~3.8GB for 1 localized language"
+            ],
+            "fact_ids": [
+              "fact_f09a43a3ef304aa9bb00"
+            ],
+            "evidence_ids": [
+              "ev_90fb617a265322c60fb5"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          }
+        ]
+      },
+      {
+        "fact_type": "storage_requirement",
+        "status": "comparable",
+        "reason": "A verified Fact Layer value is available for every game.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "fact_type": "storage_requirement",
+            "status": "available",
+            "values": [
+              {
+                "tier": "minimum",
+                "amount": 40.0
+              },
+              {
+                "tier": "recommended",
+                "amount": 50.0
+              }
+            ],
+            "fact_ids": [
+              "fact_6c34b14381183562ff16",
+              "fact_f9a9f3e49e33cc2d5b3b"
+            ],
+            "evidence_ids": [
+              "ev_857d278965afcbdfd81f"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_steam_730",
+            "fact_type": "storage_requirement",
+            "status": "available",
+            "values": [
+              {
+                "tier": "minimum",
+                "amount": 85.0
+              }
+            ],
+            "fact_ids": [
+              "fact_8b045400bbdf3980beba"
+            ],
+            "evidence_ids": [
+              "ev_3541741d7ee38dead856"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "fact_type": "storage_requirement",
+            "status": "available",
+            "values": [
+              {
+                "tier": "minimum",
+                "amount": 75.0
+              },
+              {
+                "tier": "recommended",
+                "amount": 75.0
+              }
+            ],
+            "fact_ids": [
+              "fact_4c75a902e571d7a08dad",
+              "fact_2c4cb4e0e6ee8198f72e"
+            ],
+            "evidence_ids": [
+              "ev_90fb617a265322c60fb5"
+            ],
+            "platforms": [
+              "Windows"
+            ]
+          }
+        ]
+      },
+      {
+        "fact_type": "supported_languages",
+        "status": "comparable",
+        "reason": "A verified Fact Layer value is available for every game.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "fact_type": "supported_languages",
+            "status": "available",
+            "values": [
+              [
+                "English",
+                "Korean",
+                "Simplified Chinese",
+                "French",
+                "German",
+                "Spanish - Spain",
+                "Arabic",
+                "Japanese",
+                "Polish",
+                "Portuguese - Portugal",
+                "Russian",
+                "Turkish",
+                "Thai",
+                "Italian",
+                "Portuguese - Brazil",
+                "Traditional Chinese",
+                "Ukrainian"
+              ]
+            ],
+            "fact_ids": [
+              "fact_483c5a97f850a44ec448"
+            ],
+            "evidence_ids": [
+              "ev_857d278965afcbdfd81f"
+            ],
+            "platforms": []
+          },
+          {
+            "game_id": "game_steam_730",
+            "fact_type": "supported_languages",
+            "status": "available",
+            "values": [
+              [
+                "Czech",
+                "Danish",
+                "Dutch",
+                "English",
+                "Finnish",
+                "French",
+                "German",
+                "Hungarian",
+                "Italian",
+                "Japanese",
+                "Korean",
+                "Norwegian",
+                "Polish",
+                "Portuguese - Portugal",
+                "Portuguese - Brazil",
+                "Romanian",
+                "Russian",
+                "Simplified Chinese",
+                "Spanish - Spain",
+                "Swedish",
+                "Thai",
+                "Traditional Chinese",
+                "Turkish",
+                "Bulgarian",
+                "Ukrainian",
+                "Greek",
+                "Spanish - Latin America",
+                "Vietnamese",
+                "Indonesian\nlanguages with full audio support"
+              ]
+            ],
+            "fact_ids": [
+              "fact_b908cbd3ca9bdfcc8aa6"
+            ],
+            "evidence_ids": [
+              "ev_3541741d7ee38dead856"
+            ],
+            "platforms": []
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "fact_type": "supported_languages",
+            "status": "available",
+            "values": [
+              [
+                "English",
+                "French",
+                "Italian",
+                "German",
+                "Spanish - Spain",
+                "Japanese",
+                "Korean",
+                "Polish",
+                "Portuguese - Brazil",
+                "Russian",
+                "Simplified Chinese",
+                "Traditional Chinese",
+                "Spanish - Latin America",
+                "Arabic\nlanguages with full audio support"
+              ]
+            ],
+            "fact_ids": [
+              "fact_a6787f7306feb143946f"
+            ],
+            "evidence_ids": [
+              "ev_90fb617a265322c60fb5"
+            ],
+            "platforms": []
+          }
+        ]
+      },
+      {
+        "fact_type": "cross_play",
+        "status": "partial",
+        "reason": "At least one game lacks this Fact Layer value; only available facts are shown.",
+        "cells": [
+          {
+            "game_id": "game_steam_578080",
+            "fact_type": "cross_play",
+            "status": "insufficient",
+            "values": [],
+            "fact_ids": [],
+            "evidence_ids": [],
+            "platforms": []
+          },
+          {
+            "game_id": "game_steam_730",
+            "fact_type": "cross_play",
+            "status": "available",
+            "values": [
+              true
+            ],
+            "fact_ids": [
+              "fact_0fa05f25a55e410c8ba4"
+            ],
+            "evidence_ids": [
+              "ev_3541741d7ee38dead856"
+            ],
+            "platforms": []
+          },
+          {
+            "game_id": "game_wikidata_q61478103",
+            "fact_type": "cross_play",
+            "status": "insufficient",
+            "values": [],
+            "fact_ids": [],
+            "evidence_ids": [],
+            "platforms": []
+          }
+        ]
+      }
+    ],
+    "coverage": [
+      {
+        "game_id": "game_steam_578080",
+        "game_title": "PUBG: BATTLEGROUNDS",
+        "relevant_corpus_size": 99,
+        "sources": {
+          "steam": 99
+        },
+        "languages": {
+          "zh-CN": 99
+        },
+        "date_start": "2026-09-30T13:05:03Z",
+        "date_end": "2026-10-03T13:31:16Z",
+        "extension_topics": {}
+      },
+      {
+        "game_id": "game_steam_730",
+        "game_title": "Counter-Strike 2",
+        "relevant_corpus_size": 154,
+        "sources": {
+          "bilibili": 1,
+          "steam": 153
+        },
+        "languages": {
+          "zh-CN": 154
+        },
+        "date_start": "2026-08-19T12:00:40Z",
+        "date_end": "2026-10-03T13:21:50Z",
+        "extension_topics": {}
+      },
+      {
+        "game_id": "game_wikidata_q61478103",
+        "game_title": "Apex Legends™",
+        "relevant_corpus_size": 105,
+        "sources": {
+          "bilibili": 5,
+          "steam": 100
+        },
+        "languages": {
+          "zh-CN": 105
+        },
+        "date_start": "2019-02-15T11:40:36Z",
+        "date_end": "2026-10-03T13:20:07Z",
+        "extension_topics": {}
+      }
+    ],
+    "preference_profile": null,
+    "preference_fit": {},
+    "limitations": [
+      "Raw evidence counts, source mix, language coverage, recency, and confidence are shown for every dimension.",
+      "Corpus share normalises topic coverage within each collected corpus; it is not population prevalence.",
+      "Public community samples are self-selected; comparison status is not a market-share or quality ranking.",
+      "Missing dimensions remain insufficient and never receive a neutral score or winner."
+    ],
+    "no_winner_score": true
+  },
+  "source_coverage": {
+    "game_steam_578080": {
+      "game_id": "game_steam_578080",
+      "run_id": "run_voice_20261003T134415Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "partial",
+          "queries_attempted": 4,
+          "items_retrieved": 3,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 3,
+          "duplicates": 0,
+          "date_start": "2026-09-14T16:42:28Z",
+          "date_end": "2026-10-02T04:44:31Z",
+          "languages": {
+            "zh-CN": 3
+          },
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG+PUBG%3A+BATTLEGROUNDS+PUBG+Corporation+windows&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">"
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 199,
+          "items_relevant": 199,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 100,
+          "date_start": "2026-09-30T13:05:03Z",
+          "date_end": "2026-10-03T13:31:16Z",
+          "languages": {
+            "zh-CN": 99
+          },
+          "exclusions": {
+            "empty_or_deleted": 1
+          },
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 103,
+      "relevant_corpus_size": 99,
+      "languages": {
+        "unknown": 1,
+        "zh-CN": 102
+      },
+      "date_start": "2026-09-14T16:42:28Z",
+      "date_end": "2026-10-03T13:31:16Z",
+      "excluded_from_analysis": {
+        "irrelevant": 3,
+        "retrieval:empty_or_deleted": 1
+      },
+      "generated_at": "2026-10-03T13:53:46.860279Z"
+    },
+    "game_steam_730": {
+      "game_id": "game_steam_730",
+      "run_id": "run_voice_20261003T134805Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "partial",
+          "queries_attempted": 4,
+          "items_retrieved": 4,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 3,
+          "duplicates": 0,
+          "date_start": "2023-07-28T07:10:00Z",
+          "date_end": "2026-08-19T12:00:40Z",
+          "languages": {
+            "zh-CN": 4
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=CS2+Counter-Strike+2+Valve+linux&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=Counter-Strike+2+%E6%80%A7%E8%83%BD+%E5%B8%A7%E7%8E%87+%E5%8D%A1%E9%A1%BF&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">"
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 399,
+          "items_relevant": 399,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 246,
+          "date_start": "2026-10-03T02:05:14Z",
+          "date_end": "2026-10-03T13:21:50Z",
+          "languages": {
+            "zh-CN": 153
+          },
+          "exclusions": {
+            "empty_or_deleted": 1
+          },
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 158,
+      "relevant_corpus_size": 154,
+      "languages": {
+        "unknown": 1,
+        "zh-CN": 157
+      },
+      "date_start": "2023-07-28T07:10:00Z",
+      "date_end": "2026-10-03T13:21:50Z",
+      "excluded_from_analysis": {
+        "irrelevant": 3,
+        "retrieval:empty_or_deleted": 1
+      },
+      "generated_at": "2026-10-03T13:53:47.113641Z"
+    },
+    "game_wikidata_q61478103": {
+      "game_id": "game_wikidata_q61478103",
+      "run_id": "run_voice_20261003T134554Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 11,
+          "items_relevant": 5,
+          "items_ambiguous": 0,
+          "items_irrelevant": 6,
+          "duplicates": 0,
+          "date_start": "2019-02-15T11:40:36Z",
+          "date_end": "2026-10-02T14:21:28Z",
+          "languages": {
+            "zh-CN": 11
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 200,
+          "items_relevant": 200,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 100,
+          "date_start": "2026-09-30T12:32:22Z",
+          "date_end": "2026-10-03T13:20:07Z",
+          "languages": {
+            "zh-CN": 100
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 112,
+      "relevant_corpus_size": 105,
+      "languages": {
+        "unknown": 1,
+        "zh-CN": 111
+      },
+      "date_start": "2019-02-15T11:40:36Z",
+      "date_end": "2026-10-03T13:20:07Z",
+      "excluded_from_analysis": {
+        "irrelevant": 6
+      },
+      "generated_at": "2026-10-03T13:53:47.344209Z"
+    }
+  },
+  "limitations": [
+    "Public community evidence is self-selected and not population-representative.",
+    "Missing evidence is reported as insufficient, never converted into a neutral fit.",
+    "PUBG: BATTLEGROUNDS: bilibili is partial (HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS&page=1&page_size=20: <!DOCTYPE html> <html lang=\"zh-cn\"> <head> <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />…)",
+    "PUBG: BATTLEGROUNDS: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)",
+    "Counter-Strike 2: bilibili is partial (HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=CS2+Counter-Strike+2+Valve+linux&page=1&page_size=20: <!DOCTYPE html> <html lang=\"zh-cn\"> <head> <meta http-equiv=\"Access-Control-Allow-Origin\" con…)",
+    "Counter-Strike 2: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)",
+    "Apex Legends™: reddit is unavailable (Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET)"
+  ],
+  "evidence_references": [
+    {
+      "evidence_id": "ev_187915dccf04a0e461b4",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236776712",
+      "excerpt": "我只希望不要误封我， 今天喜提72小时， 谁开挂开板子什么的出门被车撞死， 麻烦人工能明辨一下， 上班累了一天不容易 回家打两把游戏 0.9的kd 被封"
+    },
+    {
+      "evidence_id": "ev_18a4a21cf484feae32c0",
+      "game_id": "game_steam_730",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/730/reviews/",
+      "source_reference": "steam:app:730:review:236782079",
+      "excerpt": "狗屎反馈，狗屎优化，闲的没屁事干加个无声换弹，切刀声音像塑料"
+    },
+    {
+      "evidence_id": "ev_33011e9ba8603e9002c2",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236780938",
+      "excerpt": "游戏是好游戏，就是服务器烂，还有刚更新的反作弊垃圾"
+    },
+    {
+      "evidence_id": "ev_3541741d7ee38dead856",
+      "game_id": "game_steam_730",
+      "layer": "fact",
+      "source": "steam",
+      "source_url": "https://store.steampowered.com/app/730/",
+      "source_reference": null,
+      "excerpt": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><img class=\\\"bb_img\\\" src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/extras/87184cdf8045cdc8b7a83be42802e634.avif?t=1789251637\\\" width=1194 height=78 /></span></p><p class=\\\"bb"
+    },
+    {
+      "evidence_id": "ev_41a5db45f0d610b5e763",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236783524",
+      "excerpt": "好玩，战斗爽！"
+    },
+    {
+      "evidence_id": "ev_465352b42c15d51fa68d",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236548325",
+      "excerpt": "你闲的没事干更新你妈b 反作弊 开挂的漫天飞 正常人进不去 脑子进食了？"
+    },
+    {
+      "evidence_id": "ev_68c784b368fa99ce4de2",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236766025",
+      "excerpt": "傻逼玩意更新反作弊进不去游戏 三天了还不修 重生在吃屎吗"
+    },
+    {
+      "evidence_id": "ev_698a2b9b23d40397d91f",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236544286",
+      "excerpt": "太他妈烂了，sb优化"
+    },
+    {
+      "evidence_id": "ev_6b8758d7827b30c3aba6",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236564959",
+      "excerpt": "更新了个几把防作弊连游戏都进不去了，这种游戏还爱玩的我只能说身上是有点m属性在的。"
+    },
+    {
+      "evidence_id": "ev_79afd010a152c51f862d",
+      "game_id": "game_steam_730",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/730/reviews/",
+      "source_reference": "steam:app:730:review:236757035",
+      "excerpt": "不封外挂"
+    },
+    {
+      "evidence_id": "ev_7a3ec750d20328253d1e",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236542474",
+      "excerpt": "傻逼EA，更新的新的防作弊很好用，因为我现在连游戏都进不去了"
+    },
+    {
+      "evidence_id": "ev_7ea139bba71109a983bf",
+      "game_id": "game_steam_730",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/730/reviews/",
+      "source_reference": "steam:app:730:review:236754625",
+      "excerpt": "可惜就是外挂太多了，希望官方加强鉴挂的力量。"
+    },
+    {
+      "evidence_id": "ev_8224dd49c18fa76a2360",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236545729",
+      "excerpt": "sb一样的服务器，每次补丁更新都像往塞住的马桶里放清洁球，除了让游戏更卡更sb之外，还有外挂往马桶外把屎在地上，让人看了就不想玩，sb游戏，我是sb才玩这么久"
+    },
+    {
+      "evidence_id": "ev_826fef189d63f892e664",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236778202",
+      "excerpt": "更新新的反作弊系统之后马上都上不了"
+    },
+    {
+      "evidence_id": "ev_857d278965afcbdfd81f",
+      "game_id": "game_steam_578080",
+      "layer": "fact",
+      "source": "steam",
+      "source_url": "https://store.steampowered.com/app/578080/",
+      "source_reference": null,
+      "excerpt": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.poster.avif?t=1786493086\\\""
+    },
+    {
+      "evidence_id": "ev_8761b41806b3be959d47",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236776992",
+      "excerpt": "还是蛮喜欢这个游戏的，除了外挂比较多之外，没太大问题了"
+    },
+    {
+      "evidence_id": "ev_8ed7622ba61a7fe524b2",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236738799",
+      "excerpt": "垃圾的要死换nm的反作弊登都登不上去sb"
+    },
+    {
+      "evidence_id": "ev_90f7767166d4cc5138c8",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236559883",
+      "excerpt": "神人游戲打排位給我踢了説我棄賽，老子他媽根本就沒棄賽，反作弊做的跟坨屎一樣"
+    },
+    {
+      "evidence_id": "ev_90fb617a265322c60fb5",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "fact",
+      "source": "steam",
+      "source_url": "https://store.steampowered.com/app/1172470/",
+      "source_reference": null,
+      "excerpt": "{\"about_the_game\": \"Conquer with character in Apex Legends, a free-to-play* Hero shooter where legendary characters with powerful abilities team up to battle for fame &amp; fortune on the fringes of the Frontier.<br><br>Master an ever-growing roster of diverse Legends, deep-tacti"
+    },
+    {
+      "evidence_id": "ev_94d08367d7facad1ea87",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236562987",
+      "excerpt": "好好地游戏被沙贝服务器毁了，这服务器他妈是人类吗，每把都尼玛闪退，还都是决赛圈，还能玩吗我日你妈"
+    },
+    {
+      "evidence_id": "ev_9f49fbeb6f36380c6bca",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236774232",
+      "excerpt": "新手友好 反作弊优秀 游戏环境好 【大拇指】"
+    },
+    {
+      "evidence_id": "ev_b91557d31fa4c4fe234c",
+      "game_id": "game_steam_730",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/730/reviews/",
+      "source_reference": "steam:app:730:review:236773094",
+      "excerpt": "希望能严惩外挂"
+    },
+    {
+      "evidence_id": "ev_c950c9ee868f5fb94e86",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236774671",
+      "excerpt": "开发团队太垃圾，BUG外挂到处是"
+    },
+    {
+      "evidence_id": "ev_da9fce5dddca70f45c23",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236763159",
+      "excerpt": "垃圾游戏,外挂不封封绿玩,什么玩意啊?"
+    },
+    {
+      "evidence_id": "ev_dd9c2e914447afd2ae7e",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236568298",
+      "excerpt": "垃圾反作弊"
+    },
+    {
+      "evidence_id": "ev_de6faebc37a1ff550b15",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236545992",
+      "excerpt": "误封有一手的👍"
+    },
+    {
+      "evidence_id": "ev_e157a0b12ba70525914a",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236781135",
+      "excerpt": "优化巨垃圾"
+    },
+    {
+      "evidence_id": "ev_e15ebc3e6a69bde150a9",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236778348",
+      "excerpt": "傻狗游戏，更新完懒妈反作弊你爹在网吧死活进不去"
+    },
+    {
+      "evidence_id": "ev_e94e78e68e3d9d382a7b",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236723639",
+      "excerpt": "感觉在没打排位之前，整体的对局还算可以,但是排位之后就难说了,而且，他这个反作弊系统有点逆天，我打得好好的，就给我封掉了"
+    },
+    {
+      "evidence_id": "ev_eac89a4bf9fbe32d03ec",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236756011",
+      "excerpt": "女士们先生们，自动瞄准根本就是天方夜谭"
+    },
+    {
+      "evidence_id": "ev_ef742479a2ec7e0aca70",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236547059",
+      "excerpt": "升级防作弊，把作弊的放过去了，加速器全给防住了，负优化还得看apex"
+    },
+    {
+      "evidence_id": "ev_f16b41dd1352edc7d90e",
+      "game_id": "game_wikidata_q61478103",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/1172470/reviews/",
+      "source_reference": "steam:app:1172470:review:236761962",
+      "excerpt": "运营一坨狗屎，永远更新负优化劝退玩家"
+    },
+    {
+      "evidence_id": "ev_f90697c40383b97ea274",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236585617",
+      "excerpt": "平衡调整以后外挂少了很多但还是有，值得玩的一个游戏"
+    },
+    {
+      "evidence_id": "ev_fbf99e182852c4335381",
+      "game_id": "game_steam_578080",
+      "layer": "player_evidence",
+      "source": "steam",
+      "source_url": "https://steamcommunity.com/app/578080/reviews/",
+      "source_reference": "steam:app:578080:review:236783753",
+      "excerpt": "经常卡死，一点优化也不做，就会圈钱"
+    }
+  ],
+  "generated_at": "2026-10-03T13:58:56.154701Z"
+}

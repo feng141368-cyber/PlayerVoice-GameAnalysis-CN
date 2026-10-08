@@ -1,0 +1,4 @@
+interface:
+  display_name: "Game Voice Intelligence"
+  short_description: "Collect and analyze cross-platform player feedback"
+  default_prompt: "Given a game name, collect available player feedback across configured platforms, report source coverage, and produce an evidence-linked voice-of-player brief."

@@ -1,0 +1,60 @@
+project:
+  game: Tower of Fantasy
+
+sources:
+  steam:
+    enabled: true
+    language: english
+    filter: recent
+    limit_per_app: 300
+    apps:
+      - app_id: 2064650
+        app_name: Tower of Fantasy
+        role: focal
+
+  bilibili:
+    enabled: true
+    query: 幻塔
+    max_videos: 10
+    comments_per_video: 50
+    request_delay_seconds: 0.6
+
+  reddit:
+    enabled: true
+    subreddits: [all]
+    query: '"Tower of Fantasy"'
+    limit_posts: 100
+    include_comments: true
+    comments_per_post: 30
+    client_id_env: REDDIT_CLIENT_ID
+    client_secret_env: REDDIT_CLIENT_SECRET
+
+  youtube:
+    enabled: true
+    query: Tower of Fantasy review update
+    max_videos: 8
+    comments_per_video: 100
+    api_key_env: YOUTUBE_API_KEY
+
+  # These adapters become name-only at runtime after approved provider access
+  # is configured. Missing endpoints are reported as unavailable, not hidden.
+  weibo:
+    enabled: true
+    query: 幻塔
+    endpoint_env: WEIBO_PROVIDER_ENDPOINT
+    token_env: WEIBO_ACCESS_TOKEN
+
+  xiaohongshu:
+    enabled: true
+    query: 幻塔
+    endpoint_env: XIAOHONGSHU_PROVIDER_ENDPOINT
+    token_env: XIAOHONGSHU_PROVIDER_TOKEN
+
+  douyin:
+    enabled: true
+    query: 幻塔
+    endpoint_env: DOUYIN_PROVIDER_ENDPOINT
+    token_env: DOUYIN_ACCESS_TOKEN
+
+analysis:
+  window_days: 30

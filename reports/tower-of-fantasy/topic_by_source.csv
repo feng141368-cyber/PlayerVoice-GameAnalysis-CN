@@ -1,0 +1,15 @@
+topic,source,records,negative_share,engagement
+Account/Service,steam,44,0.9090909090909091,634
+Combat/Balance,bilibili,2,0.0,26
+Combat/Balance,steam,20,0.65,100
+Content/Progression,steam,9,0.4444444444444444,16
+Monetization,bilibili,1,0.0,1
+Monetization,steam,40,0.475,158
+Other,bilibili,22,0.0,30
+Other,steam,127,0.44881889763779526,201
+Performance,bilibili,1,0.0,12
+Performance,steam,2,1.0,1
+Social/Community,steam,28,0.21428571428571427,57
+Story/Character,bilibili,1,0.0,16
+Story/Character,steam,26,0.5769230769230769,133
+UI/UX,steam,4,1.0,11

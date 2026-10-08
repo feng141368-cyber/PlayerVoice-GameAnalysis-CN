@@ -1,0 +1,2587 @@
+{
+  "input_name": "PUBG: BATTLEGROUNDS",
+  "run_id": "run_voice_20261003T033738Z",
+  "foundation": {
+    "input_name": "PUBG: BATTLEGROUNDS",
+    "run_id": "run_voice_20261003T033738Z",
+    "resolution": {
+      "input_name": "PUBG: BATTLEGROUNDS",
+      "locale": "en",
+      "status": "resolved",
+      "game": {
+        "game_id": "game_steam_578080",
+        "canonical_title": "PUBG: BATTLEGROUNDS",
+        "original_title": "PUBG: BATTLEGROUNDS",
+        "localized_titles": {
+          "en": "PUBG: BATTLEGROUNDS",
+          "zh-CN": "PUBG: BATTLEGROUNDS"
+        },
+        "external_ids": {
+          "steam_app_id": "578080"
+        },
+        "developers": [
+          "PUBG Corporation"
+        ],
+        "publishers": [
+          "KRAFTON, Inc."
+        ],
+        "resolution_status": "resolved",
+        "resolution_confidence": 0.7,
+        "resolution_evidence_ids": [
+          "ev_resolver_abac9d785253874ac0ba"
+        ],
+        "resolved_at": "2026-10-03T03:38:17.707136Z",
+        "release_dates": {},
+        "genres": [
+          "Action",
+          "Adventure",
+          "Free To Play",
+          "Massively Multiplayer"
+        ],
+        "franchise": null,
+        "official_urls": [
+          "https://www.pubg.com"
+        ],
+        "platforms": [
+          "windows"
+        ]
+      },
+      "candidates": [
+        {
+          "entity": {
+            "game_id": "game_steam_578080",
+            "canonical_title": "PUBG: BATTLEGROUNDS",
+            "original_title": "PUBG: BATTLEGROUNDS",
+            "localized_titles": {
+              "en": "PUBG: BATTLEGROUNDS",
+              "zh-CN": "PUBG: BATTLEGROUNDS"
+            },
+            "external_ids": {
+              "steam_app_id": "578080"
+            },
+            "developers": [
+              "PUBG Corporation"
+            ],
+            "publishers": [
+              "KRAFTON, Inc."
+            ],
+            "resolution_status": "resolved",
+            "resolution_confidence": 0.7,
+            "resolution_evidence_ids": [
+              "ev_resolver_abac9d785253874ac0ba"
+            ],
+            "resolved_at": "2026-10-03T03:38:17.707136Z",
+            "release_dates": {},
+            "genres": [
+              "Action",
+              "Adventure",
+              "Free To Play",
+              "Massively Multiplayer"
+            ],
+            "franchise": null,
+            "official_urls": [
+              "https://www.pubg.com"
+            ],
+            "platforms": [
+              "windows"
+            ]
+          },
+          "score": 0.7,
+          "reasons": [
+            "exact official/localized title match",
+            "localized title available for en",
+            "supported by steam",
+            "stable external identifier present",
+            "platform listing present"
+          ],
+          "evidence": [
+            {
+              "evidence_id": "ev_resolver_abac9d785253874ac0ba",
+              "provider": "steam",
+              "source_reference": "steam_app:578080",
+              "source_url": "https://store.steampowered.com/app/578080/",
+              "retrieved_at": "2026-10-03T03:38:01.530814Z"
+            }
+          ],
+          "providers": [
+            "steam"
+          ]
+        },
+        {
+          "entity": {
+            "game_id": "game_wikidata_q28937399",
+            "canonical_title": "絕地求生",
+            "original_title": "絕地求生",
+            "localized_titles": {
+              "zh": "絕地求生",
+              "zh-hant": "絕地求生",
+              "zh-hans": "PlayerUnknown's Battlegrounds"
+            },
+            "external_ids": {
+              "wikidata_id": "Q28937399"
+            },
+            "developers": [],
+            "publishers": [],
+            "resolution_status": "unresolved",
+            "resolution_confidence": 0.2905,
+            "resolution_evidence_ids": [
+              "ev_resolver_5876e48aca017ac83641"
+            ],
+            "resolved_at": "2026-10-03T03:38:17.707010Z",
+            "release_dates": {},
+            "genres": [],
+            "franchise": null,
+            "official_urls": [],
+            "platforms": []
+          },
+          "score": 0.2905,
+          "reasons": [
+            "title similarity 0.68",
+            "supported by wikidata",
+            "stable external identifier present"
+          ],
+          "evidence": [
+            {
+              "evidence_id": "ev_resolver_5876e48aca017ac83641",
+              "provider": "wikidata",
+              "source_reference": "Q28937399",
+              "source_url": "https://www.wikidata.org/wiki/Q28937399",
+              "retrieved_at": "2026-10-03T03:37:53.797638Z"
+            }
+          ],
+          "providers": [
+            "wikidata"
+          ]
+        }
+      ],
+      "reasons": [
+        "one candidate passed the resolution threshold with a safe margin"
+      ],
+      "provider_failures": [],
+      "partial": false
+    },
+    "aliases": {
+      "game_id": "game_steam_578080",
+      "aliases": [
+        {
+          "alias_id": "alias_52a2c12f37ff40eba37d",
+          "game_id": "game_steam_578080",
+          "text": "PUBG: BATTLEGROUNDS",
+          "normalized_text": "pubgbattlegrounds",
+          "language": "en",
+          "alias_type": "official_title",
+          "source_evidence_ids": [
+            "ev_resolver_abac9d785253874ac0ba"
+          ],
+          "source_platforms": [
+            "all"
+          ],
+          "confidence": 1.0,
+          "ambiguity": "none",
+          "ambiguity_notes": null,
+          "validation_status": "validated",
+          "search_enabled": true,
+          "standalone_search_safe": true
+        },
+        {
+          "alias_id": "alias_83816bbc18d396ef63af",
+          "game_id": "game_steam_578080",
+          "text": "PUBG",
+          "normalized_text": "pubg",
+          "language": "en",
+          "alias_type": "abbreviation",
+          "source_evidence_ids": [
+            "ev_alias_f29b392721553a24c671"
+          ],
+          "source_platforms": [
+            "steam"
+          ],
+          "confidence": 0.95,
+          "ambiguity": "medium",
+          "ambiguity_notes": "Steam search returned 2 competing top-five result(s)",
+          "validation_status": "scoped_only",
+          "search_enabled": true,
+          "standalone_search_safe": false
+        }
+      ],
+      "review_items": [
+        {
+          "alias_id": "alias_83816bbc18d396ef63af",
+          "text": "PUBG",
+          "normalized_text": "pubg",
+          "validation_status": "scoped_only",
+          "reasons": [
+            "alias is usable only with source or entity context"
+          ],
+          "source_evidence_ids": [
+            "ev_alias_f29b392721553a24c671"
+          ],
+          "source_references": [
+            "https://store.steampowered.com/search/?term=PUBG"
+          ],
+          "source_excerpts": [
+            "[{\"id\": 578080, \"metascore\": \"\", \"name\": \"PUBG: BATTLEGROUNDS\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg?t=1786493086\", \"type\": \"app\"}, {\"controller_support\": \"full\", \"id\": 2726580, \"metascore\": \"\", \"name\": \"PUBG: DED.NET\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/2a9163a603aea23f92d8018327e0bd2b807c0b7e/capsule_231x87.jpg?t=1787683401\", \"type\": \"app\"}, {\"id\": 4077740, \"metascore\": \"\", \"name\": \"PUBG: Black Budget\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077740/78bd9008e91e73d332df814ea57597ad2e0dde80/capsule_231x87.jpg?t=1778467112\", \"type\": \"app\"}]"
+          ]
+        }
+      ],
+      "observations": [
+        {
+          "text": "PUBG",
+          "language": "en",
+          "proposed_type": "abbreviation",
+          "source_evidence_ids": [
+            "ev_alias_f29b392721553a24c671"
+          ],
+          "source_platforms": [
+            "steam"
+          ],
+          "evidence_basis": "platform_search_match",
+          "confidence": 0.95,
+          "ambiguity": "medium",
+          "ambiguity_notes": "Steam search returned 2 competing top-five result(s)",
+          "platform_scope_required": true,
+          "source_references": [
+            "https://store.steampowered.com/search/?term=PUBG"
+          ],
+          "source_excerpts": [
+            "[{\"id\": 578080, \"metascore\": \"\", \"name\": \"PUBG: BATTLEGROUNDS\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg?t=1786493086\", \"type\": \"app\"}, {\"controller_support\": \"full\", \"id\": 2726580, \"metascore\": \"\", \"name\": \"PUBG: DED.NET\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2726580/2a9163a603aea23f92d8018327e0bd2b807c0b7e/capsule_231x87.jpg?t=1787683401\", \"type\": \"app\"}, {\"id\": 4077740, \"metascore\": \"\", \"name\": \"PUBG: Black Budget\", \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"streamingvideo\": false, \"tiny_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4077740/78bd9008e91e73d332df814ea57597ad2e0dde80/capsule_231x87.jpg?t=1778467112\", \"type\": \"app\"}]"
+          ]
+        }
+      ]
+    },
+    "query_plans": [
+      {
+        "query_id": "query_42ad366df1d80153f0cb",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 官方",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_6666bdb834604ae45b06",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 性能 帧率 卡顿 官方",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_62b5e53aa0f4242e4bfa",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 操作 手柄 官方",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_7f5dd211694c2d0f9997",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 补丁 公告 官方",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_0ec45c2423860752cfea",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" official",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_563886139571a1deea78",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"PUBG\" official PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_204a56c745cf261ca82e",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" performance fps stutter official",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_b026c089efebdf81862d",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"PUBG\" performance fps stutter official PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_22a954349391c315082d",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" controls controller official",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_26ac8649ce0e6e0aacc1",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"PUBG\" controls controller official PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "fact",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_2454ece38ea49ed41478",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" patch notes official",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_6b9c26e60731872b02cc",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "official",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"PUBG\" patch notes official PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "patch_note",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_8f6acb6e6d2e20bd337e",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "steam_app:578080 intent:general",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_ee3265a673f3b5989b52",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "steam_app:578080 intent:performance",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_55d0108e591d2ce890ed",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "steam_app:578080 intent:controls",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_e76553505f10d6286565",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "steam_app:578080 intent:patch",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_c53c5890e87d48f0fe8b",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "en",
+        "intent": "general",
+        "query_text": "steam_app:578080 intent:general",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_98cf67a83dfb696cd11e",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "steam_app:578080 intent:performance",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_64d563a053487de08b77",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "steam_app:578080 intent:controls",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_9ab1694d3233ccd58e3a",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "steam",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "steam_app:578080 intent:patch",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "review",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_1eea701b969f9e57031a",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "\"PUBG: BATTLEGROUNDS\"",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_7b446f80351f22d0c5fe",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_15d436984f7e9cc22c36",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 操作 手柄",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_e791e7ce0291a7477828",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" 补丁 公告",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_26d96d203516ce80ac94",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"PUBG: BATTLEGROUNDS\"",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_f1f65a7a99dd3711b5f2",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "general",
+        "query_text": "\"PUBG\" PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_b47f0b8aee026887b7ef",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" performance fps stutter",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_5ab42830ab4985997b01",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "\"PUBG\" performance fps stutter PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_9e27ca6e5235e420f75f",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" controls controller",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_52b06c31088f4bbbe2f0",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "\"PUBG\" controls controller PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_fb3f175aecb45c4b0aae",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"PUBG: BATTLEGROUNDS\" patch notes",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_933de28b911f06f3755f",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "reddit",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "\"PUBG\" patch notes PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "post",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_d39351475bc82fbe6f29",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "general",
+        "query_text": "PUBG: BATTLEGROUNDS",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_2a8bc3ceea0a2727927c",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "performance",
+        "query_text": "PUBG: BATTLEGROUNDS 性能 帧率 卡顿",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_97854ee5f68cf8aff979",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "controls",
+        "query_text": "PUBG: BATTLEGROUNDS 操作 手柄",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_24e7649c229b7388c4ea",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "zh-CN",
+        "intent": "patch",
+        "query_text": "PUBG: BATTLEGROUNDS 补丁 公告",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_bb05c54fc0e4ed44a06f",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "general",
+        "query_text": "PUBG: BATTLEGROUNDS",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_87f74137f2936287898a",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "general",
+        "query_text": "PUBG PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_649c8ee5640d5e573867",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "PUBG: BATTLEGROUNDS performance fps stutter",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_0c5f434a5b7961defbad",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "performance",
+        "query_text": "PUBG performance fps stutter PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_7a1e405b3495779ef7bd",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "PUBG: BATTLEGROUNDS controls controller",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_b48c8d559bd2d02e7079",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "controls",
+        "query_text": "PUBG controls controller PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_72750d1db4f60001a7dd",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "PUBG: BATTLEGROUNDS patch notes",
+        "alias_ids": [
+          "alias_52a2c12f37ff40eba37d"
+        ],
+        "disambiguators": [],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      },
+      {
+        "query_id": "query_2c7e1b2fc5cd02d9789f",
+        "run_id": "run_voice_20261003T033738Z",
+        "game_id": "game_steam_578080",
+        "source": "bilibili",
+        "language": "en",
+        "intent": "patch",
+        "query_text": "PUBG patch notes PUBG: BATTLEGROUNDS PUBG Corporation windows",
+        "alias_ids": [
+          "alias_83816bbc18d396ef63af"
+        ],
+        "disambiguators": [
+          "PUBG: BATTLEGROUNDS",
+          "PUBG Corporation",
+          "windows"
+        ],
+        "expected_evidence_kind": "video",
+        "generated_at": "2026-10-03T03:38:32.922181Z"
+      }
+    ],
+    "fact_bundle": {
+      "game_id": "game_steam_578080",
+      "facts": [
+        {
+          "fact_id": "fact_4c39f72974246b9bfa7e",
+          "game_id": "game_steam_578080",
+          "fact_type": "title",
+          "value": {
+            "language": "en",
+            "title": "PUBG: BATTLEGROUNDS"
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_5f13b9896b0ce26470fa",
+          "game_id": "game_steam_578080",
+          "fact_type": "developer",
+          "value": "PUBG Corporation",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_01dff826ac0d832b41a2",
+          "game_id": "game_steam_578080",
+          "fact_type": "publisher",
+          "value": "KRAFTON, Inc.",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_f7c92ad91c6b3138b973",
+          "game_id": "game_steam_578080",
+          "fact_type": "release_date",
+          "value": {
+            "date": "Dec 21, 2017",
+            "coming_soon": false
+          },
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_93a4e907d1d186677b14",
+          "game_id": "game_steam_578080",
+          "fact_type": "platform_support",
+          "value": true,
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_1bfca3d4efd0de7befad",
+          "game_id": "game_steam_578080",
+          "fact_type": "minimum_requirements",
+          "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-4430 / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_b6f24cc8bff986350e77",
+          "game_id": "game_steam_578080",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "minimum",
+            "amount": 40.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_b00ad0101379085c00de",
+          "game_id": "game_steam_578080",
+          "fact_type": "recommended_requirements",
+          "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-6600K / AMD Ryzen 5 1600\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 50 GB available space",
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_3c7d8b55699c20a3d62e",
+          "game_id": "game_steam_578080",
+          "fact_type": "storage_requirement",
+          "value": {
+            "tier": "recommended",
+            "amount": 50.0
+          },
+          "unit": "GB",
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": "Windows",
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        },
+        {
+          "fact_id": "fact_218ad5dbc5a3670e30d6",
+          "game_id": "game_steam_578080",
+          "fact_type": "supported_languages",
+          "value": [
+            "English",
+            "Korean",
+            "Simplified Chinese",
+            "French",
+            "German",
+            "Spanish - Spain",
+            "Arabic",
+            "Japanese",
+            "Polish",
+            "Portuguese - Portugal",
+            "Russian",
+            "Turkish",
+            "Thai",
+            "Italian",
+            "Portuguese - Brazil",
+            "Traditional Chinese",
+            "Ukrainian"
+          ],
+          "unit": null,
+          "valid_from": null,
+          "valid_to": null,
+          "territory": "US",
+          "platform": null,
+          "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+          "source_authority": "platform_store",
+          "verification_status": "verified",
+          "confidence": 0.95,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z"
+        }
+      ],
+      "evidence": [
+        {
+          "evidence_id": "ev_d0ef29dfb39c8f275751",
+          "game_id": "game_steam_578080",
+          "evidence_kind": "fact_source",
+          "access_scope": "public",
+          "dataset_id": null,
+          "source": "steam",
+          "source_content_id": "steam_app:578080",
+          "parent_evidence_id": null,
+          "source_url": "https://store.steampowered.com/app/578080/",
+          "source_reference": null,
+          "title": null,
+          "original_text": "{\"about_the_game\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.poster.avif?t=1786493086\\\" width=700 height=146 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>LAND</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Drop into an ever-growing and changing selection of maps to keep you challenged. Will you choose the safer outskirts and risk not getting enough loot or hot drop into the dense cities and fight from the moment you hit the ground? Every drop is different, it's up to you to make the best with what you find. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>LOOT</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >With unique weapons, a variety of supplies, and special tools to outwit your opponents, how you outfit yourself is up to you! Kit out your favorite weapons with powerful attachments or risk going after the hotly contested Care Packages for unique loot to give you the edge you need to win. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>SURVIVE</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Stocking up is only the beginning. With the Safe Zone growing ever smaller as time goes on, your risk of running into other survivors dramatically increases. Die and you're out. You'll need to outthink, outrun, or outshoot your opponents if you're to be the last one standing and claim ultimate victory.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>MANY WAYS TO PLAY,</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Warm up in Team Deathmatch, try out constantly changing modes in the Arcade, drop into the latest seasonal event, or build your own custom lobby and challenge your friends to something unique. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>EVERY MATCH IS UNIQUE</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >No two battles are the same, and everything hinges on the choices you make to land, loot and survive. Drop into the Battlegrounds where victory hinges on every move and every choice, and fight to be the last one standing. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >Optional in-game purchases available. </p>\", \"achievements\": {\"highlighted\": [{\"archived\": 0, \"hidden\": 0, \"icon\": \"59abda8f6cfe24cb94398ce496a1aab1248a3f61.jpg\", \"localized_name\": \"Last Survivor\", \"name\": \"Last Survivor\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/59abda8f6cfe24cb94398ce496a1aab1248a3f61.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"0ba42c6fbcf0fecb0893124f138c5d30fc5f8ff4.jpg\", \"localized_name\": \"Winner Winner Chicken Dinner!\", \"name\": \"Winner Winner Chicken Dinner!\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/0ba42c6fbcf0fecb0893124f138c5d30fc5f8ff4.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"fa12ea95807654db1a05ec9ebd9e8ed5a151fff8.jpg\", \"localized_name\": \"Dynamic Duo\", \"name\": \"Dynamic Duo\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/fa12ea95807654db1a05ec9ebd9e8ed5a151fff8.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"0efd6cfce883f01f2b2bbf6979e71b1158e5b8fd.jpg\", \"localized_name\": \"Fantastic Four\", \"name\": \"Fantastic Four\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/0efd6cfce883f01f2b2bbf6979e71b1158e5b8fd.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"fbc11e553fcda52b8f887c00aa11a2c80d0559ab.jpg\", \"localized_name\": \"Top 10\", \"name\": \"Top 10\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/fbc11e553fcda52b8f887c00aa11a2c80d0559ab.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"b534a3173fe847ae350ea5fb834a76a470702951.jpg\", \"localized_name\": \"Pacifist\", \"name\": \"Pacifist\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/b534a3173fe847ae350ea5fb834a76a470702951.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"2227412df7f1b33945a99744c4f3f70511b43f84.jpg\", \"localized_name\": \"CQB Master\", \"name\": \"CQB Master\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/2227412df7f1b33945a99744c4f3f70511b43f84.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"bdcbf863a234b6a52bdfb20040bc4c532ab4228c.jpg\", \"localized_name\": \"CQB Expert\", \"name\": \"CQB Expert\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/bdcbf863a234b6a52bdfb20040bc4c532ab4228c.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"866eef57dcbd674f2b69602eaba7207371176fa7.jpg\", \"localized_name\": \"CQB Novice\", \"name\": \"CQB Novice\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/866eef57dcbd674f2b69602eaba7207371176fa7.jpg\"}, {\"archived\": 0, \"hidden\": 0, \"icon\": \"9ef7ec6c4abfedc2a5436fc75b9f63bf9ae80161.jpg\", \"localized_name\": \"Marksman Master\", \"name\": \"Marksman Master\", \"path\": \"https://shared.akamai.steamstatic.com/community_assets/images/apps/578080/9ef7ec6c4abfedc2a5436fc75b9f63bf9ae80161.jpg\"}], \"total\": 37}, \"background\": \"https://store.akamai.steamstatic.com/images/storepagebackground/app/578080?t=1786493086\", \"background_raw\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/378ba5d5c4cabc77814a29d8088bbb92aecec194/page_bg_raw.jpg?t=1786493086\", \"capsule_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_231x87.jpg?t=1786493086\", \"capsule_imagev5\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/14f42ab797699a9c9f137fda66582d8776da4330/capsule_184x69.jpg?t=1786493086\", \"categories\": [{\"description\": \"Multi-player\", \"id\": 1}, {\"description\": \"PvP\", \"id\": 49}, {\"description\": \"Online PvP\", \"id\": 36}, {\"description\": \"Custom Volume Controls\", \"id\": 68}, {\"description\": \"Stereo Sound\", \"id\": 69}, {\"description\": \"Surround Sound\", \"id\": 70}, {\"description\": \"Partial Controller Support\", \"id\": 18}, {\"description\": \"Stats\", \"id\": 15}, {\"description\": \"Remote Play on Phone\", \"id\": 41}, {\"description\": \"Remote Play on Tablet\", \"id\": 42}, {\"description\": \"Family Sharing\", \"id\": 62}], \"content_descriptors\": {\"ids\": [2, 5], \"notes\": null}, \"detailed_description\": \"<p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.poster.avif?t=1786493086\\\" width=700 height=146 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/a540542c9e4e836390bfb24a25c205bf.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/94748cbaeec0ad3090ce509567b709e9.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>LAND</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Drop into an ever-growing and changing selection of maps to keep you challenged. Will you choose the safer outskirts and risk not getting enough loot or hot drop into the dense cities and fight from the moment you hit the ground? Every drop is different, it's up to you to make the best with what you find. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/4bb643362d2925a1950009742966fba0.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>LOOT</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >With unique weapons, a variety of supplies, and special tools to outwit your opponents, how you outfit yourself is up to you! Kit out your favorite weapons with powerful attachments or risk going after the hotly contested Care Packages for unique loot to give you the edge you need to win. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/960d991a398e5ab7472f6e7677693968.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>SURVIVE</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Stocking up is only the beginning. With the Safe Zone growing ever smaller as time goes on, your risk of running into other survivors dramatically increases. Die and you're out. You'll need to outthink, outrun, or outshoot your opponents if you're to be the last one standing and claim ultimate victory.  </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/fa735ab8c6a53aad70db16bca96549d9.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>MANY WAYS TO PLAY,</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >Warm up in Team Deathmatch, try out constantly changing modes in the Arcade, drop into the latest seasonal event, or build your own custom lobby and challenge your friends to something unique. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" ><span class=\\\"bb_img_ctn\\\"><video class=\\\"bb_img\\\" autoplay muted loop playsinline poster=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.poster.avif?t=1786493086\\\" width=700 height=300 ><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.webm?t=1786493086\\\" type=\\\"video/webm; codecs=vp9\\\"><source src=\\\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/extras/83ece2f7635b618bee2c6dd899a13503.mp4?t=1786493086\\\" type=\\\"video/mp4\\\"></video></span></p><p class=\\\"bb_paragraph\\\" ><strong>EVERY MATCH IS UNIQUE</strong> </p><p class=\\\"bb_paragraph\\\" > </p><p class=\\\"bb_paragraph\\\" >No two battles are the same, and everything hinges on the choices you make to land, loot and survive. Drop into the Battlegrounds where victory hinges on every move and every choice, and fight to be the last one standing. </p><p class=\\\"bb_paragraph\\\" ></p><p class=\\\"bb_paragraph\\\" >Optional in-game purchases available. </p>\", \"developers\": [\"PUBG Corporation\"], \"genres\": [{\"description\": \"Action\", \"id\": \"1\"}, {\"description\": \"Adventure\", \"id\": \"25\"}, {\"description\": \"Massively Multiplayer\", \"id\": \"29\"}, {\"description\": \"Free To Play\", \"id\": \"37\"}], \"header_image\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1786493086\", \"is_free\": true, \"legal_notice\": \"© 2017 KRAFTON, Inc.<br />\\r\\nPUBG: BATTLEGROUNDS Korea and PUBG are registered trademarks or service marks of KRAFTON, Inc.\", \"linux_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"mac_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"></ul>\"}, \"movies\": [{\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/578080/149606980/a6802ac8a3cb9f85eab879f3875c8924e6fab09d/1786492554/dash_av1.mpd?t=1786493084\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/149606980/a6802ac8a3cb9f85eab879f3875c8924e6fab09d/1786492554/dash_h264.mpd?t=1786493084\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/149606980/a6802ac8a3cb9f85eab879f3875c8924e6fab09d/1786492554/hls_264_master.m3u8?t=1786493084\", \"id\": 257396880, \"name\": \"RPD\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257396880/54e9218342178f9139f19eb7fa2d0a9854b9102a/movie_600x337.jpg?t=1786493084\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/dash_av1.mpd?t=1758185160\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/dash_h264.mpd?t=1758185160\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/1309225277/08ba54c8ba10768fa42079088e766a37ae14b242/1758181273/hls_264_master.m3u8?t=1758185160\", \"id\": 257200883, \"name\": \"F2P Launch_Gameplay Trailer\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200883/f9e2395c649a8fd58596f279d40bb91fb6c2e062/movie_600x337.jpg?t=1758185160\"}, {\"dash_av1\": \"https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/dash_av1.mpd?t=1758185163\", \"dash_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/dash_h264.mpd?t=1758185163\", \"highlight\": true, \"hls_h264\": \"https://video.akamai.steamstatic.com/store_trailers/578080/614150349/196048461e79e2e3a8683186bef8b8171ccdc1a3/1758181171/hls_264_master.m3u8?t=1758185163\", \"id\": 257200879, \"name\": \"F2P Launch_Live Action Trailer\", \"thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257200879/a7545114c601065a9605c8c130521f7134e620b4/movie_600x337.jpg?t=1758185163\"}], \"name\": \"PUBG: BATTLEGROUNDS\", \"package_groups\": [], \"pc_requirements\": {\"minimum\": \"<strong>Minimum:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-4430 / AMD FX-6300<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 40 GB available space</li></ul>\", \"recommended\": \"<strong>Recommended:</strong><br><ul class=\\\"bb_ul\\\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> 64-bit Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-6600K / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 50 GB available space</li></ul>\"}, \"platforms\": {\"linux\": false, \"mac\": false, \"windows\": true}, \"publishers\": [\"KRAFTON, Inc.\"], \"ratings\": {\"csrr\": {\"rating\": \"C15\", \"required_age\": \"15\", \"use_age_gate\": \"true\"}, \"dejus\": {\"rating\": \"16\", \"required_age\": \"16\", \"use_age_gate\": \"true\"}, \"esrb\": {\"descriptors\": \"Violence\\r\\nBlood\\r\\n\\r\\nUsers Interact\", \"rating\": \"t\", \"required_age\": \"13\", \"use_age_gate\": \"true\"}, \"kgrb\": {\"descriptors\": \"폭력성\", \"rating\": \"19\", \"required_age\": \"19\", \"use_age_gate\": \"true\"}, \"nzoflc\": {\"rating\": \"ma15\", \"required_age\": \"15\", \"use_age_gate\": \"true\"}, \"oflc\": {\"rating\": \"ma15\", \"required_age\": \"15\", \"use_age_gate\": \"true\"}, \"pegi\": {\"rating\": \"16\", \"required_age\": \"16\", \"use_age_gate\": \"true\"}, \"usk\": {\"descriptors\": \"Games in this category may contain more intense violence, including depictions of combat with realistic weapons or fighting. The game might have more serious, darker themes (e.g., crime, horror, or war) and could include some blood, crude humor, or stronger language. These elements should not be overly graphic, but the violence and tension are at a level inappropriate for younger players.\", \"rating\": \"16\", \"rating_id\": \"44712/18\", \"required_age\": \"16\", \"use_age_gate\": \"true\"}}, \"recommendations\": {\"total\": 1767780}, \"release_date\": {\"coming_soon\": false, \"date\": \"Dec 21, 2017\"}, \"required_age\": \"13\", \"screenshots\": [{\"id\": 0, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c16e2f2d122cae77a1cbaca19263df0f2d2214fa/ss_c16e2f2d122cae77a1cbaca19263df0f2d2214fa.600x338.jpg?t=1786493086\"}, {\"id\": 1, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/aa1c51a9b45c88e770b443d8d3cd28f3024b0760/ss_aa1c51a9b45c88e770b443d8d3cd28f3024b0760.600x338.jpg?t=1786493086\"}, {\"id\": 2, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/bf9b3de5896d4ec7ef9531938b26946cded81fdf/ss_bf9b3de5896d4ec7ef9531938b26946cded81fdf.600x338.jpg?t=1786493086\"}, {\"id\": 3, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/faa4f9f6caa9613f07fd1193a143f66e0fac489c/ss_faa4f9f6caa9613f07fd1193a143f66e0fac489c.600x338.jpg?t=1786493086\"}, {\"id\": 4, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/3ae78fac4c07e9a2e2955286014355d6b7f3c8c7/ss_3ae78fac4c07e9a2e2955286014355d6b7f3c8c7.600x338.jpg?t=1786493086\"}, {\"id\": 5, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/eb19c1ce924ff4689105242257b6d377ffe2e264/ss_eb19c1ce924ff4689105242257b6d377ffe2e264.600x338.jpg?t=1786493086\"}, {\"id\": 6, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e4d447065171993f718cab6b5d793f1e03dda581/ss_e4d447065171993f718cab6b5d793f1e03dda581.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e4d447065171993f718cab6b5d793f1e03dda581/ss_e4d447065171993f718cab6b5d793f1e03dda581.600x338.jpg?t=1786493086\"}, {\"id\": 7, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/dfbecb503265d4ba705f7ffb60eff2460c936d70/ss_dfbecb503265d4ba705f7ffb60eff2460c936d70.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/dfbecb503265d4ba705f7ffb60eff2460c936d70/ss_dfbecb503265d4ba705f7ffb60eff2460c936d70.600x338.jpg?t=1786493086\"}, {\"id\": 8, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/78ce82886e296fcaa69a480cd4440df61846cdaf/ss_78ce82886e296fcaa69a480cd4440df61846cdaf.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/78ce82886e296fcaa69a480cd4440df61846cdaf/ss_78ce82886e296fcaa69a480cd4440df61846cdaf.600x338.jpg?t=1786493086\"}, {\"id\": 9, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/9effed8d0922ade3f36b3c2a56f2947189109d4f/ss_9effed8d0922ade3f36b3c2a56f2947189109d4f.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/9effed8d0922ade3f36b3c2a56f2947189109d4f/ss_9effed8d0922ade3f36b3c2a56f2947189109d4f.600x338.jpg?t=1786493086\"}, {\"id\": 10, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/1ab55ce84484630645bdb49b383ebaee5412391b/ss_1ab55ce84484630645bdb49b383ebaee5412391b.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/1ab55ce84484630645bdb49b383ebaee5412391b/ss_1ab55ce84484630645bdb49b383ebaee5412391b.600x338.jpg?t=1786493086\"}, {\"id\": 11, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d/ss_c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d/ss_c5fa382f8b85e7bda233d6b509c8df69bc6b1c1d.600x338.jpg?t=1786493086\"}, {\"id\": 12, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/82db9796dce882e8c290649e2ec83ff7c192807a/ss_82db9796dce882e8c290649e2ec83ff7c192807a.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/82db9796dce882e8c290649e2ec83ff7c192807a/ss_82db9796dce882e8c290649e2ec83ff7c192807a.600x338.jpg?t=1786493086\"}, {\"id\": 13, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/0c413195bade2cd40986983d38a4f3f0275571ba/ss_0c413195bade2cd40986983d38a4f3f0275571ba.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/0c413195bade2cd40986983d38a4f3f0275571ba/ss_0c413195bade2cd40986983d38a4f3f0275571ba.600x338.jpg?t=1786493086\"}, {\"id\": 14, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/039c1ff93107647bd109df516b479be7cd94e6d5/ss_039c1ff93107647bd109df516b479be7cd94e6d5.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/039c1ff93107647bd109df516b479be7cd94e6d5/ss_039c1ff93107647bd109df516b479be7cd94e6d5.600x338.jpg?t=1786493086\"}, {\"id\": 15, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e000f6c95fd78f8c4e009ff5c7bf486b74eb9423/ss_e000f6c95fd78f8c4e009ff5c7bf486b74eb9423.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e000f6c95fd78f8c4e009ff5c7bf486b74eb9423/ss_e000f6c95fd78f8c4e009ff5c7bf486b74eb9423.600x338.jpg?t=1786493086\"}, {\"id\": 16, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/a2236e8d90db3645bd13ef451b24fc5ec7afb826/ss_a2236e8d90db3645bd13ef451b24fc5ec7afb826.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/a2236e8d90db3645bd13ef451b24fc5ec7afb826/ss_a2236e8d90db3645bd13ef451b24fc5ec7afb826.600x338.jpg?t=1786493086\"}, {\"id\": 17, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/01dfa3ae5449218b17d6d04229dfed681fc377db/ss_01dfa3ae5449218b17d6d04229dfed681fc377db.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/01dfa3ae5449218b17d6d04229dfed681fc377db/ss_01dfa3ae5449218b17d6d04229dfed681fc377db.600x338.jpg?t=1786493086\"}, {\"id\": 18, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/d874034ce52876c300ce9a97aaee57497347b6ab/ss_d874034ce52876c300ce9a97aaee57497347b6ab.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/d874034ce52876c300ce9a97aaee57497347b6ab/ss_d874034ce52876c300ce9a97aaee57497347b6ab.600x338.jpg?t=1786493086\"}, {\"id\": 19, \"path_full\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae/ss_e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae.1920x1080.jpg?t=1786493086\", \"path_thumbnail\": \"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae/ss_e72fbd8d51fb1da13ef14097f1ef20a3fe4b99ae.600x338.jpg?t=1786493086\"}], \"short_description\": \"PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.\", \"steam_appid\": 578080, \"support_info\": {\"email\": \"\", \"url\": \"https://support.pubg.com/hc/en-us\"}, \"supported_languages\": \"English, Korean, Simplified Chinese, French, German, Spanish - Spain, Arabic, Japanese, Polish, Portuguese - Portugal, Russian, Turkish, Thai, Italian, Portuguese - Brazil, Traditional Chinese, Ukrainian\", \"type\": \"game\", \"website\": \"https://www.pubg.com\"}",
+          "normalized_text": null,
+          "language": null,
+          "published_at": null,
+          "retrieved_at": "2026-10-03T03:38:39.334091Z",
+          "run_id": "run_voice_20261003T033738Z",
+          "query_id": null,
+          "matched_alias_ids": [],
+          "retrieval_method": "api",
+          "relevance_label": "relevant",
+          "relevance_score": 1.0,
+          "relevance_reasons": [
+            "official or platform-store fact source"
+          ],
+          "relevance_method_version": "fact-layer-v1",
+          "recommended": null,
+          "rating": null,
+          "rating_scale": null,
+          "engagement": null,
+          "reply_count": null,
+          "playtime_hours": null,
+          "platform": "steam",
+          "hardware_context": null,
+          "version_context": null,
+          "source_metadata": {},
+          "provenance": {
+            "source_class": "platform_store",
+            "collector_version": "fact-layer-v1",
+            "terms_or_permission_reference": null,
+            "content_checksum": "56cc3ed954b23111495047f6049738c9561c2fee7b49a3d3037ef6f9b4dcea6e",
+            "raw_snapshot_reference": null,
+            "contains_personal_data": false,
+            "redaction_status": "not_required"
+          }
+        }
+      ],
+      "warnings": []
+    },
+    "stage_warnings": []
+  },
+  "query_plans": [
+    {
+      "query_id": "query_8f6acb6e6d2e20bd337e",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "steam_app:578080 intent:general",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_ee3265a673f3b5989b52",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "steam_app:578080 intent:performance",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_3fbee1e234d4d76de25b",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "steam_app:578080 intent:bugs",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_290cc11b616dc0d8d36b",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "steam",
+      "language": "zh-CN",
+      "intent": "update",
+      "query_text": "steam_app:578080 intent:update",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "review",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_d39351475bc82fbe6f29",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "PUBG: BATTLEGROUNDS",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_2a8bc3ceea0a2727927c",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "PUBG: BATTLEGROUNDS 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_30be8214f3d9f954df3d",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "PUBG: BATTLEGROUNDS 漏洞 闪退",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_72e4a41c32daf0dd993a",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "bilibili",
+      "language": "zh-CN",
+      "intent": "update",
+      "query_text": "PUBG: BATTLEGROUNDS 更新",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "video",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_1eea701b969f9e57031a",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "general",
+      "query_text": "\"PUBG: BATTLEGROUNDS\"",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_7b446f80351f22d0c5fe",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "performance",
+      "query_text": "\"PUBG: BATTLEGROUNDS\" 性能 帧率 卡顿",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_35000ee152d7c7628b75",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "bugs",
+      "query_text": "\"PUBG: BATTLEGROUNDS\" 漏洞 闪退",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    },
+    {
+      "query_id": "query_b5b8abb816baa73f6110",
+      "run_id": "run_voice_20261003T033738Z",
+      "game_id": "game_steam_578080",
+      "source": "reddit",
+      "language": "zh-CN",
+      "intent": "update",
+      "query_text": "\"PUBG: BATTLEGROUNDS\" 更新",
+      "alias_ids": [
+        "alias_52a2c12f37ff40eba37d"
+      ],
+      "disambiguators": [],
+      "expected_evidence_kind": "post",
+      "generated_at": "2026-10-03T03:38:39.338243Z"
+    }
+  ],
+  "source_execution": {
+    "bilibili": {
+      "source": "bilibili",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 1,
+      "failed_queries": 3,
+      "raw_items": 3,
+      "excluded": {},
+      "statuses": {
+        "unavailable": 3,
+        "collected": 1
+      },
+      "errors": [
+        "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">",
+        "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%BC%8F%E6%B4%9E+%E9%97%AA%E9%80%80&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">",
+        "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%9B%B4%E6%96%B0&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">"
+      ]
+    },
+    "reddit": {
+      "source": "reddit",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 0,
+      "failed_queries": 4,
+      "raw_items": 0,
+      "excluded": {},
+      "statuses": {
+        "unavailable": 4
+      },
+      "errors": [
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET",
+        "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+      ]
+    },
+    "steam": {
+      "source": "steam",
+      "generated_queries": 4,
+      "attempted_queries": 4,
+      "successful_queries": 4,
+      "failed_queries": 0,
+      "raw_items": 40,
+      "excluded": {},
+      "statuses": {
+        "collected": 4
+      },
+      "errors": []
+    }
+  },
+  "raw_community_items": 43,
+  "relevance_counts": {
+    "irrelevant": 3,
+    "relevant": 40
+  },
+  "corpus": {
+    "run": {
+      "run_id": "run_voice_20261003T033738Z",
+      "request_hash": "8ccbb2dda58be202113382e185721ba6153bcc901bc99a4f028f9dc8fe65ce31",
+      "game_ids": [
+        "game_steam_578080"
+      ],
+      "query_plans": [
+        {
+          "query_id": "query_8f6acb6e6d2e20bd337e",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "steam_app:578080 intent:general",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_ee3265a673f3b5989b52",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "steam_app:578080 intent:performance",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_3fbee1e234d4d76de25b",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "steam_app:578080 intent:bugs",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_290cc11b616dc0d8d36b",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "steam",
+          "language": "zh-CN",
+          "intent": "update",
+          "query_text": "steam_app:578080 intent:update",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "review",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_d39351475bc82fbe6f29",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "PUBG: BATTLEGROUNDS",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_2a8bc3ceea0a2727927c",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "PUBG: BATTLEGROUNDS 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_30be8214f3d9f954df3d",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "PUBG: BATTLEGROUNDS 漏洞 闪退",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_72e4a41c32daf0dd993a",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "bilibili",
+          "language": "zh-CN",
+          "intent": "update",
+          "query_text": "PUBG: BATTLEGROUNDS 更新",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "video",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_1eea701b969f9e57031a",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "general",
+          "query_text": "\"PUBG: BATTLEGROUNDS\"",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_7b446f80351f22d0c5fe",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "performance",
+          "query_text": "\"PUBG: BATTLEGROUNDS\" 性能 帧率 卡顿",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_35000ee152d7c7628b75",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "bugs",
+          "query_text": "\"PUBG: BATTLEGROUNDS\" 漏洞 闪退",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        },
+        {
+          "query_id": "query_b5b8abb816baa73f6110",
+          "run_id": "run_voice_20261003T033738Z",
+          "game_id": "game_steam_578080",
+          "source": "reddit",
+          "language": "zh-CN",
+          "intent": "update",
+          "query_text": "\"PUBG: BATTLEGROUNDS\" 更新",
+          "alias_ids": [
+            "alias_52a2c12f37ff40eba37d"
+          ],
+          "disambiguators": [],
+          "expected_evidence_kind": "post",
+          "generated_at": "2026-10-03T03:38:39.338243Z"
+        }
+      ],
+      "code_version": "0.4",
+      "config_version": "voice-slice-v1",
+      "taxonomy_version": "1.1.0",
+      "started_at": "2026-10-03T03:39:39.308892Z",
+      "ended_at": "2026-10-03T03:39:39.308895Z",
+      "source_status": {
+        "bilibili": {
+          "status": "partial",
+          "queries_attempted": 4,
+          "items_retrieved": 3,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 3,
+          "duplicates": 0,
+          "error_code": "collection_error",
+          "reason": "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%BC%8F%E6%B4%9E+%E9%97%AA%E9%80%80&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%9B%B4%E6%96%B0&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">"
+        },
+        "reddit": {
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        "steam": {
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "error_code": null,
+          "reason": null
+        },
+        "official": {
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "error_code": null,
+          "reason": null
+        }
+      }
+    },
+    "upsert": {
+      "received": 44,
+      "inserted": 24,
+      "updated": 20,
+      "duplicates": 20,
+      "likely_cross_posts": 2
+    },
+    "snapshot_references": [
+      "public/run_voice_20261003T033738Z/bilibili.jsonl",
+      "public/run_voice_20261003T033738Z/steam.jsonl"
+    ],
+    "relevant_items": 40,
+    "ambiguous_items": 0,
+    "irrelevant_items": 3,
+    "pending_items": 0
+  },
+  "annotation_count": 20,
+  "annotations_path": "examples/e2e/pubg-battlegrounds/annotations.jsonl",
+  "insights": {
+    "game_id": "game_steam_578080",
+    "run_id": "run_voice_20261003T033738Z",
+    "layer": "player_evidence",
+    "engine_version": "insight-engine-v1",
+    "player_insights": [
+      {
+        "insight_id": "insight_b0009014170d352ac2dc",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "research_gap",
+        "statement": "11 relevant evidence item(s) remain unclassified and need taxonomy review.",
+        "taxonomy_nodes": [
+          "other_unclassified"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_04529a1e2fcd46bdf814",
+          "ev_20be927e0294398eb76c",
+          "ev_227b24fade48c22f9655",
+          "ev_2633dcaba231aeda6a90",
+          "ev_26b6cd199aca6893a165",
+          "ev_384b959c8e823e205d16",
+          "ev_4d09d01f7e517c1e98de",
+          "ev_80a1a7132fad2687e5fe",
+          "ev_9052a5f8d1778708308f",
+          "ev_90ba3a1949eb63aa9bbe",
+          "ev_f63a74f8afbca4051100"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 11,
+          "sources": {
+            "steam": 11
+          },
+          "languages": {
+            "zh-CN": 11
+          },
+          "date_start": "2026-10-01T20:12:54+00:00",
+          "date_end": "2026-10-03T03:05:36+00:00",
+          "sentiment_positions": {
+            "positive": 11
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 11
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "No reliable topic assignment was available."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_bf7522dcf9ea6111b5e9",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 5 evidence item(s) report negative experiences related to fair_play_integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.9,
+        "supporting_evidence_ids": [
+          "ev_55d9d2a6369b7757f5a5",
+          "ev_5a6a74fd356c76f1640c",
+          "ev_7262b3c1678ca794c2c5",
+          "ev_75f075da1f3b258bcad5",
+          "ev_cdf14476e46b9ea4c72c"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 5,
+          "sources": {
+            "steam": 5
+          },
+          "languages": {
+            "zh-CN": 5
+          },
+          "date_start": "2026-10-02T00:26:48+00:00",
+          "date_end": "2026-10-03T02:28:56+00:00",
+          "sentiment_positions": {
+            "negative": 5
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 5
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "high",
+          "components": {
+            "volume": {
+              "count": 5,
+              "score_0_to_3": 3
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": 11.0,
+              "score_0_to_3": 3,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 10,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_bb52e5ae72945d082241",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about bugs_stability.",
+        "taxonomy_nodes": [
+          "bugs_stability"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_e657a760ceed13b4ea97"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-03T02:24:53+00:00",
+          "date_end": "2026-10-03T02:24:53+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_07d49b43d88bc381dd29",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to difficulty.",
+        "taxonomy_nodes": [
+          "difficulty"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_01883a372fdec77a4c5a"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-01T23:02:26+00:00",
+          "date_end": "2026-10-01T23:02:26+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 5,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_f903b01a0b3333fa3230",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about gacha.",
+        "taxonomy_nodes": [
+          "gacha"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_e48c6137fe0de8a6b29a"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-01T22:32:01+00:00",
+          "date_end": "2026-10-01T22:32:01+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_d34c56dd2162d28f9c4e",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "praise",
+        "statement": "In this collected sample, 1 evidence item(s) express positive views about monetisation.",
+        "taxonomy_nodes": [
+          "monetisation"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2623045316461bffb5aa"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-03T02:15:37+00:00",
+          "date_end": "2026-10-03T02:15:37+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": null,
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_489ce58053d7228be010",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "complaint",
+        "statement": "In this collected sample, 1 evidence item(s) report negative experiences related to performance.",
+        "taxonomy_nodes": [
+          "performance"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_7262b3c1678ca794c2c5"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-02T01:45:57+00:00",
+          "date_end": "2026-10-02T01:45:57+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 5,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": null,
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_5c82f58daa482e863fbf",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: fair and trustworthy match integrity.",
+        "taxonomy_nodes": [
+          "fair_play_integrity"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_5a6a74fd356c76f1640c"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-02T00:26:48+00:00",
+          "date_end": "2026-10-02T00:26:48+00:00",
+          "sentiment_positions": {
+            "negative": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "medium",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 1.0,
+              "score_0_to_3": 3
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 5,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      },
+      {
+        "insight_id": "insight_426257a8f175d17d9046",
+        "scope_type": "game",
+        "scope_ids": [
+          "game_steam_578080"
+        ],
+        "mode": "analyst",
+        "insight_type": "opportunity",
+        "statement": "Inferred opportunity to investigate: transparent and fair value.",
+        "taxonomy_nodes": [
+          "monetisation"
+        ],
+        "confidence": 0.58,
+        "supporting_evidence_ids": [
+          "ev_2623045316461bffb5aa"
+        ],
+        "challenging_evidence_ids": [],
+        "context_evidence_ids": [],
+        "sample_scope": {
+          "evidence_count": 1,
+          "sources": {
+            "steam": 1
+          },
+          "languages": {
+            "zh-CN": 1
+          },
+          "date_start": "2026-10-03T02:15:37+00:00",
+          "date_end": "2026-10-03T02:15:37+00:00",
+          "sentiment_positions": {
+            "positive": 1
+          },
+          "sentiment_methods": {
+            "source_native_recommendation": 1
+          },
+          "filters": {
+            "relevance": "relevant",
+            "access_scope": "public"
+          }
+        },
+        "uncertainty": [
+          "Public community evidence is self-selected and not population-representative.",
+          "Sentiment is source-native where available and otherwise inferred by transparent lexical rules.",
+          "This opportunity is inferred from pain points, not an explicit solution request."
+        ],
+        "priority": {
+          "label": "low",
+          "components": {
+            "volume": {
+              "count": 1,
+              "score_0_to_3": 1
+            },
+            "negative_share": {
+              "value": 0.0,
+              "score_0_to_3": 0
+            },
+            "momentum": {
+              "value": null,
+              "score_0_to_3": 0,
+              "window_days": 30
+            },
+            "source_breadth": {
+              "represented_collected_sources": [
+                "steam"
+              ],
+              "eligible_collected_sources": [
+                "bilibili",
+                "official",
+                "steam"
+              ],
+              "score_0_to_3": 1
+            }
+          },
+          "total_0_to_12": 2,
+          "disclaimer": "Triage decision support from observed evidence volume, negative share, momentum, and source breadth; not a causal effect or population-prevalence estimate."
+        },
+        "opportunity_origin": "inferred_need",
+        "generated_at": "2026-10-03T13:53:46.650775Z"
+      }
+    ],
+    "facts": [
+      {
+        "fact_id": "fact_4c39f72974246b9bfa7e",
+        "game_id": "game_steam_578080",
+        "fact_type": "title",
+        "value": {
+          "language": "en",
+          "title": "PUBG: BATTLEGROUNDS"
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_5f13b9896b0ce26470fa",
+        "game_id": "game_steam_578080",
+        "fact_type": "developer",
+        "value": "PUBG Corporation",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_01dff826ac0d832b41a2",
+        "game_id": "game_steam_578080",
+        "fact_type": "publisher",
+        "value": "KRAFTON, Inc.",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_f7c92ad91c6b3138b973",
+        "game_id": "game_steam_578080",
+        "fact_type": "release_date",
+        "value": {
+          "date": "Dec 21, 2017",
+          "coming_soon": false
+        },
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_93a4e907d1d186677b14",
+        "game_id": "game_steam_578080",
+        "fact_type": "platform_support",
+        "value": true,
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_1bfca3d4efd0de7befad",
+        "game_id": "game_steam_578080",
+        "fact_type": "minimum_requirements",
+        "value": "Minimum:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-4430 / AMD FX-6300\nMemory: 8 GB RAM\nGraphics: NVIDIA GeForce GTX 960 2GB / AMD Radeon R7 370 2GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 40 GB available space",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_b6f24cc8bff986350e77",
+        "game_id": "game_steam_578080",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "minimum",
+          "amount": 40.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_b00ad0101379085c00de",
+        "game_id": "game_steam_578080",
+        "fact_type": "recommended_requirements",
+        "value": "Recommended:\nRequires a 64-bit processor and operating system\nOS: 64-bit Windows 10\nProcessor: Intel Core i5-6600K / AMD Ryzen 5 1600\nMemory: 16 GB RAM\nGraphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 580 4GB\nDirectX: Version 11\nNetwork: Broadband Internet connection\nStorage: 50 GB available space",
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_3c7d8b55699c20a3d62e",
+        "game_id": "game_steam_578080",
+        "fact_type": "storage_requirement",
+        "value": {
+          "tier": "recommended",
+          "amount": 50.0
+        },
+        "unit": "GB",
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": "Windows",
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      },
+      {
+        "fact_id": "fact_218ad5dbc5a3670e30d6",
+        "game_id": "game_steam_578080",
+        "fact_type": "supported_languages",
+        "value": [
+          "English",
+          "Korean",
+          "Simplified Chinese",
+          "French",
+          "German",
+          "Spanish - Spain",
+          "Arabic",
+          "Japanese",
+          "Polish",
+          "Portuguese - Portugal",
+          "Russian",
+          "Turkish",
+          "Thai",
+          "Italian",
+          "Portuguese - Brazil",
+          "Traditional Chinese",
+          "Ukrainian"
+        ],
+        "unit": null,
+        "valid_from": null,
+        "valid_to": null,
+        "territory": "US",
+        "platform": null,
+        "source_evidence_id": "ev_d0ef29dfb39c8f275751",
+        "source_authority": "platform_store",
+        "verification_status": "verified",
+        "confidence": 0.95,
+        "retrieved_at": "2026-10-03T03:38:39.334091Z"
+      }
+    ],
+    "coverage": {
+      "game_id": "game_steam_578080",
+      "run_id": "run_voice_20261003T033738Z",
+      "sources": [
+        {
+          "source": "bilibili",
+          "status": "partial",
+          "queries_attempted": 4,
+          "items_retrieved": 3,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 3,
+          "duplicates": 0,
+          "date_start": "2026-09-14T16:42:28Z",
+          "date_end": "2026-10-02T04:44:31Z",
+          "languages": {
+            "zh-CN": 3
+          },
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%BC%8F%E6%B4%9E+%E9%97%AA%E9%80%80&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">; HTTP 412 for https://api.bilibili.com/x/web-interface/search/type?search_type=video&keyword=PUBG%3A+BATTLEGROUNDS+%E6%9B%B4%E6%96%B0&page=1&page_size=20: <!DOCTYPE html>\n<html lang=\"zh-cn\">\n\n<head>\n    <meta http-equiv=\"Access-Control-Allow-Origin\" content=\"*\" />\n    <meta http-equiv=\"Page-Enter\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Page-Exit\" content=\"blendTrans(Duration=0.5)\">\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0\">\n    <meta name=\"spm_prefix\" content=\"333.937\">"
+        },
+        {
+          "source": "official",
+          "status": "collected",
+          "queries_attempted": 1,
+          "items_retrieved": 1,
+          "items_relevant": 1,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {
+            "unknown": 1
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        },
+        {
+          "source": "reddit",
+          "status": "unavailable",
+          "queries_attempted": 4,
+          "items_retrieved": 0,
+          "items_relevant": 0,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 0,
+          "date_start": null,
+          "date_end": null,
+          "languages": {},
+          "exclusions": {},
+          "error_code": "collection_error",
+          "reason": "Reddit credentials missing: set REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET"
+        },
+        {
+          "source": "steam",
+          "status": "collected",
+          "queries_attempted": 4,
+          "items_retrieved": 40,
+          "items_relevant": 40,
+          "items_ambiguous": 0,
+          "items_irrelevant": 0,
+          "duplicates": 20,
+          "date_start": "2026-10-01T20:12:54Z",
+          "date_end": "2026-10-03T03:05:36Z",
+          "languages": {
+            "zh-CN": 20
+          },
+          "exclusions": {},
+          "error_code": null,
+          "reason": null
+        }
+      ],
+      "total_evidence": 24,
+      "relevant_corpus_size": 20,
+      "languages": {
+        "unknown": 1,
+        "zh-CN": 23
+      },
+      "date_start": "2026-09-14T16:42:28Z",
+      "date_end": "2026-10-03T03:05:36Z",
+      "excluded_from_analysis": {
+        "irrelevant": 3
+      },
+      "generated_at": "2026-10-03T13:53:46.650775Z"
+    },
+    "annotation_count": 20,
+    "generated_at": "2026-10-03T13:53:46.650775Z"
+  },
+  "evidence_store_path": "examples/e2e/pubg-battlegrounds/evidence.sqlite3",
+  "report_path": "examples/e2e/pubg-battlegrounds/evidence_report.md",
+  "warnings": []
+}

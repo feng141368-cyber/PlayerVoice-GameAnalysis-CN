@@ -1,0 +1,50 @@
+{
+  "review_type": "stratified non-model audit of live retrieval",
+  "reviewed_at": "2026-10-03T00:00:00Z",
+  "method": "Evidence text, parent title, source identity, and target canonical game were inspected outside the relevance scorer. This is an execution review, not an independent third-party human benchmark.",
+  "summary": {
+    "reviewed_items": 30,
+    "predicted_relevant_reviewed": 18,
+    "predicted_relevant_confirmed": 18,
+    "corpus_inclusion_precision": 1.0,
+    "manual_relevant_yield_over_stratified_sample": 0.6,
+    "three_way_label_agreement": 0.9,
+    "false_positive_corpus_inclusions": 0,
+    "conservative_irrelevant_that_manual_review_marked_ambiguous": 3,
+    "live_ambiguous_predictions": 0
+  },
+  "samples": [
+    {"game": "Infinity Nikki", "evidence_id": "ev_09a089defc36b773b2fc", "source": "bilibili", "predicted": "relevant", "manual": "relevant", "reason": "Parent title explicitly names 无限暖暖; comment discusses a PC crash."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_11ad763b872bfc52b109", "source": "bilibili", "predicted": "relevant", "manual": "relevant", "reason": "Parent title explicitly names 无限暖暖 and version 2.10."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_2b48b9cc8f39ba407a56", "source": "bilibili", "predicted": "relevant", "manual": "relevant", "reason": "Parent title explicitly names 无限暖暖; comment discusses ray-tracing crashes."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_0f131e4cbbeb7e4e4148", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 3164330."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_229f5f8a617d92f761d9", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 3164330; content discusses outfits and story."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_2a50adf719624154de4b", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 3164330 and explicitly names 无限暖暖."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_50449eab32adf5dfd391", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 3164330; reports PC optimisation/heat."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_94924ba3fbcc0afbb5fa", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Parent title explicitly concerns DNF, a competing game."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_b633d51b4a203560e10b", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Parent title and comment explicitly concern DNF."},
+    {"game": "Infinity Nikki", "evidence_id": "ev_6b86500ad57425d8440d", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Darkglass Infinity product discussion is unrelated to the target game."},
+
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_01883a372fdec77a4c5a", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_2623045316461bffb5aa", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; discusses the publisher and loot boxes."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_55d9d2a6369b7757f5a5", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; reports server and anti-cheat issues."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_75f075da1f3b258bcad5", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; reports cheating and bans."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_e48c6137fe0de8a6b29a", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; discusses game enjoyment and spending withdrawal."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_e657a760ceed13b4ea97", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; requests crash fixes."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_4d09d01f7e517c1e98de", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 578080; describes battle royale gameplay."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_317c63f6ff2b4eaadbf6", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Generic performance video/comment with no PUBG identity evidence."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_6984f1891660526806af", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Generic antialiasing/FPS discussion with no PUBG identity evidence."},
+    {"game": "PUBG: BATTLEGROUNDS", "evidence_id": "ev_a7b1d55bde5d38da6242", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Generic sensitivity discussion with no PUBG identity evidence."},
+
+    {"game": "Counter-Strike 2", "evidence_id": "ev_1677bfc8629c8dcd72c6", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 730."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_66416fb650db27480d27", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 730; discusses new-player difficulty."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_a22edf906b61b83269cd", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 730; discusses gameplay and player interaction."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_f74b5a0c988d870e87fb", "source": "steam", "predicted": "relevant", "manual": "relevant", "reason": "Retrieved from canonical Steam app 730."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_73e83021105235f1e9ec", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Parent title explicitly concerns Ghost Recon Breakpoint."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_80578589e55b6f170259", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Comment discusses Ghost Recon Breakpoint/Vulkan, not CS2."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_a2f2e5064c7534cfcca3", "source": "bilibili", "predicted": "irrelevant", "manual": "irrelevant", "reason": "Comment discusses Ghost Recon Breakpoint drivers, not CS2."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_0697ef12b22ace97a174", "source": "bilibili", "predicted": "irrelevant", "manual": "ambiguous", "reason": "Parent says CS and discusses FPS, but does not establish Counter-Strike 2 rather than another CS version."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_69c082dcd26f4afdd619", "source": "bilibili", "predicted": "irrelevant", "manual": "ambiguous", "reason": "Very short reply under a CS-titled video; insufficient target-game identity."},
+    {"game": "Counter-Strike 2", "evidence_id": "ev_a5dce28c83604ceea9aa", "source": "bilibili", "predicted": "irrelevant", "manual": "ambiguous", "reason": "CS performance context is plausible, but CS2 identity is not explicit."}
+  ]
+}
